@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-02T12:59:24-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Relato Xoqoneb'.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Relato Xoqoneb'.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:0bd03510-9247-4915-8476-dbc9edb951de</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">119</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1485"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="11410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="11710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="23100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="23810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="34000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="34185"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="45010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="45085"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="56010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="56500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="68510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="69210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="80500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="80710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="90990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="91320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="103490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="103900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="115210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="115990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="128990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="129600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="141610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="142490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="154280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="154800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="166810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="167480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="178010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="178400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="190110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="190710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="200200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="201000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="216900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="220000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="230890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="231325"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="243320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="243625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="253000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="253590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="263500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="263665"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="274010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="274410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="286810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="287140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="297810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="297890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="307410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="307800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="317490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="317890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="329010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="329510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="340590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="341110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="352010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="352290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="364800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="365000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="374010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="374335"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="384990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="385110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="397400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="398290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="408000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="408220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="420000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="420490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="428890"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="M.D.V" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> K'amtzáwch ataq qawáxk, k'om jun rtziil áwchaq, re loq'laj q'iij ri inyoloow chrij ajxojooj. Ójr taq tziij inmaam tjyol taq chqe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> eeeh wi' jun wnaq eh jgan tixojówk, re eh wnaq li kita' &lt;j-'eh&gt;jpwaq re tjloq' jun rtz'yaq, ¿nen xan chki' jun q'iij jun wnaq li? xk'om b'i jklob'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> xk'om b'i qleen re, xe' l sii', eh wnaq li xrne' jsii' eh Xoqoneb' tb'ijsaj re loq'laj wiitz, kla' li re re tb'ison,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>  sub'laj tb'ison kita' jpwaq t-'e re xojooj, li kaxlan tb'ij taq re: baile mexicano, ya sea de Conquista, eh loq'laj wnaq li eh   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>  tb'ison kita' kare' nemo tjloq' jpwaq, xo'l maq, maq nimaq taq ab'aj wi', wi' l wiitz Xoqoneb', xeelch jun ra &lt;k'xo&gt;, jun ra saq k'xol,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> tb'ij re ¿nen chak atb'isónk? wunaq ri xij re: inb'isónk, kita' inpwaq, kita' inchaak, &lt;j&gt;iin juert, sub'laj t-'eel wánm in'eel re jun xjooj, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> loq'laj a saq k'xol li xij re: wane' chawaj at-'eel l xojooj, chwaj inyoloow ák'l, xye' ni'j eh, ni'j taq ra qleen re y xij re: ¿nen rechaq </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> chawaj tacha'w? xpe wunaq li xchá'wk ri jun ra wiitz y xij re: ¿tzi' li!, oj'okoq neri il  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> sub' ra saq k'xol ta' ka'x rokik xan b'i la' ra wiitz li, xook b'ik y wnaq &lt;x&gt;xterenb' chrij, xook taq loq'laj wiitz li, ri' chaq tril wnaq eh  eh xpe ra saq k'xol, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> xk'ut ni'j atz'yaq, sub'laj nimaq taq atz'yaq, tjululúk, tijululúnk, y wunaq xij re: wane' aat chawaj takoj man atz'yaq li, koja' </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> koja' y at-'eel l xjooj; ruk'u li tinb'ij jun qleen chawe, kita' chwaji'n tayol, wane'n ta'w chawe &lt;lama&gt; &lt;loq', x&gt;  ¿lamas xame'w loq'laj atz'yaq? ta' tab'ij nen xyo'w chawe. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> Jinon li loq'laj wnaq sub'laj content xqejch, xtawk k'i jpach, xaq re re qe k'ak' rtz'yaq y xta' taq re ¿lamas xame'w apwaq xaloq' man k'ak' laj atz'yaq li?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>  eh ¿nen chki' xij aj wunaq? re xij: eh ji' xinme' jli, xaq jnon qe li xij re y rechaq tjta' taq: ¿lamas kixjme' loq'laj atz'yaq?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> y jinon li, com nimq'iij wi' taq, loq'laj nimq'iij li xye'saj awryent y rechaq eh qus rik'aj taq xq'ab'érk eh wnaq li, xye' taq más awryent re</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> y xq'ab'rsaj taq, jin tjta' taq re y loq'laj wnaq ta' tjb'ij lamas xjkame' atz'yaq, xq'ab'rsaj taq, xq'ab'rsaj taq, hasta que xkwin taq chi jresaj  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> nen re o lamas &lt;k'&gt;xkame' atz'yaq y loq'laj wunaq li laj q'ab'erik xyólk lamas xjme'w loq'laj atz'yaq li, xij rechaq: iin xink'ul jun ra &lt;n&gt;saq k'xol, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> xinajkom b'i la' wiitz re Xoqoneb', kla' li xye'ch maq nimaq taq atz'yaq chwe xinkoj, jwi'l k'u li &lt;xin&gt;xin'eel ák'laq l xjooj.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> Y jnon k'u li xpe rtzal ra saq k'xol, le teew kyaq' xpe rtzal, xmaj juntiir qleen re y nemo jb'anik wnaq xtaw chk'amik sii', jino jb'anik xkajye' chik, kla' qe taw intziij. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> Jinon chik, wi' k'ii chik wiich taq ra saq k'xol, wi' chi na jun chik xan ójr, jinon li tyol taq, eh wi' chik jun ra saq k'xol xk'ul kiib' wunaq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> xta' rechaq eh ¿las atb'e'w taq? loq'laj wnaq li ta', ta' jchaakaq, kita' nen tjye' rech rch'ixiikaq re tijwaa, ta'j, ta' jun qleen tye' rechaq taq ra rlk'uwal</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>  xpe loq'laj saq k'xol li chrij calvario, che' taq re, kla' xta'w rib'aq, y xij re: ¿nen chki' chawaj taq ataq lajori? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> ooj chqaj qachaak che' loq'laj taq wnaq re ra saq k'xol, xpe loq'laj saq k'xol li xye' jun mulaj de llaves rechaq, xij rechaq:</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>  xtzuj llave, xtzuj kuchiil y ni'j qleen chik ¿nen chki' chawaj tak'om taq? xan taq maq kiib' wunaq li rechaq xcha' taq llave che',  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> xwi' nika li jun ra saq k'xol el rey che' taq y re re rójw pwaq, xij re: wane' aat xata' taq loq'laj llave, uka' laq'ab' ojelq'anoq che' taq re;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>  xk'am taq loq'laj llave li xpe taq, xoksan aq'ab' xij taq re: tqawersaj maq ajchákb', tqawersaj taq, jinon li tqawersaj tinmit,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE> kita' qleen tjta' taq con oj-'ook b'i le jaa' rech kolb'el pwaq, xpe rechaq xk'am taq y xtik taq &lt;cae&gt; kyeq candela, xta' taq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE> re &lt;loq'sa&gt; loq'laj rey, kita' qleen &lt;tj&gt;, ta' bulla tran taq y jinon li xpe taq chi elaq', xook taq li li </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE> k'olb'el pwaq, banco tb'ijsal re le kaxlan, xook taq chi relq'aj pwaq, nemaq taq pwaq xrelq'aj taq b'ik kla'; jino li xeel taq y saqrsan chki'n </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE> eh xtaw taq rójw maq bancos, kita' chki' pwaq, xook taq il re, xya' taq b'ixk rech eh ajchjal re qatinmit,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE> jinon li xtaw taq, kita' chki' nen tran taq re, ta' rtam taq nen xelq'an taq, la jkaab' aq'ab' chik, xta' chki' rib'aq, xmulaj rib'aq chi calvario tra saq k'xol</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE> inon kiib' wnaq, ri' rechaq xjach taq loq'laj pwaq re jpach, nimaq taq poq xrelq'aj taq b'ik y jinon li xij ra saq k'xol rechaq: ma b'ij taq lamas xak'ame' taq pwaq,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE> wane' tayol taq lamas xame' taq pwoq, atinq'asaj taq chik nimo ab'anikaq, xpe taq li rechaq xk'om taqch nimaq taq pwaq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>  xjach taq chik, &lt;x&gt;xan taq eh nimaq taq k'ay rechaq, xloq' taq nimaq taq almacén, y jinon li rechaq ta' tjyol taq, jun welt chik xtaw chi jun wnaq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE> jinon li kita' jchaak, xta' rechaq que lames xjme' nimaq taq pwaq, y ¿nin chak xsaqar jun q'iij chik wi' taq chaq ajpuwaqaq, wi' taq chaq ruleewaq' xloq' rechaq juntiir lo que rechaq raj taq,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE> y jinon li loq'laj wnaq ta' xq'iw jyólj, ta' xq'iw, xyol rechaq lamas xjme'w loq'laj pwaq, ta naj xtij</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE> jun xmaan cabal qas jyolik, cuando xpe chki'n rtzal ra, ra saq k'xol, xmaj juntiir rechaq li teew kyeq', juntiir lo que pwaq xrelq'aj taqch</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE> xmaj rechaq, xka'eel taq chik como jb'anikaq ójr, kita' qleen rechaq. Xaqe li, k'omo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez " LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="M.D.V" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Buena tarde a todos ustedes mi gente, reciban un cordial saludo, en este día hablaré sobre los bailadores. Antes mi abuelo nos contaban</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> eh había un hombre eh que le gustaba bailar, pero ese hombre no tenía dinero para comprarse un traje ¿qué hizo un día ese hombre? se llevó su lazo </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> se llevó sus cosas, se fue a leñar, eh ese hombre fue a hacer leña eh a Xoqoneb' le dicen al sagrado cerro, ahí él se sentía triste,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> estaba muy triste porque no tenía dinero para salir en el baile, en español le dicen: baile mexicano, ya sea de Conquista, eh ese hombre eh</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> se entristecía al no tener como comprar su traje, entre las enormes piedras que hay en el cerro Xoqoneb', salió un duende rojo,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> y le pregunta ¿por qué estás triste? este hombre le dijo: estoy triste porque no tengo dinero, no tengo trabajo, yo deseo fuertemente en el alma salir en un baile,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> el duende le dijo: sí queres salir en el baile, quiero hablar con vos, le dio algunos, algunas cosas y le preguntó: ¿cuál de estos </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> queres escoger? el hombre eligió el del cerro y le dijo: ¡esta bien! entremos aqui mira,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> el duende no le costó entrar a ese cerro, entró y el hombre lo siguió, entraron al cerro sagrado, cuando se dio cuenta el hombre eh vino el duende  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> le enseñó algunos trajes, unos enormes trajes, que ¡brillaban!, ¡brillaban! y el hombre dijo; sí, queres usar ese traje, utilizalo,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE> utilizalo y participa en el baile; con eso te digo una cosa, no quiero que lo contes, sí alguien te pregunta ¿dónde fuiste a traer el traje? no digas quien te lo dio.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE> Así fue como el hombre muy contento bajo, llegó con sus compañeros, solo él tenía ropa nueva y le preguntaron ¿dónde fuiste a traer dinero para comprar esa ropa nueva?  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE> eh ¿qué fue lo que les dijo el hombre? él dijo: eh lo fui a traer por allí, solo eso les dijo y ellos se preguntaban: ¿a dónde fue a traer el traje?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE> y así fue, como en fiesta estaban, en esa fiesta dieron licor y a ellos eh les gustó que se emborrachó el hombre, le dieron mas licor,     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE> y lo emborracharon, le estaban preguntando y el hombre no decía donde fue a traer el traje, lo emborracharon, lo emborracharon, hasta que pudieron sacarle</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>  de quién o dónde fue a traer el traje y el hombre en su borrachera dijo donde fue a traer ese traje, les dijo: yo me encontré a un duende, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE> me llevó al cerro de Xoqoneb', ahí me dio los grandes trajes y los usé, es por eso que salí con ustedes en el baile. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE> Y fue así como se enojó el duende, el viento se enojó, le quitó todas las cosas y así como estaba el hombre cuando llegó a traer leña, así lo volvió a dejar, ahí nada más llegan mis palabras.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE> Asimismo, hay varias clases de duendes, aún hay uno que hizo antes, así cuentan, eh hay un duende que se encontró a dos hombres,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE> les preguntó ¿a dónde van? esos señores no tenían trabajo, no tenían que darles a sus familiares para comer, no había una cosa que les pudieran dar a sus hijos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE> se vino el duende atrás del calvario, así le dicen, ahí se encontraron y les preguntó ¿qué es lo que quieren ustedes ahorita?  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE> nosotros queremos un nuestro trabajo le dijeron los hombres al duende, vino el duende les dio un montón de llaves, les dijo: </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE> ofreció llaves, ofreció cuchillos y otras cosas ¿qué es lo que quieren agarrar? lo que hicieron esos dos hombres fue escoger las llaves dice, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>  existe un duende a quien le dicen el rey y él es el dueño del dinero, él dijo: sí ustedes escogieron las llaves, hoy en la noche vamos a ir a robar le dijeron;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE> se trajeron las llaves y se vinieron, anocheció les dijeron: adormezcamos a los trabajadores, adormezcámolos, así adormecemos al pueblo,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE> así no escuchan ninguna cosa cuando entremos al banco, vinieron ellos agarraron y pusieron candelas rojas, le pidieron  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE> al rey, que no pasará nada, que no hicieran ninguna bulla y así se vinieron a robar, entrarron al  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE> banco, banco se le dice en español, empezaron a robar dinero, grandes cantidades de dinero se robaron de ahí, así fue como salieron y amaneció</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE> eh llegaron los dueños de los bancos, ya no había dinero, se preocuparon, informaron a los policias de nuestro pueblo, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE> así fue como llegaron, ya no pudieron hacer nada, no sabían quien había robado, en la segunda noche, se volvieron a encontrar, se juntaron en el calvario el duende</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>  asimismo los dos hombres, fueron ellos los que repartieron el dinero a sus compañeros, grandes cantidades de dinero se robaron y asi les dijo el duende a ellos: no digan nada donde fueron a traer dinero,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE> sí, cuentan donde fueron a traer dinero, los voy a regresar a como estaban antes, vinieron ellos se trajeron grandes cantidades de dinero, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE> lo volvieron a repartir, hicieron eh grandes ventas ellos, compraron grandes almacenes y así fue como ellos no cuentan nada, en otra ocasión llegó otro hombre,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE> así sin trabajo, les preguntó que donde habían ido a traer grandes cantidades de dinero y ¿por qué amaneció un día y ya tenían su dinero, ya tenían ellos sus terrenos?, se compraron ellos todo lo que quisieron, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE> y fue así como el hombre no se aguantó sus comentarios, no los aguató, les contó a ellos a donde había ido a traer el dinero, no duró mucho </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE> una semana de haberlo contado, cuando se enojó el duende, les quitó todo a ellos en el viento, todo el dinero que se habían robado</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE> se los quitó, se quedaron así como estaban antes, que no tenían nada. Solamento eso, gracias. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="M.D.V" TIER_ID="Descripción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> Xoqoneb', es un cerro sagrado ubicado al noreste de la cabecera municipal de Uspantán. Dicho cerro es muy turístico y de mucha historia. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> El baile tradicional de Uspantán relacionado al cerro Xoqoneb' es el baile de la Conquista, ya que se considera que en ese lugar se encuentran trajes propios de esa danza. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> Saq k'oxol o kaq k'oxol son seres sobrenaturales, considerados como cuidadores de ciertos elementos de la naturaleza, como: bosques, ríos, cerros entre otros.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> En el cerro de Xoqoneb' hay unas cuevas, las que se creen que conectan a Uspantán con otros municipios o departamentos.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

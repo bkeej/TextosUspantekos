@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-02T12:33:22-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Relato personal M.L.A.L..mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Relato personal M.L.A.L..mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:9c981a83-8916-40e3-93a7-a3a451fa7ae4</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">66</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="10220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="10745"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="21260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="21550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="30010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="30500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="39300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="40060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="49987"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="50040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="62010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="62900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="72810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="73060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="83100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="83460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="92990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="93680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="104130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="104250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="112010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="116100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="125520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="125800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="135980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="140680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="150030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="150380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="159310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="159800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="170460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="170600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="180510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="180850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="187110"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="M.L.A.L" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> Xi' q'iij qaaj, xi' q'iij chuuch, lo que tinb'ij awri, que nemo xink'iy rk'i inqaaj-inchuuch eh xkam inqaaj,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> y xinka'el k'il inmamá, inmamá malka'n y lo que xinb'an iin, xinb'an dirigir wib', xin'ook chajaj ék'l, &lt;xinch'ekj&gt;, xinch'ek qleen we, inmamá xya' na westudio,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> iin &lt;ta'&gt; ta' xwaj porque tinwila' inmamá que rk'an qe, ta' tkwiin chi y'ik qestudio y otra las cosas y </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> ooj k'ii jrk'lal inmamá, ooj doce, y lo que xan inmamá chqe xye' lugar chqe xojb'e laj iik'il, kla' &lt;xoj&gt; &lt;xqa&gt; qetmaj.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>  Y gracias a Dios inmamá también xk'uta' qopiis chqáwch, eh iin tinb'an ob'en, inb'e laq jaa rk'i kristyan tb'insuje' chuchitos,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> tinlej waa, y otras las cosas tinb'an ah tinb'an ch'ojnik y jino li win &lt;ch j&gt; ch jtijójk taq ra wik'lal también.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> Kijab' wik'lal &lt;xyu&gt; xwa'xax chu q'iij saq, y wi' wik'lal b'esal naj, porque jwi'l qanecesidad xeek' y otras cosas y </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> iin nemo tinb'ij que, que las que ta' westudio, xaq twi' westudio, tálvez inkwiinVR inch'aw más laj tzijb'al qatinmit, eh lo que pasa iin nemo tinb'ij que  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> tálvez que... ta', nunca xwetmaj &lt;in&gt;intz'iib'an, &lt;inyol&gt; intz'iib'an pues y nemo tinb'ij que,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> &lt;que&gt; que inmamá pues, que gracias a Dios que inmamá que &lt;x&gt; xk'ut qopiis chqáwch, &lt;medi&gt; iinp wetamVR inchapon, porque wi' jun chqe ta' tkwiin taq y </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> nemo tinb'ij que, k'omo re &lt;qa&gt; qaqch'ixiik también &lt;ojne&gt;, ojyuqte' taq qach'ab'al y . . . </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> Y tinyol que, &lt;que&gt; awri que, &lt;que&gt; qusVR ínwch, qus jwiich infamilia y que qus jwiich injii', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> y qus jwiich wólb', wi' wólb' ánm, wi' wólb' eh &lt;wunt&gt; qetz'an wólb' xkami'n y otras las cosas tinb'ij que. . .</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> ¿Nimo xinyuq neri?, xinjch'ab'ej wichijil, &lt;xuqine'&gt; xuqine' vivir neri Jacubí, que iin, iin ajtinmit, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> y iin ajtinmit, neri xinyuqne' &lt;viv&gt;, neri xinyuqwa'xoq y awri iin chaq Jacubí y otras las cosas también que, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> que k'omo re Dios que neri wi' na awri y ya nemo tinb'ij que, ya wi' k'ii injúnb', cuarenta y siete años xink'is al doce de diciembre, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> y awri xinmaja b'i cuarenta y ocho año, y tinta' re qaqaaj Dios tjye' invida, tye' ink'aslemal, inwa'x laj laq qatinmit neri kik'il qavecino, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> porque wi' qavecino que buena gente qk'il. Y tink'omowaj chawe qaaj, tink'omowaj chawe naan. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="M.L.A.L" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Buena tarde señor, buena tarde señora, lo que relato ahora, es como crecí con mi papá con mi mamá eh se murió mi papá,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> y me quedé con mi mamá, mi mamá viuda y lo que yo hice, me dirigí, empecé a cuidar niños, gané mis cosas, mi mamá me había dado mi estudio,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> pero yo no quise porque veía a mi mamá que estaba sola, que no podía darnos nuestro estudio y otra de las cosas </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> somos varíos los hijos de mi mamá, somos doce y lo que hizo mi mamá, nos dió lugar de ir a trabajar, allí aprendimos. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> Y gracias a Dios mi mamá también nos enseño a hacer nuestros oficios, eh yo hago tayuyos, voy a las casas a ofrecer chuchitos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> torteo y otra de las cosas hago ah hago lavados de ropa y de esa manera estoy enseñándoles a mis hijas también. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> Cuatro hijos di a luz, y tengo un hijo que se ha ido lejos (EE.UU), porque por nuestra necesidad se fue y otras cosas y   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> como digo yo que, que lastima que no tengo estudio, si tuviera estudio, tálvez pudiera hablar más en el idioma de nuestro pueblo, eh lo que pasa es que como yo digo que </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> tálvez que... nunca aprendí a escribir, a escribir pues y como yo digo que, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> que mi mamá pues, gracias a Dios que mi mamá nos enseño nuestros oficios, yo se trabajar, porque hay algunas de nosotras que no saben y  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE> como yo digo que, gracias a nuestros familiares también que vienen a preguntar por nuestro idioma y . . . </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE> Y relato que, ahora estoy bien, se encuentran bien mi familia, y que se encuentra bien mi yerno,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE> y que se encuentra bien mi suegra, está mi suegra, está mi suegro eh mi finado suegro pues ya murió y otras de las cosas que quiero decir es que . . .</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE> ¿Cómo vine aquí? me habló mi esposo, me vine a vivir aquí a Jacubí, porque yo, yo soy del pueblo,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE> yo soy del pueblo, pero aquí vine a hacer, aquí me vine a quedar y ahora ya soy de Jacubí y otras de las cosas también que,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE> que gracias a Dios que aquí aún estoy ahora y ya como digo que, ya tengo varios años, cuarenta y siete años cumplí el doce de diciembre, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE> y ahora empecé cuarenta y ocho años y le pido a nuestro Dios que me dé vida, que me dé existencia, para estar en nuestro pueblo aquí con nuestros vecinos,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE> porque hay vecinos que son buenas personas con nosotros. Y le agradezco señor y le agradezco señora. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="M.L.A.L" TIER_ID="Descripción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> Laj iik'il / se refiere a ir a trabajar a casas como empleadas domésticas con sueldos mensuales, de ahí el término iik'/mes. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> Ob'en / tayuyos, hechos con masa y frijol por dentro, tradicional en la cultura maya. Chuchitos / comida típica de la cultura maya, hechas de masa, recado y carne. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Tzijb'aj ajtinmit también se le dice al idioma Uspanteko. Tzijb'al ajtinmit literalmente significa: idioma del pueblo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE> Wálb' o wólb' quiere decir: suegra, cuñada, o nuera, pero dicho por una mujer. Para referirse a suegro se dice Wálb' wunaq siempre dicho por una mujer.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE> Jacubí su topónima uspanteka es B'aa Kub'i que signfica: sobre el pueblo. Por su ubicación geográfica, al estar al Noroeste del centro de Uspantán. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE> Naan es un término también utilizado por algunos Uspantekos, que significa: mamá o señora. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

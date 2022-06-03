@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-01T14:51:05-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Loq'laj chee' - Árbol sagrado.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Loq'laj chee' - Árbol sagrado.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:6f1fcd45-f487-4c04-85fd-ff7292eb1fbc</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">129</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="9990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="10380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="20990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="21500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="31690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="31990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="42290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="42480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="53790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="54590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="65415"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="65480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="77510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="78390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="91990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="92690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="104980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="105260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="116610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="116900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="127000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="127290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="138200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="138880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="150000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="150390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="161510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="161980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="173100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="173290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="183390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="183590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="193380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="193680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="205290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="205500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="218090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="218380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="228590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="228900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="239010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="239300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="250505"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="250980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="261690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="261860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="272690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="296700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="307990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="308260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="321320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="321660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="333810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="334090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="344700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="344990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="357990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="358500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="370600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="370960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="382100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="382590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="394820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="395190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="406900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="407260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="418000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="418490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="428000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="428390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="437000"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="R.A.P.U" TIER_ID="TRANSCRIPCIÓN">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> K'amtzáwch eh lajori chwaj inyloow ák'laq &lt;sub'&gt; chub' k'axk'oliil tjta' qachuuch uleew, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> tqil b'ka' lajori jor k'ii kristyan tjq'atz taq chee', tran taq k'ax re, tran taq k'ax re chee',  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> ta' chki' tik taq eh jk'exel, jwi'l b'ka' li tqil lajori ta' chki' chee', eh jraab' chee' qetami'n que ri' tchapow re uleew,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> lajori jwi'l jaab' tajran, jaa' ta' chki', uleew ta' chki' looq' &lt;taj&gt; tajchap bien rib', ri' k'u li &lt;taj&gt; tuwular b'i uleew, jwi'l   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> ta' chki' &lt;m&gt; ta' chki' ni'j chee' chik &lt;t&gt;tiksaj, jor chee' tq'atzsaj taq, wi' ni'j tran taq, tq'atz taq jwi'l tk'ayaj taq, tk'ayaj taq sii',  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> wi' ni'j chik tq'atz taq chee' jwi'l eh tran taq jaa laq' uleew, jwi'l li lajori ri' jun k'axk'ol tqil laq qa, laq qatinmit,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> tqil ch'iich' nojsal taq re chee' tq'ax taq, laj b'ab'aal qatinmit ta' chki' nen &lt;t&gt;tb'ij taq rechaq, qus tril taq kristyan tk'am taq chik ni'j lúwr chik.   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> Jelon k'u re', jor kristyan tjt'oj taq mees &lt;laq'&gt; laq' uleew, laq' b'ee, maq mees ri tjb'e taq xilj siwaan, maq mees ri tb'e taq xilj, xilj ni'j jul      </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> &lt;e,e&gt; ri tqil tran jaab' tnoj taq, tnoj taq siwaan re jaa', t-'eelch taq laq' b'ee, tqil lajori xmajmaj chik jaab', xmajmaj chik k'axk'oliil re ni'j kristyan</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> wi' taq naj, naj taq lúwr, jwi'l b'aka' rechaq ta' chki' looq' t-'eel taq laq' komoonaq, komo xqil junab'iir jor k'ii kristyan xkan muqar taq chralaj uleew   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> jor k'ii kristyan &lt;xi&gt;xkam jrech'elxiikaq, xkam ralk'uwalaq, wi' ni'j ék'l rek'an chaq xka'eel taq, jwi'l li tqil lajori,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> jwi'l li tqil lajori k'axk'oliil ¿nen ajmaak? ojoj ajmaak, ta' tqaye', ta' tqaye' jb'íjk rechaq ék'l laq' tijoj ib'   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> rojóxka' que tqab'ij re tra ék'l ta' tt'oj taq mees, xilj qakomoon tqamaj, jelon li ta' k'axk'oliil tqata'w, xilj qakomoon tqab'ij re tra ék'l ta t'oj taq mes,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> lo qochooch looq' tqab'ij re tra nuuch' ék'l, looq' tqab'ij re qaqaaj, qachuuch, qoch'olxiik ta' tt'oj taq mees, qus jb'anik tran taq re mees, ta' tt'oj taq laq' uleew, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> jwi'l li t'ojsaj qleen laq' uleew tran, tran k'ax uleew, ta' chki' looq' ttiksaj jwiich, rib' ka' li rojóxk &lt;tqa&gt;tqil ¿nen jkojik mees tqa'an?   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> wi' ni'j mees looq' tkojsaj re ni'j chaak laq' tijoj ib', wi' ni'j mees chik looq' tkojsaj re tb'ansaj jchóq'b' uleew re, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> re tkojsaj relaj ab'iix, re tkojsaj chralaj ni'j tiko'n chik, lajori b'ka' rojóxk &lt;tqa&gt;tqachajaj,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> tqachajaj jwiich uleew, tqachajaj chee', qachajaj tra ni'j ka'n tqil laq qochooch laq'ab', ójr, ójr taq tziij condo ooj nuuch' na tqata'w,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> jor ka'n &lt;tj&gt;tch'a'w taq, tib'ixon taq, ¿lajori nen? ta' chki' tqata' ka'n, lajori eh tb'ison chaq qánm taw b'esal q'iij, ta' chki' k'ii ka'n  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> xaq tra jujun chaq ch'a'w taq, ta' chki' k'ii ka'n tb'ixon taq laq' chee',  jwi'l xtzaqsaj rchoochaq, jwi'l xe' taq chi ni'j lúwr chik,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> ajwi'l wi' ni'j ya xsach jwiichaq, ta' chki', ta' chki' k'ii jwiichaq ka'n, wi' nka li, per ni'j lúwr chik, naj chik, ójr looq' tqa,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> looq' tqil pues wi' taq chqak'ulel, lajori rojóxk ojb'e na naj, lajori rojóxk tqa, ojb'e na l jun nim k'achee'laj re looq' tqil jwiichaq ka'n   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> &lt;ple&gt; ri' rajóxk li &lt;tqa&gt;tqab'an, tqaye' jb'íjk re tra ék'l, tqaye' jb'íjk re kristyan, rojóxk que lamas ojb'e'w     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> komo ojb'e laq' chootch, ojb'e laj b'ee rk'i qapach, rojóxk tqaye' jb'íjk rechaq, nen qus tqab'an re jelon li &lt;tqa&gt;tqaloq'ájk qachuuch uleew.   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE> Lajori lamas wi' wochooch iin, eh nen q'iij xq'ax taq, xmaj taq ni'j kristyan xk'ur taq chee', xpe taq aaah</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>  jb'ab'aal qakomoon xyloow taq rk'ilaq ah, xyloow rk'ilaq, rechaq ta' nen xi, ta' nen xij taq, &lt;x&gt;xan taq, xk'ur chik ni'j chee' chik, ari' xk'amsajch jb'ab'aal tinmit chrijaq,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE> xwa'b'a taq jun kiitz, lajori tqilan que neri li inkomoon iin k'axi' tijiin jwi'l k'ii, ójr xaq jun qe rájw ra k'achee'laj wi' chijk'ulel wchooch, lajori  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE> ya k'ii chaq rájwe y rojóxk tk'ur taq porque cada, cada uno re rájw lajori jlan &lt;jj&gt;jchomorsaj chrij tra tral uleew li,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE> wi' ni'j rajaq tran taq jaa kla', wi' ni'j tran ah ni'j qleen chik y trojóxk tresaj taq tra chee' y li ooj tran k'ax &lt;chqe, chqe&gt;, chqe ooj, re ni'j kristyan chik,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE> komo jelon li, le jaa' también kla', lajori tqil wi' siwaan ójr nim, nim jpam siwaan kon tran jaab' ta' k'ax tq'ax jaa',   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE> lajori tqil siwaan jor nojsal re, nojsal re mees, tran jaa' lajori t-'eelch jaa' laq' b'ee, tran k'ax re b'ee, tran k'ax re ch'iich', wi' kristyan </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>&lt;t&gt;ta' chki' looq' tq'ax taq tb'e chrchoochaq, jelon li ta' looq' tq'aj taq laq' tinmit, jelon ikim wi' chik ni'j lúwr chik t-'eelch jaa, jelon jwi'l jor mees tt'ojsaj, jwi'l jor ab'aj,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE> wi' kristyan tresaj taq ab'aj xilj uleew ttijt'oj taq b'ik, re maq ab'aj li tq'atuj taq jb'ee jaa', ta' chki' tb'en jaa', jwi'l ri' k'axk'ol tqil, tinwil iin laj inkomoon,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE> komo wi' ni'j eh ajtijoj ib' &lt;te&gt;tye' taq re nik'j k'ojol taq wunaq, q'opoj taq ánm tran taq eh ni'j chaak,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE> rechaq eh tkoj taq tra k'ólb' mees re kristyan t'oj taq jmeesaq xilj, kristyan ta', ta' tkoj taq, rechaq ta' tt'oj taq kla',  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>&lt;te&gt; ri' qus tril taq tkan t'oje' taq laq' b'ee y ri' li k'ax tqata' lajori. K'amo chawechaq. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="TRANSCRIPCIÓN" PARTICIPANT="R.A.P.U" TIER_ID="TRADUCCIÓN">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Buena tarde, ahora quiero hablar con ustedes sobre las dificultades que padece nuestra madre tierra, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> vemos ahora que son muchas las personas que cortan árboles, les hacen daño, les hacen daño a los árboles, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> ya no siembran su reposición, es por eso que vemos ahora que ya no hay árboles, eh las raices de los árboles sabemos que son las que sostienen a la tierra, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> ahora por las lluvias que hace, el agua ya no, la tierra ya no se puede sostener bien, es por eso que se derrumba, por  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> que ya no hay otros árboles que se siembran, muchos árboles se cortan, hay algunos que hacen, que cortan porque los venden, venden leña,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE> hay otros que cortan árboles porque eh hacen casas en los terrenos, es por eso que ahora es una dificultad que vemos en nuestro, en nuestro pueblo,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE> vemos a camiones llenos de árboles que pasan, el alcalde de nuestro pueblo ya no les dice nada a ellos, les gusta a las personas que se los llevan a otros lugares.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE> Asímismo, muchas personas tiran basura en el suelo, en las calles, esas basuras se van dentros de los barrancos, esas basuras se van dentros algunos agujeros,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE> cuando vemos llueve, se llenan, se llenan los barrancos de agua, se desbordan hacía las calles, vemos ahora que empezaron las lluvias, empezaron otra vez los sufrimientos para algunas personas </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE> que estan lejos, en lugares lejanos, es por eso que ellos ya no pueden salir de sus comunidades, así como vimos el año pasado muchas personas que quedaron soterradas bajo la tierra,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE> a muchas personas se les murieron familiares, murieron sus hijos, hay algunos niños que ya solos se quedaron, por eso vemos ahora,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE> por eso vemos ahora dificultades, pero ¿quienes son los culpables? nosotros somos los culpables, no les damos a conocer información a los niños en las escuelas, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE> es necesario que les digamos a los niñitos que no tiren basura, en nuestra comunidad podemos empezar, solo así no sufriremos, en nuestra comunidad les decimos a los niños no tiren basura, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE> en nuestra casa podemos decirles a los niños pequeños, les podemos decir a nuestros papá, a nuestra mamá, a nuestros familiares que no tiren basura, que hagan bien su limpieza,  que no lo tiren al suelo, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE> por eso que tirar cosas al suelo arruina a la tierra, ya no podría cultivar, es por eso que es necesario que veamos ¿cómo utilizar la basura?  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE> hay algunas basuras que se pueden utilizar para trabajos manuales en las escuelas, hay otras basuras que se pueden utilizar para hacer abono orgánico, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE> para utilizar de bajo de la milpa, para utilizarlo de bajo de otros cultivos, ahora pues es necesario que lo cuidemos,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE> que cuidemos lo natural, que cuidemos árboles, que cuidemos a los pajaritos que vemos en nuestras casas al amanecer, antes, antes cuando eramos pequeños los escuchábamos,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE> muchos pájaros cantaban, ¿ahora qué? ya no escuchamos pajaritos, ahora solo se entristece nuestro corazón cuando atardece, ya no hay muchos pajaritos,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE> ya solo unos cuantos cantan, ya no hay muchos pajaritos que cantan en los árboles, porque botaron sus nidos, porque se fueron a otros lugares,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE> y es por eso que hay unos que ya desaparecieron, ya no hay variedad de animales, seguramente hay, pero en otros lugares, ya muy lejanos, antes podíamos,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE> podíamos ver pues que estaban a la par nuestra, ahora es necesario que vayamos lejos, ahora es necesario que vayamos a una gran montaña para poder ver a los animales,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE> eso es necesario que hagamos, que se los demos a conocer a los niños, que se los demos a conocer a las personas, es necesario que a donde vayamos,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE> como cuando vayamos a la iglesia, cuando vayamos en el camino con nuestros compañeros, es necesario que se los demos a conocer a ellos, què es bueno que hagamos para valorar a nuestra madre tierra.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE> Ahora en donde está mi casa, eh hace unos días pasaron, empezaron algunas personas a cortar árboles, vinieron ah</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE> los presidentes de nuestra comunidad, hablaron con ellos ah, habló con ellos, no dijeron nada ellos, siguieron, cortaron algunos otros árboles, hasta que les trajeron a líderes de nuestro pueblo,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE> lo detuvieron un poquito, ahora vemos que aquí en mi comunidad esta díficil por los varios, antes solo uno era el dueño de la montañita que está a la par de mi casa, ahora  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE> ya son varios los dueños y es necesario que corten porque cada uno de los dueños ahora tiene distinto pensamiento sobre ese terreno, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE> hay unos que quieren hacer casa ahí, hay unos que hacen otras cosas ahí y es necesario que saquen los árbolitos y eso nos perjudica a nosotros, a otras personas,      </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE> como así es, el agua también ahí, ahora vemos que hay barrancos que antes eran grandes que cuando llovía no costaba que pasara el agua,            </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE> ahora vemos barrancos que están muy llenos de basura, llueve ahora y se sale el agua al camino, arruina el camino, arruina vehículos, hay personas </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE> ya no pueden pasar para ir a sus casas, de igual manera no pueden regresar al pueblo, igual abajo hay otros lugares donde sale agua, es por la mucha basura que se tira, por las muchas piedras,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE> ya que hay personas que sacan piedras dentro de la tierra y los tiran, esas piedras obstruyen el camino del agua, ya no camina el agua. Esas son las dificultades que vemos, que veo yo en mi comunidad,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE> así como hay algunos estudiantes que les dan a algunos jovenes y señoritas oportunidad para hacer algunos trabajos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE> ellos ponen basureros para que las personas tiren su basura adentro, pero las personas no los utilizan, ellos no lo tiran ahí, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE> les gusta dejarla tirada en el camino y esa es la dificultad que vivimos ahora. Gracias a ustedes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="TRANSCRIPCIÓN" PARTICIPANT="R.A.P.U" TIER_ID="DESCRIPCIÓN">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Para la cultura maya, la tierra es símbolo de madre, por su fertibilidad en cuanto a producción agrícola, como también en otros elementos naturales. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> Comúnmente en Uspantán, los árboles son cortados para obtener beneficios como: leña, tablas, reglas para otras actividades como la construcción de casas. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE> Los árboles talados en le área norte del pais, son trasladados a otros lugares, en donde se encuentran las fabricas de muebles u otros artículos de madera.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE> El desborde ríos o riachuelos han sido las causantes de muchas inundaciones en el territorio guatemalteco, incluso en el territorio uspanteko.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE> Para no contaminar los elementos de la tierra, es necesario reciclar la basura, para darle un segundo uso o para crear abono orgánico. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE> Es necesario transmitir valores de protección del medio ambiente a las generaciones actuales, para evitar la destrucción masiva de los elementos naturales (fauna y flora).</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE> La tala inmoderada de árboles disminuye el recurso hídrico en las corrientes subterráneas, por lo que provaca esceces de agua en los nacimientos que abastece de agua potable a la población y a sus habitantes.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE> En Uspantán, algunos centros educativos dirigen sus seminarios educativos hacía el cuidado y protección del medio ambiente, colocando basureros en puntos específicos. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE> La población de Uspantán necesita mucha conciencia y valores para depositar la basura en su lugar, ya que habiendo basureros se atreven a tirar la basura en las calles.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

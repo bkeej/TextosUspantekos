@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-02T11:33:11-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Enseñanza del idioma Uspanteko (K'utúnk re Tz'unun Yolooj).mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Enseñanza del idioma Uspanteko (K'utúnk re Tz'unun Yolooj).mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:290d4806-07de-4ceb-a3d3-425ec7b89c0c</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">18</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="7410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="7790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="16530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="17400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="26700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="26970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="36590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="36980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="45000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="45890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="53720"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="J.P" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> Xul qk'il y com qe ooj &lt;ojyoloow, ojyoloow&gt; ojyoloow jri, tos y qe ooj pues cuand xan t nim tra nimaq tra ék'l,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> tos ta ta' taq xqab'ij rechaq; mejor tab'an taq qayólj, tos jilo li &lt;xx&gt; xqatijoj taq re qayólj, tos lajori chi uxiib' rb'ilaq tiyoloow taq li Uspantek. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> Ri li ri xqab'an re rechaq porque tsách qayólj y ta' tzi, si pues, porque tsách qayólj y &lt;ta', ta'&gt; ta' tzi, much kristyan tanta' iin lajori tiyoloow taq:   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> tch'ob'VR tqa, &lt;ta', ta'&gt; t'a tch'ob' jwiichaq, sí, per tiyoloow taq jilo ri, per saber ¿atpe taqw?, saber lamo, ¡tji'!. Y tos jilo li pues jela xqab'an rechaq li xqatijoj taq laj qayólj y </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> ri li xqab'an rechaq, li lajori ji'ch tiliw rechaq tjtijoj ralk'uwalaq laj qayólj o ta' chki'n, per com qe ooj ya xqana' qa...  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> qe ooj ya &lt;xqa&gt; xqatijoj tqan y retamaj tqan, pues ooj tqak'amowaj re qaqaaj Dios. Ri li voz tanb'ij chawechaq.  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="J.P" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Vinieron con nosotros y como nosotros hablamos, hablamos, hablamos así (en Uspanteko), entonces y nosotros cuando se hicieron grandes los niños (crecieron),  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> entonces escuchen bien les dijimos a ellas; mejor hablen nuestro idioma, entonces así fue como les enseñamos nuestro idioma, entonces ahora ellas tres hablan en Uspanteko.    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> Eso fue lo que les hicimos a ellas, porque sino se pierde nuestro idioma y no está bien, si pues, porque se pierde nuestro idioma y no esta bien, a muchas personas escucho yo ahora que comentan: </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> conocen (el idioma), y no las conocemos, sí, pero hablan así, pero saber ¿de dónde vienen?, saber de donde, ¡sí!. Y entonces así fue pues que les hicimos a ellas para enseñarles nuestro idioma y   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> eso les hicimos a ellas, ahora ya ellas decidirán si les enseñarán a sus hijos nuestro idioma o ya no, pero como nosotros ya hicimos nuestra... </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> nosotros ya se los enseñamos ya lo aprendieron, pues nosotros se le agradecemos a nuestro Señor Dios. Eso es lo que con mi voz les comento a ustedes.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

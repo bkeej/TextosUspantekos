@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-02T13:12:01-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Relato T.A.M.L..mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Relato T.A.M.L..mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:b6677805-bbaa-4308-ac8f-78889bfe5b58</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">113</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="2310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="9280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="10800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="23290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="23895"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="35410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="36010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="46990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="47490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="60100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="60400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="71000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="71390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="83990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="84990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="96410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="96690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="108830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="111090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="120000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="120520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="130010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="130360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="140390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="140610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="150600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="151210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="161200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="162700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="173000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="173600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="183710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="184190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="194490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="194900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="205010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="205800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="217000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="218490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="229000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="229510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="240100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="240710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="250990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="253290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="264000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="264060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="266020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="267200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="277190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="277800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="291210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="291400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="301390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="301980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="312705"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="313100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="323720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="324190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="334680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="335190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="348230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="348970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="366380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="367090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="375564"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="T.A.M.L" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> K'amtzawchaq, chwaj tinyol chawechaq jun saq yolooj nen xij inchyaaj Ernestina Méndez chwe. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> Inchyaaj tjb'ij: qik'il la jaa xaqe jun wunaq tb'anow qawal tche', ttaw júnab', ttaw iik' re awal   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>  tb'i inch'ab'ej y jlon xinb'an chíwch jun junab' ri tche', xb'i'inch'ab'ej qaqaaj Mundo, jlon tb'ijsaj re yaj wnaq tchaakun q'ik'il tche', ójr taq tziij, ójr taq tziij chaq    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> xaqe re re tchaakun q'k'il, jwi'l k'u li &lt;xaqel&gt;xaqe re re tqach'ab'ej tche'. Xkajk'ute' &lt;inma&gt;inmaam-intiit'     chínwch tche' re re, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> taw paj ník'j q'iij tya'saj jrikiil jinon ruk'a' mokoom wi' qk'il tche', jlon tinb'an juntiir júnab', jlon tinb'an tche', jwi'l k'u li  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> iin tinye' jrikiil qaqaaj Mundo tche'. Xtaw q'iij xinye' jrikiil, ri' tinwil tjta' chwe:  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> ¿ta' ra kiitz wawryent ák'l? tche', ta'n qaaj inche'in re, ooj neri ta' tqatij awryent ¿siik' ta' awk'il? tche', ta'n inche' re, jinon siik' kta' tqatij che'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> aaaaah tche' es que wi' jun k'axk'oliil laj wánm, tinrayij ra kiitz wawryent, jinon tintuba'j jun insiik' tche', tran k'ax chawe qaaj Mundo inche'in re,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> ta' tran chuuch, ta' tran tche' y jlon xkan eel. Ri' tril b'esel q'iij inchyaaj, tjiin chaq ttij jun, jun limeet rawryent, jinon tjtub'aj jun jsiik', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> k'amal chaq awi'l ¿jrub' k'omal chaq awi'l? tche' &lt;in&gt;, tche' &lt;inti&gt; inchyaaj re, jun qe chuuch tche' </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> we chawaj jun awe tintaq jk'amik tch'e re re, itz'aab' &lt;b'an&gt; tinb'an awik'il qaaj inche'in re; y jlon xkan eel.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> Ri' tril chijkaab' q'iij jlon xansaj, xya'saj jrikiil jinon ruk'a' paj ník'j q'iij y tijta' inchyaaj re:  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> ¿nemo xab'an re qaaj xame' qleen awe &lt;x&gt;tjiin tatij íwr? che' re, ta' xinwil xatq'ax che' re, aaaaah tche' re, chopka' iin inamokoom tche' re, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> jinon iin wi' kiib' inmokoom tche' ¡tz'eet! xjta' &lt;in&gt;inchyaaj re, ¡ji'n! tche', tawilpe na, b'esal q'iij uka tqejtaqch maq inmokoon tche',      </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> aaaaaah tche', tche' &lt;in&gt; inchyaaj, ¡tzi' li! tche' &lt;x&gt;jlon xkan eel; ri', ri' tjiin &gt;ti&gt; tjrib'yej      </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> inchyaaj tqejtaq b'i rixóql, jk'ajol, jrab'iin, tjb'ij re re tqejtaq b'ik, kita' ni jun kristyan xqej b'ik. Chi jroox q'iij &lt;tij&gt;xjta' re:     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> ¿xab'ij que wi' amokoom tqej taq? tche' re, ta' ni jun tche' ¡ji'n! xqej taq tche' re, aat ta' xawil tche'; we chawaj tawil taq nen chki' inmokoom tche' re, uka tata' inxulq'b'an  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> atjutunch, ta' ttzaq ach'ool tawil maq inmokoom tche', y jlon xkan eel; b'esal q'iij chaq tjiin tmeson inchyaaj b'a tz'aaq, ri' tjta'w    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> x'ook qaqaaj Mundo txulq'b'an, txulq'b'an, ¿tz'eet k'u li tjb'ij? tche' re re, xjutun b'ik, ¡ri' tril che'! kiib' maq ayin, nimaq maq ayin x'eel taq l wroon, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> nimaq maq ayin tche' inchaaj, seb'laj xtzeq inch'ool re, xinkan eel kl'a tinwil we tz'eeti'n ¿nen k'i tran maq ayin l rk'il? tche', ri' tinwil </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> tjchap jb'aa, jor ti'itz'aan rk'iil jb'aa, chopka' tb'ansaj re taq ra tuun tche', ya tjch'ob' chaq jwiich maq, maq ka'n li tche', &lt;sab&gt; ta' xinta'w ¿nen xij b'i re?   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> ri' tinwil maq ayin xjaw taq, xtzaq inch'ool, ri' tinwil &lt;x&gt;x'ook taq b'ik l wroon, xsach taq b'ik, ¿nen k'u li tran? inche' y tinwob'ej y tinwob'ej, ¡tz'eet! ri' tinwil xq'ax jumul  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> xq'aj taq maq ayin, ¡ta' takoj! tche', ri' tinwil che'l rij, lamas wi' maq k'iix ch'el rij, k'amol taq b'i: jun limeet awryent,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> jun puq' siik' che'. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE> Ta' tinkoj nen k'i tjiin tinwil chúwch man q'iij li tche', seb'laj xtzaq inch'ool, seb'laj xtzaq inch'ool, xinwila' na, we tz'eet rk'iil ttaw,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE> ri' tinwil ¡tz'eet! rk'il man wnaq li xtaw taq maq ayin, ri' tinwil xchap man limeet qaqaaj Mundo, x'ook chi jtijik awryent jinon xchap maq siik' x'ook chi jtub'ájk; </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE> t'uk, t'uk, t'uk tran wánm, ta' tinkoj nen k'i tril b'aq'wiich, inb'aq'wiich, xtzaq inch'ool re man wnaq li;  yaj wnaq li     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE> wi' jchóq'b' chub' ka'n inche', ta' chki' tinye' jchaak inche' laj wánm; ri' tinwil xjawch y tjb'iij chwe: chuuch Cristina, chuuch Ernestina che',      </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE> ¿xawila' maq inmokoom? tche', ta' xinwil qaaj inche' re, ta' xinwil, ta' xinwil, aaaah tche', tinb'ij k'u re' iin xawil maq inmokoom che', ta' xinwil qaaj inche' re,     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE> baaaa ojyoloow chi chweeq che', kuy re qaaj inche' re, xinche' re, xaqel neri xtaw áchk qik'il inche' re ¿nen chak? chijche' ,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE> ta' chki' inpwaaq che', ta' chki' inpwaaq, ti'iin tink'is ínchk inche' re, xaqe neri ojkan eel ¡aat xawila' maq inmokoon! tche', xtzaq ach'ool, ¡noooooooo! tche' inchaaj re, ta' xinwil</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE> xinye' b'i jpwaaq tche' &lt;in&gt;inchaaj, xink'omwaj b'i re jchaak, ta' chki' xinye' jchaak, seb'laj xtzaq inch'ool, lajori xkan eel laj ínb' wi' kristyan wi' jchóq'ab' chub ka'n tche' inchaaj. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE> Jwi'l k'u li lajori xwaj xinyol chawechaq nen chki' xjyol inchyaaj Ernestina Méndez chwe, k'mo chintatb'éjk.  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="T.A.M.L" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Buena noche, quiero relatarles a ustedes una historia real que me contó mi tía Ernestina Méndez a mí, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> Mi tía decía: con nosotros en la casa solo un hombre hace la siembra, al llegar el año, al llegar el mes de la siembra</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> voy a hablarle y así lo hice en este año decía, le fui a hablar a don Mundo, así le dicen al hombre que trabaja con nosotros, ya desde antes </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> solo él ha trabajado con nosotros, es por eso que solo a él le hablamos me decía. Me dejaron enseñado mis abuelos a mí decía ella, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> que al llegar el medio día se le da comida y bebida al mozo que esta con nosotros, así lo hago todos los años, así lo hagp decía, es por eso   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> que le voy a dejar su comida a don Mundo. Llegó el día le fui a dejar su comida, cuando escuché que me preguntó:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> ¿tenes un poco de licor? decía, no hay don le dije yo, nosotros aquí no tomamos licor ¿cigarros tenes? no hay le dije yo, de igual manera cigarros no fumamos,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE> aaaah decía es que tengo un dolor en mi corazón, por eso deseo un mi poquito de licor y fumarme un mi cigarro decía, te va hacer daño don Mundo le dije yo,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE> no hace doñita, no hace decía y así se quedó. Cuando vió en la tarde mi tía, ya se estaba tomando una botella de licor y fumando un su cigarro, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE> ya lleva ¿cuántos llevas? le preguntó mi tía, -uno nada más doñita- dijo </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE> sí queres un tuyo voy a mandarlo a traer decía él, -solo estaba jugando con vos le dije yo- y así quedó.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE> Cuando se dio cuenta en el segundo día asímismo le hicieron, le dieron su comida y su bebida al medio día y le preguntó mi tía a él:  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE> ¿cómo le hiciste para ir a traer tus cosas que estabas comiendo ayer? preguntó, yo no vi que pasaras le dijo, aaaaaah dijo él, así como yo soy tu mozo dijo,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE> también yo tengo dos mozos dijo ¡en verdad! le preguntó mi tía, ¡sí! ahí vas a ver, hoy en la tarde van a bajar mis mozos decía,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE> aaaaaah dijo mi tía, ¡esta bien! le dijo, así quedó; estaba esperando </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE> mi tía que bajaran su esposa, su hijo o su hija, ella suposo que iban a bajar, ninguna persona bajó. Al tercer día le preguntó: </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE> ¿dijiste que tus mozos iban a bajar? le dijo, no había ninguno ¡bien! bajaron le dijo, no los viste decía; sí quieren ver quienes son mis mozos le dijo, hoy vas a escuchar que silbe </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE> te acercas, no te vayas a asustar y vas a ver a mis mozos dijo, y así quedó; ya era tarde mi tía estaba barriendo en el corredor, cuando escucha </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE> que empezó don Mundo, a silbabar y a silbar, ¿sera verdad lo que dijo? decía ella, se acercó ¡cuando vio dice! dos lagartijas, eran grandes las lagartijas que salieron del monte,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE> eran grandes las lagartijas decía mi tía, me asusté demasiado, me quedé ahí para ver si era realidad y ¿qué era lo que hacían las lagartijas con él? decía, cuando vi    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE> le agarraba su cabeza, jugaba mucho con su cabeza, así como se le hace a los gatitos decía, ya conocía a esos reptiles decía, no escuché ¿qué fue lo que le dijo? </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>  cuando vi las lagartijas subieron, me asusté, cuando vi que entraron entre el monte, desaparecieron ¿que irá a hacer? decía y voy a esperar, voy a esperar, ¡en verdad! cuando vi pasó un momento</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE> regresaron las lagartijas ¡no lo vas a creer! decía, cuando vi en su espalda, ahí donde están las espinas en su espalda llevaban: una botella de licor y  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE> un manojo de cigarros decía. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE> No creia lo que estaba viendo ese día decía, me asusté demasiado, me asusté demasiado, aún vi, si en verdad con él iban a llegar,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE> cuando vi ¡en verdad! con ese hombre llegaron las lagartijas, de repente vi que agarró la botella don Mundo, empezó a tomar licor y también agarró los cigarros los empezó a fumar;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE> latía, latía, latía mi corazón, no creía lo que veían mis ojos, me asusté de ese hombre; ese hombre   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE> tiene poder sobre los animales dije, ya no le voy a dar trabajo decía en mi corazón; cuando vi subió y me dijo: doña Ernestina decía,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE> ¿viste a mis mozos? decía, no los vi don le dije, no los vi, no los vi, aaaaah decía, pensé que habías visto a mis mozos decía, no los vi don le dije, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE> bueno pues platicamos mañana decía, disculpa don le dije, hasta aquí llegó tu trabajo con nosotros ¿por qué? preguntó, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE> ya no tengo dinero, ya no tengo dinero, yo voy a terminar mi trabajo le dije, solo aquí nos quedamos ¡vos viste a mis mozos! dijo, te asustaste, ¡noooooo! dijo mi tía, no vi, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE> le di su dinero decía mi tía, le agradecí por su trabajo, ya no le di trabajo, me asusté demasiado, ahora se me quedó en mi cabeza que hay personas que tienen poder sobre los animales decía mi tía. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE> Es por eso que ahora quise relatarles a ustedes lo que me contó mi tía Ernestina Méndez a mí, gracias por escucharme.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="T.A.M.L" TIER_ID="Descripción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> Algunas familias por constumbre tienen a una persona de confianza quien siembra la milpa y frijol. En otros casos solo familiares se encargan de realizar estas actividades.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> Se le llama mozo a una persona que ayuda en cualquier actividad a otras personas. En Uspanteko mokoom quiere decir mozo o ayudante. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE> Según mí tía Ernestina, don Mundo y ella son casí de la misma edad, es por ello que su forma de tratarse es de confianza, al tratarse de vos.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE> Según tradición de los abuelos en nuestra familia, a todos los mozos que trabajen para la familia se les debe de dar almuerzo, máxime cuando es siembra.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE> T'uk, t'uk, t'uk,  es el sonido considerado como referencia a los latidos del corazón. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE> Fuera de lo cultural, se considera que algunas personas tienen habilidades sobrenaturales como comunicarse con animales, lo cual se considera como magia negra o pactos con seres malignos.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE> En la cultura maya se tiene la creencia que existen personas que tienen una doble personalidad,sobrenatural (persona-animal) a lo que se le conoce como Nawal, Dicha personalidad la obtienen personas al nacer en un cierto día especial del calendario maya Tijax en potencia oxlajuuj.     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

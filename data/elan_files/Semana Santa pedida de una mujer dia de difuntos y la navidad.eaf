@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-02T12:36:41-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Semana Santa pedida de una mujer dia de difuntos y la navidad.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Semana Santa pedida de una mujer dia de difuntos y la navidad.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:222efd91-51de-44e8-8393-f8ce73089ba4</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">134</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="12460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="13085"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="22400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="23020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="32200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="32470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="34010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="34190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="44400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="44580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="54830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="55020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="65020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="66540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="77490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="78430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="79430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="79860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="82760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="83030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="85510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="86390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="96710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="96890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="105620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="106110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="116420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="120470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="128020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="132630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="134530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="134710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="144470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="144670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="154840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="154960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="166310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="167170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="177710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="177860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="188670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="188790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="199000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="199200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="207800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="207990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="218990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="219970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="230600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="231450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="238490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="245690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="256910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="257280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="269500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="270710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="273410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="276230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="283430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="283950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="294750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="294790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="306690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="310190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="318340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="318370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="327550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="327800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="336910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="337070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="347200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="347370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="358320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="358490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="368790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="368990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="377110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="381150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="386130"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="L.T.V.M" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> K'amtzáwch, K'amtzáwchaq juntiro e&lt;eeee&gt;h ínb'j iin ari Lidia Teresa Ventura Mulul eh iin aj Uspantán,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> eh lajori chwaj inyoloow ák'laq chub' e&lt;eee&gt;h kuréxm, chínwch iin kuréxm,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> bueno k'utul chínwxaq chu wchooch que&lt;eee&gt; kuréxm jun ari jun semana e&lt;eee&gt;h sagrado,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> y&lt;yyyyy&gt;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> ah costumbres que k'utul chínwxaq chu wchooch es de que tijsaj pan, eh kaab' y jooch',  pero&lt;ooo&gt; </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> también &lt;tij&gt; re re desayuno tijsaj eh saq kinaq y kar o saqmol y re almuerzo pues,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> e&lt;eee&gt;h chu chooch tijsaj e&lt;eee&gt;h caldo re kar y &lt;mmmmmm&gt; . . .</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> wi' chik e&lt;eee&gt;h ni'j e&lt;eee&gt;h rk'il ni'j intíos are re taq tijtij taq e&lt;ee&gt;h pacayas pach eh saqmol, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> y saq kinaq;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> e&lt;eee&gt;h chínwch iin chuch jaa k'tul&lt;lll&gt; </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> que&lt;eee&gt;  e&lt;eee&gt;h</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> com man semana li es sagrado, que&lt;eee&gt; &lt;ma&gt;man semana li eh ta' transaj, &lt;tat, tat tat&gt;  ta' &lt;ojna&gt; ojatin,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> porque&lt;ee&gt; &lt;mmm&gt; tb'ij taq k'is inmaam ójr, que awas que jun tran transformar rib' en kar,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> pero&lt;ooo&gt; eh ari li k'utul chínwch chuch jaa, y de lo que tran taq ni'j kirtyan es de que ti'el taq eh ch b'anik eh   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> eh ti'el taq de paseo y&lt;yyy&gt; tran taq procesión eh porque&lt;eee&gt; </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> ri li k'utul chúwchaq.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> E&lt;ee&gt;h lajori inyoloow chik chub' jun tema, que&lt;eee&gt; ri re&lt;ee&gt; cuando teta'saj jun ánm, eeh rixóql jun wunaq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> eh jun chik costumbre li, eeeh que teta'saj jun ánm, eeeh iin xinwil chrij jun wetz, que xk'amsaj b'i&lt;iii&gt;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> k'is jfruta, xk'amsaj b'i k'is e&lt;ee&gt;h ek', xk'amsaj b'i k'is e&lt;eee&gt;h e&lt;eee&gt;h k'is jaa', k'is gaseosa, k'is e&lt;eee&gt;h</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> eh pan, pan en cantidad, y wi' chik ni'j qleen xk'amsaj b'ik, pues iin, e&lt;ee&gt;h iin ilan inwi'l que jino li transaj neri Uspantán, pero </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> ta'l chik ni'j costumbres inwi'l jalan lugares de que tloq'saj qe ánm rk'i pwaaq, pero laj qa... nerí Uspantán arit li transaj, aril ilan inwi'l,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> eh desde ójr &lt;ch&lt; chub' kiib', kiib' eh wetz ari li xansaj y k'is rixóql k'is inxib'al también ari li xran taq inpapá,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> pero en lajori en la actualidad eh ta' chki' transaj jinon li, ilan inwi'lin xaq chaq tk'amsaj b'i ánm jinon li,     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> per ójr si eh tk'amsaj b'i k'is qleen, y tk'amsaj b'i k'is. . .  y ya cuando tb'e ánm chi rchooch pues eh k'is jpapá k'is ánm tjk'am taq b'i </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE> qleen re ánm tsipaj taq b'i ropero, tsipaj taq b'i eh jtraste ánm, porque tjb'ij taq que ari li, ari li jchaak jun ánm t'e t'er rk'i jun unaq.   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE> E&lt;ee&gt;h wi' chik ni'j costumbre e&lt;ee&gt;h sobre . . .</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE> eh sobre komnaqib', li chik man costumbre ari tran taq eh, tijsaj ak'waa, pues chuch jaa wk'ilin e&lt;ee&gt;h tran taq q'ooq',   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE> mkuun, tran taq e&lt;ee&gt;h ch'iim, tran taq e&lt;ee&gt;h k'is e&lt;ee&gt;h  ak'waa y k'is tb'e taq e&lt;ee&gt;h   li komsant;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE> ari li costumbre b'nol, b'nol </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE> y pero ni'j q'iij antes tran taq, e&lt;ee&gt;h trne' taq pintar k'is jkamnaqaq,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE> k'is trne' taq adornar, tkoje' taq corona, tkoje' taq kotz'ii'j, e&lt;ee&gt;h tkoje' taq chaq chaj, tkoje' taq k'is adornos chub' jkamnaqib'aq   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE> y&lt;yyy&gt; ya jun b'esal q'iij tijtije' taq e&lt;ee&gt;h k'is e&gt;ee&gt;h qleen chub' jkomnaqib'aq &lt;es&gt;, &lt;t&gt; tb'ij taq kirtyan que ari, que ari como que tran taq convivir rk'il jkomnaqib'aq. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE> Wi' chik jun costumbre chik re navidad, eh qetam que&lt;ee&gt; man costumbre li wi' porque </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE> e&lt;ee&gt;h ari cuando &lt;xk'us&gt; xk'isi' Jesús, y&lt;yyy&gt; man costumbre li tran taq e&gt;eee&gt;h el veinticuatro,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE> eh pues tran taq tamal, chu wchooch tran taq tamal, y&lt;yyy&gt; ya re &lt;cen&gt;, re cena a media noche,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE> e&lt;ee&gt;h k'is tijtij taq tamal, k'is taw taq juntiir eh &lt;j&lt;qafamiliar, k'is taw taq tíos, e&lt;ee&gt;h &lt; inwo&gt; &lt;q'at&gt; maq watz, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE> e&lt;eee&gt;h k'is incuñado, taw taq chi jtijik jcena'aq la jaa, tran taq caliente y wi' chik ni'j qleen tran taq pues,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE> ójr &lt;nos&gt; ta' wetam nimo tran taq, per lajori que tinwil wk'il la jaa pues que tqatij eh caliente, tamal,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE> y&lt;yy&gt; de ahí tk'atsaj cuetes, ya el día siguiente eh wi' k'is trnow taq t'e taq de paseo. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE> Ri li chwaj tinyol chawe taq lajori, tinkomaj chawe taq, k'omo. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="L.T.V.M" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Buen dia, buen dia a todos eh mi nombre es Lidia Teresa Ventura Mulul eh soy de Uspantán, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> eh ahora quiero hablar con ustedes sobre la semana santa, para mi la semana santa, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> bueno a mi lo que me han enseñado en mi casa es que la semana santa es una semana sagrada, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> y</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> las costumbres que a mi me han enseñado en mi casa es de que se como pan, miel y atol, pero </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> también para el desayuno se come frijol blanco y pescado o huevo y para el almuerzo pues, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> eh en mi casa se toma caldo de pescado y mmmm . . . </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE> estan unos eh  con unos mis tíos, ellos comen pacayas con huevo,      </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE> y frijol blanco; </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE> eh a mi en mi casa me han enseñado </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE> que </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE> como esa semana es sagrada, que en esa semana no nos tenemos que bañar, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE> porque decía mi abuelo antes, que es pecado ya que uno se transformaba en pescado, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE> pero eh es lo que a mi me han enseñado en la casa y lo que hacen algunas personas es salir a hacer eh,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE> eh salen de paseo y hacen procesiones eh porque</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE> eso es lo que les han enseñado. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE> Ahora quiero hablar sobre otro tema, que es sobre cuando se pide a una mujer, como esposa de un hombre, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE> esa otra costumbre, eh que al pedir a una mujer, eh yo ví por mi hermana, que llevaron   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE> unas frutas, llevaron gallinas, llevaron unas bebidas, unas gaseosas, unas eh </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE> eh pan, pan en gran cantidad y habían otras cosas que llevaron, pues yo, eh yo había visto que así sea hacía aquí en Uspantán, pero</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE> he escuchado de otras costumbres en otros lugares de que se compran a las mujeres con dinero, pero en nuestro . . . aquí en Uspantán no es eso lo que se hace, eso es lo que he visto, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE> eh desde antes, por mis dos hermanas eso fue lo que se hizo y por la esposa de mi hermano también eso fue lo que hicieron mis padres, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE> pero ahora en la actualidad  eh ya no se hace de esa manera, yo he visto que ya solo se llevan a las mujeres por así, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE> pero antes si eh se llevaban unas cosas y se llevaban unas . . . y ya cuando se va la mujer a su casa pues los padres de la mujer llevan  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE> las cosas de la mujer, le regalan ropero, le regalan trastes a la mujer, porque dicen que ese es el trabajo de una mujer al irse con un hombre. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE> Eh hay otras costumbres sobre . . .</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE> eh sobre muertos, esa es otra costumbre que hacen, se comen tortillas de elote, pues en la casa conmigo preparan chilacayote,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE> guicoy, preparan güisquil, preparan eh unas tortillas de elote y unos se van al cementerio;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE> esas son las costumbres hechas, hechas</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE> y pero unos dias antes hacen, eh llegan a pintar a sus difuntos (panteones) </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE> unos llegan a adornar, llegan a poner coronas, flores, pino, llegan a poner unos adornos sobre sus difuntos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE> y ya en una tarde llegan a comer unas cosas sobre sus difuntos, dicen las personas que es como que si convivieran con sus difuntos. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE> Hay otra costumbre que es la navidad, sabemos que esa costumbre está porque </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE> es cuando nació Jesús, y esa costumbre la hacen el veinticuatro, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE> eh pues hacen tamales, en mi casa hacen tamales y para la cena a media noche, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE> unos comen tamales, llegan todos nuestros familiares, llegan tíos, mis hermanos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE> eh mi cuñado, llegan a cenar  a la casa, hacen caliente y hay otras cosas que hacen pues, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE> antes no se como lo hacían, pero ahora que veo conmigo en la casa que tomamos caliente, comemos tamal,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE> y de ahí se queman cuetes, ya al día siguiente eh hay algunos que se van de paseo. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE> Eso es lo que quiero relatarles ahora, les agradezco a ustedes, gracias. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="L.T.V.M" TIER_ID="Descripción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE> Según las creencias en años atrás en la semana santa era prohibido bañarse porque la gente se convertía en pescado, pero en la actualidad ya no se practica dicha creencia.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE> Ak'waa es el pan hecha de elote (en forma de torilla) que se come en el día de los muertos en la cultura Uspanteka. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE> Es muy tradicional que en la fecha de día de los muertos, familiares pintan los panteones de sus difuntos. .  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE> El 31 de octubre o 1 de noviembre por la noche o madrugada es común el ver llegar a personas al cementerio a compartir la comida tradicional entre las familias con sus difuntos.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE> La navidad en la cultura Uspanteka también es celebrada con la comida y bebida tradicional que son los tamales y el ponche.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE> Se celebra en la cultura uspanteka el 24 de diciembre, como en todo el mundo el nacimiento de Jesús. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE> En Guatemala y en Uspantán, al mencionar caliente que es una bebida se refieren al ponche, como también es conocido en otros lugares, pero se refieren a la misma bebida típica de la navidad.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

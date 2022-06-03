@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-02T11:26:13-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Historia Nawal Montaña.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Historia Nawal Montaña.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:80dbbb97-957a-4968-9e51-0b71d39eacf2</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">30</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="4460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="5190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="9440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="9790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="15120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="15390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="21280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="23950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="30630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="30880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="35900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="36750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="40450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="41070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="46930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="47120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="49360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="57735"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="63565"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="E.M.S." TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> Re la &lt;ra, ra, ra&gt; ra jiib' li ve tre</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> kla' eeeh cuando jun pues ttaw kla' we convenido,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> &lt;ra, ra&gt; ra jiib' li &lt;t,t,&gt;tch'a'w, tch'a'wk    ¡ji'!   xxxt tiche',  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> y ooj tzaq qach'ool ojb'e kla', porque ta' qetam &lt;nen, nen&gt; ¿nen chak? ra jiib' li tch'á'wk.  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> Y jilon &lt;tra&gt; tra jiib' pues &lt;ttt&gt; tch'á'w, tch'á'w taq y qetami'n ooji' pues como  jlon xi'j taq inmaam,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> que jiib', jiib' li, re bonit rilikaq, qusi' rilikaq </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>pero, &lt;wi' , wi', wi', wi'&gt; wi &lt;jjj&gt; wi' &lt;j,aj,aj,j&gt; </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> rájwaq pues, ta' qetam ooj, ta' tqil ooj nada, per tb'ij rechaq que wi' rájwaq &lt;tra&gt; tra jiib',  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>juntir tra jiib' neri, ji'. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> Komo chawechaq, y ooji' content, tikikot wánm wat taq neri, ji'. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="E.M.S." TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Esa montaña que está ahí ve, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> ahí eeeh pues cuando uno llega ahí convenido,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> la montaña habla, habla, ¡sí así es!  xxxt dice, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> y a nosotros nos da miedo ir ahí, porque no sabemos ¿por qué? la montaña habla, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> Y es así pues como la montaña habla, hablan y pues eso nosotros lo sabemos como así decían mis abuelos,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> que esa montaña, se ven bonitas, que se ven bonitas, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> pero, tienen su...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> su dueño (nawal) pues, no sabemos nosotros, no vemos nosotros nada, pero ellos dicen que tienen dueño (nawal) las montañas, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> todas las montañas de aquí, sí así es. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> Muchas gracias a ustedes, estamos muy contentos y me siento muy feliz que estén aquí. Sí así es. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

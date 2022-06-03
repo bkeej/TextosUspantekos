@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-02T12:58:20-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Historia personal J.E.P.U..mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Historia personal J.E.P.U..mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:6944e04e-ba92-43fe-a656-40ae1d4c8f16</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">84</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="3690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="15820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="17980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="28710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="29010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="40000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="40380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="51610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="51990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="62000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="62390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="74700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="75700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="88610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="90000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="103010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="104280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="115995"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="116990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="129310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="129690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="141630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="142210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="152800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="153590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="165100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="165610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="178490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="179000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="189390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="190000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="192630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="196980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="208480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="209500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="220800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="221820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="233640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="233845"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="244000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="244600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="256710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="256880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="268010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="268110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="281300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="288800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="291010"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="J.E.P.U" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> Xi' q'iij, re jun b'esal q'iij ri chwaj inyoloow jun kiitz chib' nen k'exk'ol xqata' re junab' ri eh xmajmaj ji' oor ri junab'iir ya tqachol chik jun aak' junab', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> &lt;tz,eje&gt; ojki'kot re' &lt;taq&gt; pe ta' qetam nen petzal chqáwch y &lt;k&gt; k'il uxub' eh &lt;neb'ij&gt; uxub' iik' majel b'i qawi'l re junab', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> te' xqata'w x'eelch jun, wi' jun nab'ee kristyan xya' man yajeel re njo' neri, man yajeel ji' xpe chq'ap jaa', qab'ij l kaxlan covid-19.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> &lt;st&gt; Ri' man yajeel li &lt;stp&gt; pok k'axk'ol xkan jye' laj qatinmit, jwi'l b'ka' k'ii qawáxk xkan eel taq, kita' chki' jchaakaq, xtija' tqa k'ax, wi' nik'aj tk'ayaj taq&lt;q&gt;,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> tk'ayaj taq tra qleen laq tinmit ta' chki' kristyan naq eel taq b'ik, k'ay naj tz'apir taq, wi' sub'laj k'exk'ol xya' man yajeel li chqe;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> wi' k'ii kristyan xkam taq jwi'l man yajeel li, eh jwi'l lajori &lt;ta&gt; eh &lt;jwi&gt; jwiich na wi' chqaxo'l eh jwiich na pok k'axk'ol xya'w porque</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> ta' chki' tna'w oj'eel b'ik, ta' chki' tna'w qamulaj qiib', ta' chki' tna'w tqa'an qanimq'iij, ta' chki' tna'w &lt;tqa&gt;ojb'e laj tijoj ib', chib' tra ék'l pok k'ax eh jtij taq jwi'l b'aka' </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> juntiir taq qaaj-chuuchaq wi' ma jch'iich'aq lamas looq' taqsaj b'i jchaakaq tra ék'l, xb'isaj chqe kta' chki' looq' ojtaw laj &lt;qa&gt; laj qakomoon &lt;chj&gt; chej eh, chej ta'ik jtakilaq &lt;tra&gt; tra ék'l.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> Wi' wi' k'exk'ol xya'w porque wi' ék'l naq wi' taq nab'ee junab' re tijoj ib', wi' ta' xretamaj taq tsik'ij taq wuuj, ta' xretamaj taq jwi'l b'aka' eh</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> eeh jwi'l, jwi'l man k'axk'ol li &lt;xjya&gt;xjya'w porque wi' qaaj-chuuch n kita' tkwiin tnatun taq, ojb'e ooj, ojtaw laq qakomoon tb'iqaye' eh jchaakaq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> tb'iqaye' eh nen tran taq, &lt;traj&gt; tqataq b'i tra jwuujaq, per wi' jqaaj-jchuuch ta' tkwiin tnatun taq, tra ék'l jwiich tra wuuj tjach taq chqe; ri' li k'exk'ol tinwilin xjya'w, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> y también mo xinb'ij miir, wi' k'ii qawáxk naj xkam jqaajaq-chuuchaq, xkam ralk'uwalaq, xkam richijilaq, k'ax xya' man yajeel li  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> Jwi'l b'ka' li &lt;t&gt; tinta' eh ri jun kiitz ri tinyol chawechaq, jwi'l pok k'ax, pok k'ax xqata'w twik'aj iin, jwi'l b'ka' wi' qamaam-qatiit' naq xkam taq,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> wi' ta' chki' qus muqsajaq laq'ab', ta' chki' &lt;x&gt;, ta' chki'&lt;x&gt; &lt;xix,xnaj,naq&gt; xwaraj taq, xaq xk'amsaj taq b'ik, xi' ya'saj taq l kamsant, ri' li pok k'ax, k'ax b'is &lt;sjt&gt;tka jye' chqe, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> qata' re qajaw re junab' ri tmajmaj chi b'ik, ya ta' chki' naj tqamaj junab', ri' ta' re Ajaw ojt'o'w, tya' qachóq'b' re oj'eel usiil chi chi man yajeel ri, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> rech tya' qachóqb', k'omo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>  Iin jis inchaakun jli Xe'jul, jumo eh jun diez minutos re qatinmit, kla' li wi' chk'ulel</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> eeeh jun ra jaa', re nim jaa' tb'ij ójr, per jwi'l mism li k'exk'ol, jwi'l kristyan ta' naq tchomon taq jaa' &lt;xnaj&gt; xk'isi'n, ta' chki' nim re jaa tq'ax kla' lajori, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> eh kla' li, kla' li ójr &lt;tb'ij&gt; tyol taq inqaaj-inchuuch laj tiemp k'ax, kla' li qap kristyan xmuqsaj taq y ajki' naj re lajori &lt;xnaj&gt; xk'otsaj taq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> k'ii kristyanaq xta'maj kla' chk'ulel &lt;tijoj&gt;tijob'al eh wi' &lt;xtaq&gt; xta'maj taq eh yutul jq'aab'aq, &lt;yutue&gt; wi' ánm, wi' wunaq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> wi' taq eh chúwch tijoj ib' kla' li ch'qap b'ee, kla' li xta'maj taq ni'j kristyan, jelon wi' jun jaa wi' b'i ch'qap también ta' naj, chjk'ulel tijoj ib' kla' &lt;tañ&gt;mien xk'otsaj jun jul, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> xta'saj nik'j kristyan naq, naq &lt;xk&gt; xesaj jk'aslemalaq, &lt;raq&gt; tiempo kla' condo wi' re coflicto armado interno, kla' eh k'ii kristyan xkam taq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> &lt;q&gt;tz'eet pok k'ax, &lt;k&gt;xqile' ooj cuando ri re xta'maj taq, wi' kristyan kla' yutul jq'aab'aq chel laj rijaq, jilon li xmuqsaj taq, jilon li xt'ojsaj taq b'i l jul, li pok k'ax xya' xil komoon li. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> K'omo chawechaq chintatb'éjk.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="J.E.P.U" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Buena tarde, en está tarde quiero hablar un poco sobre cuales dificultades padecimos en este año eh empezó en estas horas el año pasado ya empezábamos un nuevo año,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> estábamos felices, pero no sabíamos que nos venía por delante y tres meses habíamos empezado del año, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> cuando escuchamos salió un, había una primera persona que le dió la enfermedad por acá, esa enfermedad vino del extranjero, le decimos en castellano covid-19.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> Es esa enfermedad que mucho dolor dejó en nuestro pueblo, porque varios paisanos se quedaron, ya no tienen trabajo, sufrieron, hay algunos que venden,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> que venden cosas en el pueblo y ya no habían personas que salieran, las ventas cerraron mucho tiempo, mucho dolor nos dió esa enfermedad a nosotros;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> hubieron muchas personas que murieron por esa enfermedad, eh por ahora aún está entre nosotros eh aún mucho dolor dió porque</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> ya no es posible que salgamos, ya no es posible que nos reunamos, ya no es posible que hagamos nuestras fiestas, ya no es posible que vayamos a las escuelas, sobre los niños sufrieron mucho porque  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> no todos los padres de familia tienen celulares donde se puedan enviar trabajos a los niños, nos dijeron que ya no podíamos llegar a nuestras comunidades a preguntar por los niños. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> Causó mucho problema porque hay niños que estaban en primer grado primaria, hay quienes no aprendieron a leer, que no aprendieron porque eh </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> eh por esa dificultad que causó porque hay padres de familia que no pueden leer, vamos nosotros, llegamos a nuestra comunidad a dejales sus trabajos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE> les vamos a dejar que hacer, les mandamos sus papeles, pero hay padres de familia que no saben leer y los niños aún los mismos papeles nos entregan; esas son las dificultades que veo yo que causó,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>  y también como lo dije hace un momento, hay muchos paisanos que se les muerieron sus padres, que se murieron sus hijos, que se murieron sus esposos, dolor dió esa enfermedad. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE> Por eso esto es un poco de lo que les cuento a ustedes, porque mucho dolor, mucho dolor padecimos siento yo, porque hubieron de nuestros abuelos que murieron,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE> hubieron quienes no fueron bien supultdos en las noches, ya no los velaron, solo se los llevaron, los fueron a dejar al cementerio, eso es lo doloroso, dolor y triesteza nos dejaron,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE> pedimos a Dios para este año que empieza, ya no está lejos para que empiece el año, que sea Dios quien nos ayude, que nos de fuerzas para que salgamos poco a poco de esta enfermedad,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE> y que nos de fuerzas, gracias. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE> Yo trabajo allá en Xejul, como a diez minutos de nuestro pueblo, ahí está a la par </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE> eh de un río, del río grande decían antes, pero por el mismo sufrimiento, por las personas que no piensan el agua se acabó, ya no es grande el río que pasa ahí ahora, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE> eh por ahí antes cuentan mis padres que en el tiempo de conflicto, ahí muchas personas fueron enterradas y no tan lejos de ahora fueron desenterradas,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE> varias personas fueron encontradas ahí a la par de la escuela eh hubieron quienes fueron encontradas con las manos atadas, habían mujeres, habían hombres, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE> estaban eh frente a la escuela ahí del otro lado de la carretera, ahi fueron encontradas algunas personas, asímismo hay una casa que está al otro lado también no muy lejos, a la par de la escuela se escarbó un agujero, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE> encontraron a algunas personas a quienes les quitaron la vida, tiempo ahí cuando estaba el conflicto armado interno, ahí varias personas murieron, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE> en verdad que duele mucho, fuimos a ver nosotros cuando ellos fueron encontrados, habían ahí personas con las manos atadas en sus espaldas, así los enterraron, así los tiraron al agujero, como duele eso que se dió dentro de esa comunidad. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE> Gracias a ustedes por escucharme. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="J.E.P.U" TIER_ID="Descripción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> Ch'iqap jaa' dicen los uspantekos al referirse a paises del extranjero como EE.UU. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> Todas las personas entraron en confinamiento por la pandemia, evitaron reunirse en grupos incluso en familias por el temor del contagio. Fue una acontecimiento histórico y traumático para la sociedad. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> Por la pandemia, las escuelas optaron a las clases virtuales, pero no todos los padres tenían celulares o computadoras para recepcionar las tareas de sus hijos, más en comunidades y aldeas donde no hay energía eléctrica. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE> Xe'jul es el topónimo uspanteko del caserío Xejul, del municipio de Uspantán, siendo los abuelos los que relatan que en ese lugar antes se encontraba un gran agujero, de ahí se origina su nombre. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE> Li k'ax, dicen las personas uspantekas refiriéndose a la época del conflicto armado interno, que asotó a las comunidades mayas por muchos años.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE> Escuela en Uspanteko se dice Tijoj ib', en idioma K'iche' se dice Tijob'al. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

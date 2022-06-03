@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-05-27T14:08:34-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Desktop/LingView/data/media_files/SPK42-03-04-21_relato.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../media_files/SPK42-03-04-21_relato.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:55fb77ff-bb4e-4791-a8a2-8753f0ced79e</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">90</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="11990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="12310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="21790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="21810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="33600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="34000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="44500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="44810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="55100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="55300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="64790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="64990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="75590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="76000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="88210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="88700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="99800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="100200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="108990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="109100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="118400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="118620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="129200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="129510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="141000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="141610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="153500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="153990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="166100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="166300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="180620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="180910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="190490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="191390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="202690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="208500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="223690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="226310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="227100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="228370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="233740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="243000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="256530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="264200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="274300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="274600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="290400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="290690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="300010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="300310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="312100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="312510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="323500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="330000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="341394"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="M.M.R" TIER_ID="TRANSCRIPCIÓN">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> Eh k'amtzawch taq insiwaan-intilmit, ínb'iij María Mulul, eh wi' treinta y cinco injunb', eh inqaaj-inchuuch: Marcos Mulul Méndez,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> y Petrona Reynoso Sajbín. Eh pues iin, iin, win neri, wchooch neri Jacubí. &lt;eh&gt;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> En tinya' jb'ixk chawe taq re jun aq'ab' ri eh que, tinb'ij chre' k'ojol taq wánq, ataq ék'l, que tinya' jun b'íxk chawechaq que -ma sach taq qayólj-,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> porque lajori &lt;tqa&gt; qayólj tjiin tsach, ta' chki' tqa, ta' chki' tqa'an practicar, entoces iin tinya' jun jb'ixk chawe taq, que ma qaschow porque qayólj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> pok rajwáxk eh lajori aat awetan tqan que ooj ojb'ek, tqa, ojb'e, &lt;tq&gt; qatijoj qiib' eh ari' mas rajwáx qayólj,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> pero qe ooj ya tqasach, ta' chki' tqil jcholaaj juntiir lo que tqa'an, porque qamaam-qatiit' xk'ut taq buen taq no'j chqáwch, per qe ooj lajori   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> eya tqasach jwiich juntiiro ri, ntoces iin tinya' jun jb'ij chawe taq ataq ék'l, b'an taq jun toq'ob' siempre eh atyoloow taq re qayólj, ma sachow taq,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> m kan aye' taq porque ari' li jk'utem qamaam-qatiit', lo que xya', kan xjye' taq chqáwx, kan jk'ute' taq chqáwx re qasiwaan-qatilmit, iin ari' li &lt;tin&gt; tinya' jb'ix chawechaq que qab'ne' practicar.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> Eh lajori chwaj . . . porque wi' juerte qleen re costumbres que ooj tjiin tqasach jwiich, &lt;poremo&gt; eh por ejemplo: re eh q'iij sant tjiin tqasach jwiich,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> que qamaam-qatiit' sí xkam taq, ya xkan qaye' tka kla', kan sach tqan, toces iin tinya' jun jb'ix chawechaq de que mkan qaye', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> porque también re rechaq aunque ya xkam tqan, pero rajwáxk que tqakuxtaj taq eh porque wi' juerte chqe que ya ta' chki' tkuxtaj li,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> qamaam-qatiit' xkam tqan y ta' chki' &lt;tqa&gt; ta chki' tqakuxtaj taq, ntoces iin sí tinya' jb'ix chawechaq que ma schow taq qacostumbre porque ójr qamaam-qatiit' xk'ut taq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> de que eh cuando tetaw q'iij sant, tkuxtaj taq qawi'l, ojb'e li komsant, &lt;tqa&gt; qak'am b'i ch'iim, qak'am b'i ajan, qak'am b'i múkun,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> y ojb'e chib'aq hasta &lt;tiqa&gt; qaworb'ej taq, ojewi'n chib'aq, pero lajori ya no, ooj tqab'an como que ya fuera chaq jun itz'aab' tqab'an rechaq re re, tkan qat'oje' taq kla', ntoces también ari' li lo que</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> qe maq qasechow pues, porque ari' li lo más importante &lt;que&gt; que wi' lajori, porque ya lajori qas tz'eet ta' chki' qakojeb' &lt;chuch&gt; chuch qleen, yat pur itz'aab' chaq tqab'an re, ntoces iin tinya' jb'ix chawechaq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> de que qab'ne' practicar de nuevamente. También tinb'ij chawe taq de que también re navidad ya, ya como tesach chqe también, ya tqa'an perder costumbre, que kita' chki' &lt;tqa&gt; tqak'ul jq'iij;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> toces iin tinb'ije chawechaq insiwaan-intilmit que qab'ne' seguir adelante, ma kan qaseche' juntiir lo q qacostumbre tqab'an re juntiro junab',</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> tálvez ne' tjta' taq eh wi' naq qejil qatz'aq kita' chki' raj taq que ooj tqa'an practicar juntiro ri', pero ma qaye' qiib', &lt;qa&gt;qak'ise' jwiich lo que qamaam-qatiit' xka jk'ute' taq chqáwch.   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> Pues eh la mera verdad pues we iin re wik'lal siempre, porque ari li jk'uteb' inmaam chínwch, eh intiit' más porque ari' re re más tyoloow Uspanteko, pues we iin sí tinb'na' practicar eeeeh Uspanteko chuch ra wk'lal porque wetami' que es importante.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> uxiib'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> Chuxiib' tyoloow taq Uspanteko, re re tyoloow taq Uspanteko, kiche y &lt;esp&gt; kaxlan </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> Puees eh ta' tinb'ij chawe que tinb'an cien por ciento, sino que sí, tinb'na' practicar rk'il wik'lal, porque ari' li lo que intiit' xka jk'ute', que re re siempre tjb'ij: ma sach taq y b'an taq practicar y ooj sí tiqab'na'n.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> Pues, según eh jcreencias inmaam-intiit' era de que eh ya eh man q'iij que tcholmaj b'ik re &lt;vie&gt;domingo de ramos, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> ya wi' chaq juuun, eh por decirte wi' chaq ya jun, juuuun, qakoje' re&lt;eeee&gt;   ya wi' chaq que . . . inmaam-intiit' según re re tjb'ij ójr de que, desde &lt;ju&gt;eh domingo de ramos,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE> kita' chki' re' tqasek' qiib', ta' chki' qayoq' qiib', ta' chki' re' ojch'o'ji'n, kita' chki' re' tqsek' tqalk'lal, tqamaj b'i li jun semana de reposo tb'ij taq mosib';</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE> toces ooj, ooj pues tqab'na' na practicar li, hasta sábado de gloria tb'ij q'eetz &lt;in&gt;inmaam eh ya' k'astajb'al tche' taq re re, tonces ya eh qaqaaj Dios pues tk'astaj jwiich,       </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE> eh toces ya ooj pues ya kla' donde ék'l ya tchapsaj taq, según jcreencia inmaam-intiit' es de que tya'saj . . . ruk' re' looq' tsek'saj jun ék'l, tesajch ralaj jmaak lo que xan taq l jun xmaan.   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE> Eh k'omo chawechaq que xinata' taq, no se xinkwiin o ta' inkwiin, pero iin ari' li que eh &lt;t eh&gt;tkuxtajch laj wánm, k'omo chawechaq. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="TRANSCRIPCIÓN" PARTICIPANT="M.M.R" TIER_ID="TRADUCCIÓN">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Eh buena noche pueblo en general, mi nombre es María Mulul, eh tengo treinta y cinco años, eh mis padres: Marcos Mulul Méndez, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> y Petrona Reynoso Sajbín. Eh pues yo estoy aquí, mi casa está aquí en Jacubí. &lt;eh&gt; </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> En les recomiendo en esta noche eh que, les digo a los jóvenes, a ustedes niños, que les doy una recomendación a ustedes -que no pierdan nuestro idioma-,     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> porque ahora nuestro idioma se está desapareciendo, ya no lo practicamos, entonces yo les doy una recomendación a ustedes, que no lo perdamos porque nuestro idioma  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> es muy necesario eh lajori ustedes saben que nosotros nos vamos, vamos a aprender eh es mas necesario nuestro idioma, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> pero nosotros ya lo perdemos, ya no analizamos todo lo que hacemos, porque nuestros abuelos nos enseñaron buenos conocimientos, pero nosotros ahora    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE> ya estamos por desaparecer todo, entonces yo les doy una recomedación a ustedes niños, hagan un favor siempre eh hablen en nuestro idioma, no lo pierdan, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE> no lo dejen porque es esa la enseñanza de nuestros abuelos, lo que nos han dejado, lo que nos han enseñado para nuestra población, yo eso es lo que les recomiendo que lo practiquemos.     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE> Eh ahora quiero . . . porque hay varios aspectos de las costumbres que nosotros las estamos desapareciendo, por ejemplo: el día de los santos lo estamos desapareciendo,     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE> que sí nuestros abuelos mueren, ya los dejamos ahí, se olvidan, entonces yo dejo una recomendación de que no los dejemos,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE> porque también ellos aunque ya fallecieron, pero es necesario que los recordemos eh porque hay muchos de nosotros que ya no recordamos eso, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE> nuestros abuelos fallecieron y ya no los recordamos; entonces yo sí les recomiendo a ustedes que no pierdan nuestras costumbres porque antes nuestros abuelos lo enseñaron, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE> de que cuando llega el día de los santos, que los recordemos, vamos al cementerio, llevamos güsiquiles, llevamos elotes, llevamos güicoyes </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE> y vamos con ellos hasta velarlos, vamos a comer con ellos, pero ahora ya no, nosotros lo hacemos, como que ya fueran un juguete lo que les hacemos, los dejamos tirados ahí, entonces también es eso lo que  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE> no debemos de olvidar pues, porque es eso lo más importante que hay ahora, porque ya ahora en verdad ya no tenemos respeto ante las cosas, ya puro jueguete le hacemos, entonces yo si les recomiendo a ustedes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE> de que lo practiquemos nuevamente. También les digo a ustedes de que la navidad como que también ya se nos esta olvidando, ya vamos a perder la costumbre, que ya no recibimos su día;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE> entonces yo les digo a ustedes pueblo en general que sigamos adelante, que no dejemos olvidado todo lo que son nuestras costumbres que hacemos todos los años,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE> tálvez oígan eh hay algunos paisanos que ya no quieren que nosotros practiquemos todo esto, pero no no dejemos, terminemos con lo que nuestros abuelos nos dejeron enseñado.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE> Pues la mera verdad pues yo con mis hijos siempre, porque esa es la enseñanza de mi abuelo ante mí, eh mi abuela más porque era ella quien hablaba más Uspanteko, pues yo sí practico eh Uspanteko ante mi hijos, porque sé que es importante. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE> tres</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE> Idioma maya K'iche' en Uspanteko se dice: K'ich </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE> Pues eh no te voy a decir que lo hago en un cien porciento, sino que sí, lo practico con mis hijos, porque eso es lo que mi abuela dejó enseñado, que ella siempre decía: no lo pierdan y practiquenlo y nosotros sí lo hacemos.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE> Pues, según eh las creencias de mis abuelos eran de que el día en el que empieza es domingo de ramos,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE> ya había un, por decirte ya había un, supongamosle  ya había que . . . mis abuelos según ellos decían que antes, desde eh domingo de ramos,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE> ya no nos golpeábamos, ya no nos maltratamos, ya no nos peleábamos, ya no golpeábamos a nuestros hijos, empezábamos una semana de reposo a como lo dicen los ladinos;     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE> entonces nosotros pues aún practicamos eso, hasta el sábado de gloria decía mi finado abuelo eh ya la resurrección le decían ellos, entonces ya nuestro padre Dios pues despertó, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE> entonces ya nosotros pues ahí es donde ya agarran a los niños, según la creencia de mis abuelos es de que se da . .  después ya se puede golpear a un niño, para librarlos de sus culpas que es lo que hicieron en la semana.     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE> Eh gracias a ustedes que me escucharon, no se si pude o no puedo, pero yo es eso lo que recuerdo en mi corazón, gracias a ustedes.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="TRANSCRIPCIÓN" PARTICIPANT="M.M.R" TIER_ID="DESCRIPCIÓN">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> B'aakub'i' es el topónimo uspanteko del Caserío Jacubí, de Uspantán. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Q'iij sant, es la festividad que realizan en la cultura maya a finales de octumbre, venerando a los difuntos. En la que se comen elote, ayote, güisquil entre otras cosas.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE> Para esos días las personas uspantekas, acostumbran ir a comer con sus difuntos, la gastronomía maya para esas fechas es: güisquiles, elotes, tortas de elote, ayotes entre otras comidas. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

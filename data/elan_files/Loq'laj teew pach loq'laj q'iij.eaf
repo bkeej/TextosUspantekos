@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-01T13:03:58-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Loq'laj teew pach loq'laj q'iij.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Loq'laj teew pach loq'laj q'iij.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:38daadfa-7b14-4e26-a41b-606eabffaf46</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">36</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="8620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="9430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="16830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="17130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="25020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="25640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="32460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="33170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="37510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="37710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="44680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="44880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="49830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="50520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="55400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="56680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="65410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="66570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="73010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="73870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="81400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="81720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="82660"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="T.A.M.L" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> K'amtzawchaq, k'am taq jun rtziil áwchaq lajori. Chwaj tinyol chawechaq nen xan taq loq'laj teew pach loq'laj q'iij xta' rib'aq.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> Loq'laj teew, pach loq'laj q'iij tjiin tich'o'jin rb'ilaq, tjiin tril taq ¿nen rechaq kiib' wi' na jor jchóq'b'?,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> ri li tjiin tran taq, ri tril taq xq'ax jun wunaq tokal chaq jb'ee, sutal chirij jun pimlaj itz'iiq. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> xchomorsaj taq, xij taq, nen rechaq kiib' nab'ee tran re yaj wunaq tijresaj man jpiim ritz'iiq chirij</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> re tijb'ijsaj nen rechaq wi' na jor jchóq'b'.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> Jlon xan taq, xchol loq'laj teew, xijxut'ij rib', xijxut'ij rib', jor teew xan</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> yaj wunaq xrik'aj wi' teew xijsutaj rib' xilj man jpiim ritz'iiq;   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> loq'laj teew xril kita' xkwiin re yaj wunaq, xye' rib'.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> Ajrik'u re' x'eelch loq'laj q'iij, ¡xqopchin! ¡xqopchin! jor q'aaq' xan, laj oor yaj wunaq xijresaj man jpiim ritz'iiq chirij.      </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> Jlon li loq'laj teew xrila' kita' xkwiin re yaj wunaq,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> kita' chki' xij, kita' chki' xan, xye' laj ránm ri' loq'laj q'iij wi' na jor jchóq'b'. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> K'omo. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="T.A.M.L" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Buen día, reciban en este momento un cordial saludo. Quiero relatarles lo que hicieron el  viento del norte junto al sol cuando se encontraron. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> El viento del norte junto al sol, estaban discutiendo entre ellos que ¿quién de los dos era el más fuerte?, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> en eso estaban, cuando de repente vieron pasar a un hombre viajero envuelto en una gruesa capa.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>  Quedaron de acuerdo y establecieron que el primero que lograra que el viajero se quitara la capa   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> sería considerado como el más poderoso. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> Así lo hicieron, el viento empezó a soplar tan fuerte, tan fuerte, hizo mucho aire como pudo, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> pero el hombre al sentir que había frío, más se acobijó entre su capa de viajero; </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> al fin, el viento del norte vió que no pudo contra el hombre, se rindió.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> Entonces después salió el sol, brilló y brilló intensamente, e inmediatamente el hombre viajero se quitó su gruesa capa.      </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> Así, el viento del norte vió que no pudo contra el hombre,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE> se vió obligado a reconocer que el sol era el más poderoso de los dos. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE> Gracias. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

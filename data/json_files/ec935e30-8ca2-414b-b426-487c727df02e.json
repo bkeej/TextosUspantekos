@@ -1,0 +1,508 @@
+{
+  "metadata": {
+    "timed": false,
+    "story ID": "ec935e30-8ca2-414b-b426-487c727df02e",
+    "title": {
+      "_default": "Maq tukur - El tecolote"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "6/2/2022",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "T.A.M.L.",
+    "glosser": "",
+    "speakers": [
+      "T.A.M.L",
+      "T.A.M.L "
+    ],
+    "xml_file_name": "Maq tukur - El tecolote.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Transcripción": {
+        "subdivided": false
+      },
+      "Traducción": {
+        "subdivided": false
+      },
+      "Descripción": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "T.A.M.L",
+        "tier": "Transcripción"
+      }
+    }
+  },
+  "sentences": [
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 1590,
+      "end_time_ms": 11800,
+      "num_slots": 1,
+      "text": " K'amtzáwch, k'am taq jun rtziil áwchaq lajori, chwaj tinyol chawechaq jun yolooj xkan jyole' k'tzan inmaam chqe, re re tjb'ij ójr neri Tz'unun Kaab' wi' kiib' kristyan,     ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " Buena tarde, reciban un cordial saludo ahora, quiero contarles a ustedes un cuento que nos dejó relatado mi finado abuelo a nosotros. Él decía que antes aquí en Uspantán habían dos personas,  "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 12080,
+      "end_time_ms": 24300,
+      "num_slots": 1,
+      "text": " jor qus trik'aj taq tijtij taq awryent, laq' tinmit tch'ob'saj jwiichaq nemo kiib' kristyan jor tiq'ab'ar taq; xan taq jumul wi' taq xo'lq' b'ee, ta' chki' tq'i tb'en taq, xchomorsaj taq tq'aj taq b'ik laj rchoochaq,   ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "  que les gustaba mucho tomar lícor, en el pueblo se les conocía como dos personas que se emborrachaban mucho; hiceron una vez cuando estaban en la calle, ya no aguantaban caminar, pensaron en regresarse a sus casas, "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 24590,
+      "end_time_ms": 36900,
+      "num_slots": 1,
+      "text": " nik' qe wi' rchoochaq, jumul nik' taq tq'aj taq b'ik, la' jb'ee'aq wi' kiib' nimaq taq chee', retam chaq ttaw taq la' man, la' man nab'ee chee' twa'r taq ra kiitz kla', tuxlan taq, ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " en la misma dirección están sus casas, siempre juntos se regresan, en su camino hay dos árboles grandes, ya saben que al llegar al primer árbol se paran un poco ahí, descansan, "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 37200,
+      "end_time_ms": 46300,
+      "num_slots": 1,
+      "text": " jlon xan taq, xi' tqan, xtaw taq la' man nab'ee chee' li, xuxlan taq, ta' xri'k'ajaq, xi' jwarjaq, ri' xk'astaj jwiichaq b'esal aq'aab' chaq,    ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " así lo hicieron, se fueron, llegaron a ese primer árbol, descansaron, no sintieron, se durmieron, cuando despertaron ya era muy de noche, "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 46960,
+      "end_time_ms": 58230,
+      "num_slots": 1,
+      "text": " ri' tjtaw chub' man chee' li wi' jun ra ka'n tb'ixan y tjb'ij: atinmuqu', atinmuqu', atinmuq'u tche', xtzaq jch'ool, xb'it jpach y tjb'ij re: ta'mpuch nen tjb'ij man ka'n li tche'     ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " cuando escuchó sobre ese árbol había un animal que cantaba y decía: atinmuqu', atinmuqu', atinmuqu' decìa, se asustó, levantó a su compañero y le dijo: escucha que dice ese animal dijo,      "
+            }
+          ]
+        },
+        {
+          "tier": "Descripción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " Atinmuqu' significa te voy a sepultar, sinónimo de muerte. Por ese tipo de similitud entre el graznido de los buhós con la palabra es que se consideran a los buhós como mensajeros de la muerte. Creencia de la cultura maya.   "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 58270,
+      "end_time_ms": 67210,
+      "num_slots": 1,
+      "text": " atinmuqu', atinmuqu' tche' ra ka'n, xtzaq jch'oolaq y tjb'ij ¿ta' awetam nen man ka'n li? tche', wetami'n tche' man jun ¿awetami'n nen chak jloni' tijb'ij?   ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " atinmuqu', atinmuqu', decía el animalito, se asustaron y preguntó ¿no sabes qué es ese animal? sí lo se decìa el otro ¿sabes por què así dice? "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 67690,
+      "end_time_ms": 77500,
+      "num_slots": 1,
+      "text": " wetami'n tche', ta'mpuch tjiin tjb'ij chqe, atinmuqu' tche' chqe, li tjiin tijb'ij xtaw qahora tche', li xtaw qahora tche', xq'aluj rib'aq, x-'ook taq chojq'eej,        ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " sí se decía, escuchá lo que nos está diciendo, atinmuqu' nos está diciendo, de plano nos está diciendo que nos llegó la hora decía, de plano ya llegó nuestra hora decía, se abrazaron, empezaron a llorar,    "
+            }
+          ]
+        },
+        {
+          "tier": "Descripción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " Los antepasados consideraban a los buhós o tecolotes como mensajeros de la muerte, por lo que al oirlos graznar cerca de sus casas, era un sutuación preocupante, ya que anunciaban muerte, según sus creencias. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 77880,
+      "end_time_ms": 88060,
+      "num_slots": 1,
+      "text": " xtaw qahora, xtaw qahora tche' taq y ¿nen tqab'an lajori? tche', jo' rk'il <qa>qech'elxiik tche', tqata' kuyb'al qamaak rechaq y tqab'ij rechaq kuy taq re nen k'axk'oliil xqaye' rechaq  <che>  ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " llegó nuestra hora, llegó nuestra hora decían y ¿qué vamos a hacer ahora? se preguntaban, vamos con nuestros familiares decían, les vamos a pedir que nos disculpen y les vamos a decir disculpen por las dificultades que les causamos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 88390,
+      "end_time_ms": 99610,
+      "num_slots": 1,
+      "text": " tche' taq, jo' tche' taq, xi' tqan, kita' tq'iw tb'en taq, xq'aluj b'i riba'q, xi' tqan, xtaw laj rchoochaq, tjriq chii'aq, tjriqej jchii', tjriqej jchii'aq,     ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " decían, vamos decían y se fueron, no aguantaban caminar, se abrazaron, se fueron, llegaron a sus casas, gritaban, gritaba y gritaban,  "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 99870,
+      "end_time_ms": 110500,
+      "num_slots": 1,
+      "text": " tb'ij rechaq rech'elxiik kuy taq qamaak tche', xtaw qahora, xtaw qahora tche', ojkami'n, ojkami'n che' taq y ¿nen chak? tta' rech'elxiik rechaq, xqata' jun tukur laj qab'ee tche' y tijb'ij chqe:   ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " les decían a sus familiares discúlpennos decían, llegó nuestra hora, llegó nuestra hora decían, nos vamos a morir, nos vamos a morir decían y ¿por qué? les preguntaban sus familiares a ellos, encontramos a un buhó en nuestro camino decían y nos decía:         "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 110580,
+      "end_time_ms": 121000,
+      "num_slots": 1,
+      "text": " atinmuqu', atinmuqu' tche' chqe, ya xtaw qahora tche', y rech'elxiik ttzej jwiichaq, ttzej jwiichaq, ta' tjchomorsaj taq nen tjb'ij taq che'. tche' taq, ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " atinmuqu', atinmuqu' nos decía, ya llegó nuestra hora decían y los familiares se burlaban de ellos, se burlaban de ellos, no piensan lo que están diciendo decían, "
+            }
+          ]
+        },
+        {
+          "tier": "Descripción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " Las generaciones actuales ya no creen o practican las creencias de nuestros antepasados, es más tienden a burlarse de las creencias de los ancianos, hasta incluso son victimas de burlas. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 121290,
+      "end_time_ms": 130510,
+      "num_slots": 1,
+      "text": " re re q'ab'relaq ta' tjchomorsaj nen tjb'ij taq, tche' y jloni' xkan eel. Lajori chwaj tinyol chawe chaq ¿nen chaak? taq ra kiib'  ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " ellos están borrachos no piensan lo que están diciendo, decían y así quedó. Ahora quiero contarles a ustedes ¿por qué? las dos "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 130990,
+      "end_time_ms": 141010,
+      "num_slots": 1,
+      "text": " kristyan ri, kiib' wunaq jlon xchomorsaj taq; laj, laj qabàntájk Tz'unun Kaab' wi' laj qa . . .",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " personas, los dos hombres así pensaron; en nuestra cultura uspanteka tenemos en nuestros . . .  "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 141394,
+      "end_time_ms": 154641,
+      "num_slots": 1,
+      "text": " chómb'l nen xkan jyol taq k'tzan qamaam-qatiit', nen <j> tjyol taq ójr taq kristyan, rechaq tjb'ij we ttaw jun taq ra ka'n ri, taq ra tukur chjk'ulel rchooch jun y tb'ixan taq     ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " pensamientos lo que nos dejaron relatado nuestros finados abuelos, lo que relatan nuestros antepasados, ellos decían sí llega uno de esos animalitos, los buhós a la par de la casa de uno y cantan  "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 155201,
+      "end_time_ms": 165604,
+      "num_slots": 1,
+      "text": " ri' tjiin tye' <k'> tjiin tjb'ij kamikal, we tqata' jb'iix taq ra tukur ri' lajori, ma jlon ta tjb'ij, ma kita' tjb'ij atinmuqu', jlon ta' tjb'ij,    ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " están dando, están anunciando muerte, sí escuchamos el canto de los buhós ahora, no es eso lo que dicen, no dicen atinmuqu', eso no es lo que dicen, "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 165806,
+      "end_time_ms": 176207,
+      "num_slots": 1,
+      "text": " nik' qe <j>jb'iix ma jlon ta'n, taq ra kiib' wunaq ri jlon xchomorsaj taq jwi'l jkojb'alaq, ójr taq kristyan tijkoj, tjb'ij taq    ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " es parecido su canto pero no es así, los dos hombres así lo pensaron por sus creencias, las personas antepasadas, creían y decían "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 176476,
+      "end_time_ms": 188116,
+      "num_slots": 1,
+      "text": " we ttaw taq taq ra ka'n li tjiin tjye' jb'ij kamikal, jwi'l k'i ri kristyan we tjta' jb'iix taq ra ka'n li chjk'ulel rchoochaq txukar taq, tta' taq kuyb'al jmaak ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " sí llegan esos animalitos es porque están anunciando muerte, es por eso que sí las personas escuchan el canto de esos animalitos a la par de sus casas se hincan, piden perdón por sus errores "
+            }
+          ]
+        },
+        {
+          "tier": "Descripción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " Muchas personas se acercaban más a Dios o se reconciliaban con Dios, al sentir cerca su muerte, era cuestión de reflexión y creencia. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 188605,
+      "end_time_ms": 197206,
+      "num_slots": 1,
+      "text": " chíwch Dios, tjta' re Dios tjye' chaq ra kiitz <j>jk'aslemalaq. Jwi'l k'u li, ri' xkan jyol k'etzan inmaam chqe,",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " ante Dios, le piden a Dios que les de un poco más de vida. Es eso, lo que nos dejó relatado mi finado abuelo a nosotros, "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 197600,
+      "end_time_ms": 209820,
+      "num_slots": 1,
+      "text": " ri' re ójr taq kristyan, ri' re tjchomorsaj; ajwich na lajori, wi' na kristyan, wi' na jkojb'al chíwch nen xkani', <xkañañan> nen xkani' inyol <cha> nen tjiin tinyol chawechaq, wi' na  ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " él era de nuestros antepasados, eso era lo que pensaba; actualmente, aún hay personas, que aún tienen sus creencia sobre lo que les estoy relatando a ustedes, aún lo tienen      "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 210035,
+      "end_time_ms": 220810,
+      "num_slots": 1,
+      "text": " jchómb'al eh wi' na jkojb'al chub', wi' chki' kristyan ta' chki' tjkoj taq, wi' chki' kristyan ta' chki' xjta' taq nen tjiin tinb'ij chawechaq lajori,      ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " en sus pensamientos eh aún creen en eso, hay personas que ya no lo creen, hay personas que ya no escucharon lo que les estoy diciendo a ustedes ahora,   "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcripción",
+      "start_time_ms": 220980,
+      "end_time_ms": 229000,
+      "num_slots": 1,
+      "text": " jwi'l k'u li ri' li chwaj tinyol chawechaq, jkojb'al ójr kristyan chub' jb'iix taq ra tukur. K'mo chintatb'éjk.   ",
+      "dependents": [
+        {
+          "tier": "Traducción",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": " es por eso, que quiero relatarles a ustedes, las creencias de las personas antepasadas sobre el canto del buhó o tecolote. Gracias por escucharme.   "
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

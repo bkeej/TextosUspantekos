@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-02T11:40:02-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Relato personal M.P.A..mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Relato personal M.P.A..mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:4f3f98e4-7cf9-441f-ab70-742f3be860c0</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">262</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="5400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="11780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="12270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="21090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="21500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="32590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="33700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="45925"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="46560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="57190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="57800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="68510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="68680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="79490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="80510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="91820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="92480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="104410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="104490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="118020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="118980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="128010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="128215"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="139010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="139200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="149990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="150080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="161025"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="161280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="171420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="171490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="180600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="181300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="190300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="190620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="203210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="203600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="211320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="211990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="223970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="224400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="234990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="235220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="244990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="245580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="258410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="259200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="269420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="270390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="280700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="280900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="291320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="291500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="300010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="300500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="311010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="312750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="324460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="324715"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="336015"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="336710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="348410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="349370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="361010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="362580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="372200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="372780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="384880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="385200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="389770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="390500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="402000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="402690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="414010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="414080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="417400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="418200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="426010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="427320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="439000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="439130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="446010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="446910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="458290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="459010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="470300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="471290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="484490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="485510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="497990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="498810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="509000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="509590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="521710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="522800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="534680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="535350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="547370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="547510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="557990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="558400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="570010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="571500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="585590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="586010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="597000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="597200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="611010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="611480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="623000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="623400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="634610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="635990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="649410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="650130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="659990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="661010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="674320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="675020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="686010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="687000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="698440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="698870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="710010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="710510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="721000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="721300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="733010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="733790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="747990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="749420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="762110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="763100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="773010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="773910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="785050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="785300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="796000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="796210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="808030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="809200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="818990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="819100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="832010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="832090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="841010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="841600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="853110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="853750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="865990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="866480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="869796"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="M.P.A" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>&lt;K'omotzaw&gt; k'omotzáwch qaaj eh qch'elxik, k'omo&lt;tz,tz&gt;tzáwch noya </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> ¿nen tiche'? ¿tzini áwchaq?, k'omo chawechaq xojasik'ij taq li jun lamas &lt;jun, jun&gt; jun komoon tziij, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> qakámwaj chawechaq que &lt;xaj&gt; xojapixb'aj taq. Y lajori lo que chwaj tanyol chawechaq nemo &lt;qa&gt;qak'iyik laj qatilmit Uspantán, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>  y&lt;yy&gt; qak'iyik ójr rk'i qaqaaj-qachuuch eh masVR' chaak, masVR' opiis tb'ansájk cuando ooj ajnuuch' porque  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> wiich kaa' ke'm eh qaleej, tqab'an jwaa maq aaq, jwaa tz'ii', ojtaqsaj b'i chi ya'ik waa laq chaak lamas tichaakunwi inqaaj </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> inqaaj tijtik ájaj Peña Flor y kla' li &lt;tij&gt; wi' jmokoom, wi' &lt;j&gt; wi' ajiij tijtik,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> y cuand ti'ok tiempo re ájaj, xok tqa ch ketik ájaj, xok taq chi jb'anik kaab', y &lt;qa&gt; qacuent ooj jiin qak'om b'i waa;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> a las tres de la mañana ojb'it pach inchuuch, xoj'okVR li chi jb'anik tib'el waa, we kinaq, we re piix, we re iik o a ver nen tiqak'om b'i re desayuno, re jwaa'aq re aq'aab'     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> y&lt;yy&gt; cuand ya xantji'n, xinb'i li, xink'omab' ra inchíkch laj ínb', xojb'i chi jya'ik waa re aq'aab' y tya'maj jwaa wunaq  mkoon </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> jurub' mkoon wi' l chaak, cuand kan ya'maj jwaa'aq &lt;xx&gt;xojq'aj chki' xyuq &lt;q&gt;qab'ne' chik waa re kab'ljuuj, xoj'ok &lt;chile&gt; chi leej, chi b'nik tib'l waa, a ver nen tib'l waa tqab'an b'i, we are íchj, we are kinaq', we are ti'niik,  a ver nen tqak'am b'ik      </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> y ruk'a'aq porque ójr sol chqon jaa' wiich kaa', jiin qachaaq wiich kaa' re q'oor y ajruk' re' tiqab'n rk'a'aq  y&lt;yyy&gt;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> y cuand tib'antaj chik li, xojb'i chik chi ya'ik kab'ljuuj, xiqaye'ch waa re l kab'lajuuj y jinon qopiis li q'iij, q'iij, q'iij, q'iij, q'iij, q'iij, q'iij;  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> b'ay ji' chki'non cinar, tb'iqaye' chik cinar re ajcháakb', cuand tb'antaj cinar xojpe chki'n, b'ay, ilem chki' raj jkojik qatzii, jkojik qleen qe,     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> eh tzakik chik qleen qe re laj kaab' q'iij chik pay que ojb'e chik jun vuelt chik li chaak, b'ay y cuand titz'ilob' ritz'iiqaq xojpetVR li xojb'ich'ojón, xi' qab'ne' qach'ojnik,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> y qitz'iiq poy atz'iiq, porque kita' galan atz'iiq ójr y la' pur achóq'b' jiin ach'aj porque wi' bueni xab'oon kita',   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> más paqal rijil xab'oon y pok ooj k'ii, pok ooj k'ii rk'i inqaaj-inchuuch, ooj ah ooj k'ii, k'ii ák'l xojk'iy kla'. Y </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> inqaaj tichaakún también &lt;li&gt; li sierra, tijqasaj chee', tijqasaj chaj, tijket chaj,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> y tresaj tz'oloom, tresaj regla, tresaj teem re jaa, y lo mism jiin b'iqaye' jwaa, jiin qach'aj ritz'iiq, jiin qab'an jwa'x qleen re,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> y um ta' tqasub'aj k'ax trik'aj taq, kla' li tpe'w &lt;qay&gt;qayajik, ojyajsaj con ta' tqasub'aj.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> y jino li y cuando tb'e taq laj och'ooj, ri cuando &lt;ti&gt; tb'e taq laj och'ooj, xi' qab'ite'ch kinaq', xi' qamole'ch q'ooq', xi' qamole'ch qleen,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> y xk'oma'ch li inqaaj, xqapetza' laq k'aat, laq kuxtaar, laq chiim lamas tpe'w qleen, b'ay, xpetza' li kwa'y inpapá, ya xma'ch li inqaaj, xma'ch li rika' . . . </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>  eh jal, xma'ch kinaq', xma'ch q'ooq' y tki'kot inqaaj xpetza'ch jkwa'y, xojpeti'n y cuand tyu jal chuch jaa, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> laj kaab' q'iij li xqasa' jal chuch q'iij, xqacha' ajpaam kinaq', xqacha' ajpaam jal, y we cháqj chaq entons ya, we cháqj chaq jaj xoj'ook chi jcha'ik paam, xoj'ook chi jrilik </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> y xqacha' ajpaam li, b'ay xk'olsajVR li k'ujaa cuand cháqj chaq, xi' ye'saj li k'ujaa, eh ajriku' re' eh rtziil que cháqj chaq b'ay xqak'ola' jal,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE> y jley rechaq ójr cuand tik'olmaj jal xna' tqan nimq'iij, jiin b'an waa re kab'ljuuj re juntiir mkoon, jurub' mkoon xchaakún taq,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE> ji' ya'saj jwaa'aq, ji' ya'saj jruk'a'aq y nimq'iij tb'ansájk, nimq'iij tk'atsájk poom com &lt;aj&gt; ajch'ab'al tqan </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE> tijkat taq poom, tijk'at taq cantel, re tijk'omwaj taq re qaqaaj Dios que eh xb'ita' tqa galan jal, xb'ita' tqa galan íxim, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE> y kla' li, rika' . . , jino li tra jnimq'iijaq, va ooj tzi tqil lo mism porque jino tqil ooj porque com,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE> como galan rilik loq'laj cosech tran inqaaj, galan rilik cosech tranVR'. Y xojk'íyik, xojk'íyik, b'ay usiil xqajach qib' laj qchooch rk'i inqaaj-inchuuch,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE> eh xojpétk, xinpe iin, xink'uli'k, cuand xink'uli' b'ik de quiche años &lt;xink'ul&gt; jo'lojuuj injunab' cuand &lt;xin&gt;xink'ulik,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE> y&lt;yyy&gt; xink'uli' b'ik li jun k'ichee'laj y cuand xintaw li k'ichee'laj, kita' jaa', kita' q'aaq', kita' nad, ta' jun qleen que &lt;ti&gt; </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE> twil jwiich kla', xqa k'ichee'laj, xaq awoj wi', ch qak'ulel ti'ooq' maq utiiw, ch qak'ulel ti'ooq' b'aatz', ch qak'ulel ti'ooq' maq b'alam,     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>  y&lt;yyy&gt; wánm ta' tb'iisónk, ta' tb'iison wánm xinb'e li k'ichee'laj, wi' awoj, wi' qleen, ta' ttzaq inch'ool,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE> que pura inajsons laj kirtyan que ta' &lt;tan&gt; ta' inchomorsánk, ji' y xinb'ek, b'ay, xpe wálb' xi'j chwe: -b'ay kori' ék'l tawil-  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE> -ri' qopiis neri, tzak taq jun b'o'j&lt;jj&gt; piiq'- </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE> y wi' jun ab'aj ji' nimal ri, wi' chki' jun ji' nimal ri, la' man ji' nimal ri tak'ask'aj man piiq' &lt;wiich&gt; wiich ab'aj, bien tak'ask'aj, tak'ask'aj, ya ajruk' re' atb'ek, tb'e akee' jwiich kaa',      </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE> tab'an q'oor re, bien jkee'j kuch kaa', xab'na' li jurub' jwaa atz'ii' ji' nimaq ri', jwaa aaq ji' nimaq ri' y sjiin b'elaj qjaa, jiin qab'elaj qája' </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE> &lt;li&gt; li nim swaan, li nim jaa' ojb'ew chi jk'amik jaa'; </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE> cuando ojq'ajch kosolkoj chaq, pero &lt;como&gt; como &lt;ooj&gt; ooj ékl, ta' tqik'aj kosik, ta' tqik'aj que ojkos,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE> ajruk' re' tijb'ij wálb': -¿ta' atkosk?- tche', tk'omoni' chawe neri tche', tk'omoni'n, -¿ta' atb'iiso'n?- no, ta' inb'iiso'n; itz'ab' qe chínwch iin tinme'ch jaa, itz'ab' qe chínwch tan . . .</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE> tank'ask'aj man piiq' porque ni jmul b'anal inwi'l laj wchooch, ta' jun vuelt tank'ask'aj piiq' laj wchooch ta'n: </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE> Y&lt;yyy&gt; y jinon xojk'iy, b'ay, ojtaqsaj b'ik, -jat li yuq'- ¡eh! tb'i qile, mat eh kiib', kiib' cient maq krner jiin b'i qayuq'e' taq,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE> wi' k'isik jiin b'i qayuq'e' taq, wi' kwa'y b'i qayuqe' taq y tjiin tqak'omch ichaj kwa'y richaj eh richaj wákx qak'omch, &lt;tq&gt;jiin qaye' jwaa'aq maq wákx;    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE> y jino li cuand wi' mkoom, jiin b'i qaye' jwaa maq mkoom li ki'cheelaj, cuand tb'antaj jwaa mkoom, tqapuq' b'i jun q'iib' jaa', tqeqaj b'ik y tiqaye' jwaa'aq laq ki'chee'laj,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE> y tiki'kot qánm oj'eel b'ik porque li tinmit kita' nen tqil neri, jalan chki' li ki'chee'laj, jalan chki' li k'ichee'laj y usiil, usiil xk'amon chwe, b'ay;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE> richaq twil ya xe' wichjil b'a jq'ámq', xe' &lt;laq&gt; laq armit xe'k', xi' chaakún kla', xinkanin wk'an li ki'chee'laj, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE> ajruk' re iin chaq b'iison xinkan wk'an, ji', iin chaq b'iison, b'ay, usiil pues xwa'x jun wk'lal, b'ay, xk'omon chwe, ya wi' chaq innee' kla', tos xinwa'x kla'     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE> y&lt;yyy&gt; y xe' más, eh xe' más rk'iil iik' que win wk'an, tos &lt;xik&gt; xi'j wunaq chwe: -mejor atb'e wk'il tche'-, jaan che' xojb'ek, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE> xojb'e b'a q'ámaq', per b'a q'am más k'ex, más paqal qleen, kita' qchooch, kita' lamas ojwa'x y wi' chaq jun ék'l, ¿lamas tanye'w? y kirtyan eeeh       </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE> ta' tzi tril taq que tqatz'ilb'saj rchoochaq, kita' tzi tril taq tch'ajaj ék'l b'aa tz'aaq, tyajon taq y usiil chik xinpe chi laj intilmit,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a112" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE> cuand xyu' laj intilmit, tjiin xk'om rib' chqe porque &lt;ta'&gt; ta' tk'omon chqe chi naj, ta' tk'omon chqe chi naj, b'ay, xoj'ook chik chi rilik krner, chi jrilij chik qleen, b'ay,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a113" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE> usiil, usiil xinpe chi laj intilmit rk'i inqaaj-inchuuch y com ójr kita' pwaq, cuando xyu' chik neri xoj'ook rki' inchuuch eh com inchuuch pur ajk'ay,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a114" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE> tjpil ajtzoo', tjpil taq kirner, tqak'ayaj ti'niik, tqak'ayaj ti'niik ajtzoo', tqak'ayaj ti'iniik kirner, usiil inchuuch ajb'anol waa,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a115" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE> tran muktáml, tran maq re &lt;maq&gt; re kinaq' waa, -jat miij, jat k'ayta'j- ee, tink'ayaj, cuand tijpil ajtzoo' t'ink'ayaj ti'niik, kin tjpil taq kerner t'ink'ayaj ti'niik kerner;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a116" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE> o inqaaj wi' j. . . jino tran li chik'  maq ék'l li tjtik taq ichaj, tjtik rabano, tjtik juntiir clas íchaj tjtik, -b'ay jat miij ya nimaq chaq jat k'aytaj- ee,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE> t'iqakayaj, cuand inyu' ya wi' chaq re pwaq, ko pwaq ri qaaj, taat ko inpwaq ri, b'ay miij k'omo chawe, anta taqch qakxlnwaa, anta taqch qáti' ya wi' chaq qapwaq.   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a118" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE> eh tki'kot qánm ya wi' chaq &lt;re&gt;re jpwaq inqaaj-inchuuch y ri qak'il li nojel q'iij, nojel q'iij, ooj ajk'ay rk'il inchuuch, si qab'ne' eh k'ay tqab'ne' li k'ayb'al, tqab'ne' xo'loq' b'ee inb'ik'ayinoq y </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a119" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE> y usiil , usiil &lt;xiiin&gt; xinri'jáb'k, xinri'jáb'k y ri mism ínk'ili xinb'an xinri'jáb'k. Xwa'x b'elejeeb' wk'lal xwa'xk;  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a120" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE> eh juntiir maq ék'l li xqat'o' qib' chi jtzuqik pach wichjil, per pur k'ay, qas k'ay tanb'an: tank'ayaj muktáml, tank'ayaj ak'waa, tank'ayaj </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE> maq re qleen naq qak'ilij man te', maq ra iik, maq ra qleen tqab'an b'ik, &lt;t,t&gt; tanb'an b'i re k'ay y k'omo re qaqaaj Dios que kla' li jwi'l k'ay xinkwiin xink'iysaj walk'uwal </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a122" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE> juntiir walk'uwal rtam titz'iib'an taq, juntiir walk'uwal &lt;r&gt;xretamaj tqa re kiitz titz'iib'an taq, tinatun taq re wuuj y jwi'l qachóq'b' re k'ay re qleen, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a123" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE> ta' &lt;qaneg&gt;, ta' &lt;qa&gt;, ta' quleew, kita' qleen qe xqak'ayaj porque kita' qleen qe, ooj nib'a' xojk'iy kita' qleen qe y jino li ajwiich ooj tjiin lajori,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a138" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE> lajori jwi'l que ya xinri'job'i'n, ya xinyajari'n, ya t chaq k'ax chaq ínq'b', jwi'l k'ay, más q'aaq', tisipoj ínq'b' jwi'l q´aaq´</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a139" TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE> ento lojori ta' chki' ink'ayink, per más inb'iisónk, ta' chki' lamas tepe'w inpwaq, inrayin re inpwaq, ta' chki' lamas pe'w, porque ta' chki' inchóq'b' ink'ayin </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a140" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE> ta' chki' inchóq'b' ink'ayin que y k'omo re qaqaaj Dios ojori que wi' b'elejeeb' wik'lal y juntiir &lt;xin&gt; xtijoj rib'aq re tz'iib'ánk y tank'amowaj re Dios de que </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a141" TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE> xya', xya' inchóq'b' chi jk'iysaj juntiir walk'uwal y lajori &lt;ya&gt; ya iin chaq ri'j, ya wi' chaq juwnaq wxaqiib' imaam,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a142" TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE> y uquub' xíkin maam y lojori &lt;oojn&gt; oojn ka'winaq lajuuj laj wchooch,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a143" TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE> ya &lt;xqa&gt; xojnimerin, xojnimerin y tqak'amwaj re Dios, tqak'amwaj re Dios porque eh ya'l li utziil chqe jwi'l,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a144" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE> y ulb'el qawi'l haber jurub' q'iij qachóq'b' chik tijye' chuch q'iij saq, ji',  y jino li pues eh </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a145" TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>  jino &lt;qa&gt; qak'iyik laj wchooch, lo mism, ooj k'i xojk'iy laj qchooch, ooj b'elejeeb' qich'elxiik qib' laj qchooch, rki' inq'uun, rki' &lt;j&gt; waatz juntiir, ooj b'elejeeb' </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a146" TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE> y tqak'amwaj re Dios y re inqaaj-inchuch que xojka jtijoj taq, que tqaloq'aj qib', qachajaj qib' pa alxiik,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a147" TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE> que kita' ch'o'j, que kita' iwal, kita' nen tpe &lt;laj&gt; laj qavid &lt;rk'i&gt; laj qak'aslemal rk'ilaq, ji', &lt;y&gt; y jino li lajori ojki'kot que ajyo'l inchuuch qk'il &lt;noventa y sie&gt;,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE> eh &lt;jun, jun, jun&gt; joob' junab' ma jumuch', rka' jjúnb' inchuuch y ajyo'lVR qk'il,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a149" TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE> y ri' li tqak'amwaj re qaqaaj Dios, &lt;que&gt; que ajyo'lVR qk'il y tqak'amwaj re Dios que qak'amemVR qib' rk'i maq &lt;wich'e&gt; kr'i juntiir wich'elxiik y </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a150" TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>  y ri li jpíxb' inqaaj xkan jye' chqe, que tqaloq'aj qib, que tqil qib' p alxiik y k'omo re Dios jiqe non qab'anik ri y riqe li re kiib'-uxuub' intziij xinb'ij ji'n, tank'amowaj chawechaq,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE> tank'amwaj chawechaq, jaan noya.  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="M.P.A" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Buen día señor y familiares, buen día señorita, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a171" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> ¿qué tal? ¿están bien?, gracias por habernos llamado a esta reunión,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a172" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> les agradecemos a ustedes que nos hayan aconsejado. Y ahora lo que quiero relatarles es cómo fue nuestro crecimiento en nuestro pueblo Uspantán, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a173" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> y en nuestro crecimiento antes con nuestros padres eh se hacía más trabajo, más oficio había cuando eramos pequeños porque  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a174" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> en la piedra de moler preparábamos el molido eh luego lo torteábamos, hacíamos la comida de los cerdos, la comida de los perros, nos mandaban a dejar comida en donde trabajaba mi papá,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a175" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> mi papá sembraba caña en Peña Flor y ahí tenía a sus mosos, él sembraba cañas de azúcar,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a176" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>  y cuando empezaba la época de las cañas, empezaban a cortar las cañas, empezaban a hacer panela y nuestra responsabilidad era la de llevar comida;  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a177" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE> a las tres de la mañana nos levantábamos con mi mamá, empezábamos a hacer la comida, ya sea frijol, tomate, chile o ver que llevábamos de desayuno, la comida de ellos de la mañana,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE> y cuando ya estaba hecho, me iba, me llevaba mi canasta en mi cabeza, nos íbamos a dejar el desayuno y al darles su comida a los mosos   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a179" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE> cuantos mosos habían en el trabajo, cuando les dejábamos de comer, nos regresábamos, veníamos a preparar la comida para las doce, empezábamos a tortear, a preparar la comida, a ver que comida hacíamos, si era hierba, frijol o carne, a ver que llevábamos </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a180" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE> y sus bebidas, porque antes solo agua de masa, lo preparábamos con masa en la piedra de moler, después hacíamos sus bebidas y    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a181" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE> cuando se hacía eso, nos íbamos a dar almuerzo, íbamos a dejar la comida para el almuerzo y así eran nuestros oficios día tras día;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a182" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE> bueno lo mismo era en la cena, íbamos a dejar la cena para los trabajadores, cuando se terminaba de cenar nos veníamos, bueno, ya era de ver para poner nuestro nixtamal, para poner nuestras cosas al fuego,       </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a183" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE> eh para cocer nuestras cosas para el segundo día para que vayamos una vez más al trabajo, bueno y cuando se les ensuciaba la ropa, veníamos e íbamos a lavar, íbamos a hacer nuestro lavado,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a184" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE> y nuestra ropa era ropa sencilla, porque no había buena ropa antes y con tu propia fuerza la tenías que lavar porque buen jabón no había,     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a185" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE> estaba muy elevado el precio del jabón y eramos muchos, eramos muchos con mis padres, eramos muchos, muchos niños crecimos ahí. Y  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a186" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE> mi papá trabajaba también con sierra, botaba arboles, botaba pinos, cortaba pinos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a187" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE> y sacaba tablas, reglas, bigas para casa y lo mismo le íbamos a dejar su comida, le lavábamos su ropa, le arreglábamos sus cosas, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a188" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE> y si no nos apurábamos se enojaban, es ahí donde venían los regaños, nos regañaban cuando no nos apurábamos,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a189" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE> y así era y cuando íban a tapiscar, íbamos a levantar frijol, íbamos a recoger chilacayotes, íbamos a recoger cosas,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a190" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE> y se lo traía mi papá, lo empacábamos en redes, en costales, en morrales donde se venían las cosas, bueno, cargaba mi papá todo sobre el caballo, ya lo traía mi papá, se traía este. . .</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a191" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE> eh mazorcas, traía frijol, traía chilacayotes y muy feliz mi papá cargaba todo en su caballo, nos veníamos y cuando venía la mazorca a la casa, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE> al segundo día asoleábamos la mazorca, escogíamos el frijol, escogíamos la mazorca y si ya estaban secos entonces empezábamos a escoger, empezábamos a ver,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE> y ya escogido, bueno, se guardaba en la troja y cuando ya estaba seca si íba a dejar a la troja, eh después lo bueno de la mazorca que ya estaba seca lo guardábamos,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE> y la ley de ellos antes es que cuando se guardaba la mazorca hacían una fiesta, se hacía comida para el almuerzo de todos los mosos, cuantos mosos habían trabajado,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE> se les daba comida, se les daba bebida y fiesta se hacía, en la fiesta se quemaba incienso como ellos eran rezadores,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE> quemaban incienso, quemaban candelas, para agradecerle a nuestro padre Dios por haber recogido buenas mazorcas, por haber recogido buen maíz,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE> y ahí es, este . . . así eran sus fiestas, va a nosotros nos parecía bien, lo mismo porque así lo veíamos nosotros como,       </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE> como buena se veía la sagrada cosecha que hacía mi papá, buena se veía la cosecha que hacía. Y crecimos, crecimos, bueno, poco a poco nos fuimos separando en nuestras casas con mis padres,        </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a199" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE> eh nos venimos, yo me vine, me casé, quince años tenía yo cuando me casé,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE> y me casé a una montaña y cuando llegué a la montaña, no había agua, no había fuego, no había nada, no había ni una cosa que </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>  pudiera ver ahí, solo montaña, solo animales habían, cerca de nosotros aullaban los coyotes, cerca de nosotros gritaban los saraguates, cerca de nosotros rugían los tigres,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE> y mi corazón no se sentía triste, no se sentía triste mi corazón al haber ido a la montaña, habían animales, habían cosas, no me asustaba,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a203" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE> que parecía una persona loca que no pensaba, sí y me fuí, bueno, mi suegra me dijo: -bueno aquí están los niños, los miras-         </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE> -ese es nuestro oficio aquí, cuezan una olla de olotes- </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE> y había una piedra de este tamaño, había otro de este tamaño, el de este tamaño se le tenía que machacar el olote encima, bien machacado, machacado, después se iba, se iba el molido a la piedra de moler,     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE> se le hacía masa, bien molido en la piedra de moler, -ya habías hecho cuanta comida a tu perro de este tamaño-, comida para cerdos de este tamaño y se acarreaba nuestra agua, teníamos que acarrear nuestra agua </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE> al barranco, al río ibamos a traer agua; </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE> cuando regresábamos ya estabamos cansados, pero como eramos niños, no sentíamos cansanció, no sentíamos que nos cansábamos,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a209" ANNOTATION_REF="a91">
+                <ANNOTATION_VALUE> después me preguntaba mi suegra: -¿no te cansas?- te vas a acostumbrar aquí me decía, te vas a acostumbrar, -¿no estás triste?- no, no estoy triste, es como un juego para mi ir a traer agua, es como un juego para mi que . . . </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE> machaque el olote porque ni una vez lo había hecho en mi casa, no ninguna vez había machacado olote en mi casa, nunca.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a211" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE> Y así crecimos, bueno, luego nos mandaban, -anda a pastorear- ¡muy bien! nos íbamos a ver, parece que doscientos eran las ovejas que teníamos que ir a pastorear,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE> habían cabras y caballos que teníamos que ir a pastorear y teníamos que traer sacate para los caballos y para las vacas, teníamos que darles comida a las vacas;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a213" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE> y así era cuando habían mosos, teníamos que ir a dejarles comida a los mosos a la montaña, cuando se hacía la comida de los mosos, batíamos una tinaja de agua, lo cargabamos e íbamos a dejarles la comida a la montaña, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE> y nos sentíamos felices al salir porque en el pueblo no hay lo que vemos aquí, es diferente en la montaña y poco a poco me acostumbré, bueno;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE> cuando me di cuenta mi esposo ya se había ido a la ciudad, se fue a la fuerza armada, se fue a trabajar ahí, me quedé sola en la montaña,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE> después me sentía triste ya que me quedé sola, sí, me sentía triste, bueno, poco después tuve un hijo, bueno, me acostumbré, ya tenía a mi bebé ahí, entonces estuve ahí, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a217" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE>  y pasó más el tiempo eh pasaron los meses que estuve sola, entonces me dijo el hombre (esposo): -mejor te vas conmigo me dijo-, muy bien le dije nos fuimos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a105">
+                <ANNOTATION_VALUE> nos fuimos a la ciudad, pero estar en la ciudad era dificil, las cosas eran elevadas (de precio), no teníamos casa, no teníamos donde estar y ya había un niño, ¿dónde lo dejaba? y las personas eh </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a219" ANNOTATION_REF="a106">
+                <ANNOTATION_VALUE> no les gustaba que ensuciáramos su casa, no les gustaba que gritaran niños en el corredor, regañaban y poco después me vine a mi pueblo,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a220" ANNOTATION_REF="a112">
+                <ANNOTATION_VALUE> cuando venimos a mi pueblo, nos acoplamos porque no nos acostumbramos estar lejos, bueno, empezamos a ver a las ovajes, a ver otras cosas, bueno,     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a221" ANNOTATION_REF="a113">
+                <ANNOTATION_VALUE> poco a poco me vine al pueblo con mis padres y como antes no había dinero, cuando vine aquí empezamos con mi mamá eh como mi mamá era vendedora,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a222" ANNOTATION_REF="a114">
+                <ANNOTATION_VALUE> destazaba chompipes, destazaban ovejas, vendíamos carne de chompipe y de oveja, mi mamá hacía tortillas,     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a223" ANNOTATION_REF="a115">
+                <ANNOTATION_VALUE> hacía tamales, hacía tamalitos (Xepes), -anda a venderlos hija- muy bien, los vendía, cuando destazaba chompipes iba a vender la carne, cuando destzaban ovejas iba a vender carne de oveja; </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a116">
+                <ANNOTATION_VALUE> o mi papá tenía . . . hacía lo mismo que los niños que siembran hierbas, sembraba rabano, sembraba toda clase de hierbas, -bueno, hija ya están grandes anda a venderlos-  muy bien, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a225" ANNOTATION_REF="a117">
+                <ANNOTATION_VALUE> los vendíamos, cuando venía ya había dinero, aquí está el dinero papá, aquí está mi dinero, bueno hija muchas gracias, vayan a traer nuestros panes, vayan a traer nuestra carne ya tenemos dinero.     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a226" ANNOTATION_REF="a118">
+                <ANNOTATION_VALUE> eh nos sentíamos felices que mis padres ya tenían dinero y así era con nosotras todos los días, eramos venderoras con mi mamá, íbamos a vender al mercado, a las calles iba a vender y    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a227" ANNOTATION_REF="a119">
+                <ANNOTATION_VALUE> y poco a poco envejecí, envejecí y fue el mismo trabajo que hice el que me envejeció. Nueve hijos tuve;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a228" ANNOTATION_REF="a120">
+                <ANNOTATION_VALUE> eh con todos esos niños nos ayudamos para darles de comer con mi esposo, pero a puras ventas, las ventas que hacía: vendía tamales, vendía tortillas de elote, vendía  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a229" ANNOTATION_REF="a121">
+                <ANNOTATION_VALUE> muchas cosas que freía, chiles, cosas que hacía para la venta y gracias a nuestro padre Dios que ahí por la ventas pude crecer a mis hijos,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a230" ANNOTATION_REF="a122">
+                <ANNOTATION_VALUE> todos mis hijos saben escribir, todos mis hijos aprendieron un poco a escribir, a leer papeles y fue por nuestra fuerza en la venta de cosas,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a231" ANNOTATION_REF="a123">
+                <ANNOTATION_VALUE> no teníamos terreno, no vendimos nuestras cosas porque no teníamos, nosotros crecimos pobres no teníamos cosas y así aún seguimos ahora,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a232" ANNOTATION_REF="a138">
+                <ANNOTATION_VALUE> ahora porque ya envejecí, ya me enfermé, ya me duele mi mano, por la venta, mucho fuego, se me hincha la mano por el fuego, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a233" ANNOTATION_REF="a139">
+                <ANNOTATION_VALUE> entonces ahora ya no vendo, pero estoy muy triste, ya no hay de donde viene mi dinero, deseo mi dinero, ya no hay de donde venga, porque ya no tengo fuerzas para vender,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a234" ANNOTATION_REF="a140">
+                <ANNOTATION_VALUE> ya no tengo fuerzas para vender y gracias a Dios ahora que tengo nueve hijos y todos se educaron para escribir y le agradezco a Dios de que </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a235" ANNOTATION_REF="a141">
+                <ANNOTATION_VALUE> me dió, me dió fuerzas para crecer a todos mis hijos y ahora ya estoy anciana, ya tengo veintiocho nietos,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a236" ANNOTATION_REF="a142">
+                <ANNOTATION_VALUE> y siete bisnietos y ahora somos cincuenta en mi casa,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a237" ANNOTATION_REF="a143">
+                <ANNOTATION_VALUE> ya nos agrandamos, agrandamos (en número) y le agradecemos a Dios, le agradecemos a Dios porque eh él nos ha dado alegría,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a238" ANNOTATION_REF="a144">
+                <ANNOTATION_VALUE> y estamos esperando haber cuantos días de fuerza aún nos da en la faz de la tierra, sí, y así pues eh   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a239" ANNOTATION_REF="a145">
+                <ANNOTATION_VALUE> de igual manera fue nuestro crecimiento en mi casa, lo mismo, muchos crecimos en nuestra casa, eramos nueve hermanos en nuestra casa, con mi hermano menor, con mi hemana(o) mayor todos, eramos nueve,     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a240" ANNOTATION_REF="a146">
+                <ANNOTATION_VALUE> y le agradecemos a Dios y a mis padres que nos educaron a que nos apreciaramos, que nos cuidaramos en familia, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a241" ANNOTATION_REF="a147">
+                <ANNOTATION_VALUE> que no haya peleas, que no haya enojos, que no venga nada a nuestras vidas con ellos, sí y pues ahora estamos felices que aún esta viva mi mamá con nosotros (noventa y siete),    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a242" ANNOTATION_REF="a148">
+                <ANNOTATION_VALUE> eh por cinco años es que no son ochenta, los años de mi madre y aún está viva con nosotros,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a243" ANNOTATION_REF="a149">
+                <ANNOTATION_VALUE> y eso es lo que le agradecemos a nuestro padre Dios, que aún está viva con nosotros y le agradecemos a Dios que estamos unidos con mis familiares y</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a244" ANNOTATION_REF="a150">
+                <ANNOTATION_VALUE> y ese fue el consejo que mi papá nos dejó, que nos apreciaramos, que nos cuidaramos como familia y gracias a Dios que así estamos y son solo esas dos o tres palabras que quise decir, sí, les agradezco a ustedes,     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a245" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE> les agradezco a ustedes, muy bien señorita. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="M.P.A" TIER_ID="Descripción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a246" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Noya es un término muy común en el idioma Uspanteko, que puede significar niña o señorita.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a247" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>Peña Flor es un lugar sagrado de Uspantán, conocido en el idioma Uspanteko como Tz'unun Kaab', se dice que fue el primer lugar donde se asentaron los uspantekos, antes de la conquista.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a248" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE> Panela es rectangulo cortado en maquetas, hecho de jugo de caña, utilizado en la antigüedad por la cultura maya como azúcar. En Uspanteko se le conoce como Kaab'.    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a249" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE> Les llaman mosos a las personas que se contratatan como apoyo o ayuda para realizar una determinada actividad. En Uspanteko moso se dice mokoom o ajt'o'onk.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a250" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE> Chiqon jaa' o chiqon q'oor quiere decir en Uspanteko agua de masa o atol de masa , una bebida muy antigua y tradicional de la cultura maya.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a251" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE> Kab'lajuuj en Uspanteko es doce, siendo esa la hora del medio día, es por lo que al referirse a medio día o al almuerzo en Uspanteko se utiliza el término kab'lajuuj. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a252" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE> La palabra teem es una palabra homográfa (homónima) que puede significar silla o biga, en este casa es teem re jaa que quiere decir biga de casa. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a253" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE> Jcha'ik jpaam jal wu kinaq', quiere decir escoger la mazorca o frijol. Este es un proceso en el que se escoje la mazorca o frijol que aún estan verdes y mojados, para separarlos de los que ya están secos.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a254" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE> Ajch'ab'al se les dice a las personas que acostumbraban a rezar ante Dios en casas o en sus actividades. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a255" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE> Los uspantekos antes ponían candelas y quemaban incienso ante Dios,  como permiso antes de sembrar  y después de cosechar como agradecimiento.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a256" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE> El término galan en Uspanteko es un préstamo lingüístico del español, que significa bueno (adjetivo de cualidad o característica). </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a257" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>En la cultura maya uspanteka, según creencias o tradiciones, era muy común que una mujer se casará entre los quiche a veinte años, de lo contrario la mujer podría quedarse soltera para siempre.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a258" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE> B'aatz' significa saraguate, una especie de mono aullador, que habita en el norte de los municipios de Uspantán, Cunén y Nebaj del departamento del Quiché, Guatemala.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a259" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE> Kaa' significa piedra de moler, instrumento utilizado en la cultura maya para despozolar el nixtamal, en ausencia de los molinos eléctricos.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a260" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE> Amaaq' siginifca en Uspanteko ciudad o pueblo, en este caso se hace referencia a la ciudad Capital de Guatemala. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a261" ANNOTATION_REF="a115">
+                <ANNOTATION_VALUE> Muktáml se le dice en Uspanteko al tamal y kinaq' waa a los tamalitos con frijol, conocidos en la sociedad como Xepes (del idioma maya Xep / tamalitos de frijol). Ambos son platillos muy tradicionales de Guatemala.    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a262" ANNOTATION_REF="a121">
+                <ANNOTATION_VALUE> Alk'uwal término usado en Uspanteko tanto por el hombre como por la mujer para referirse a sus hijos respectivamente. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

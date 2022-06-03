@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-01T14:46:55-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Maq tukur - El tecolote.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Maq tukur - El tecolote.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:ec935e30-8ca2-414b-b426-487c727df02e</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">71</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="11800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="12080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="24300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="24590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="36900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="37200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="46300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="46960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="58230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="58270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="67210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="67690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="77500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="77880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="88060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="88390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="99610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="99870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="110500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="110580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="121000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="121290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="130510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="130990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="141010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="141394"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="154641"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="155201"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="165604"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="165806"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="176207"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="176476"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="188116"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="188605"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="197206"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="197600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="209820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="210035"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="220810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="220980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="229000"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="T.A.M.L" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> K'amtzáwch, k'am taq jun rtziil áwchaq lajori, chwaj tinyol chawechaq jun yolooj xkan jyole' k'tzan inmaam chqe, re re tjb'ij ójr neri Tz'unun Kaab' wi' kiib' kristyan,     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> jor qus trik'aj taq tijtij taq awryent, laq' tinmit tch'ob'saj jwiichaq nemo kiib' kristyan jor tiq'ab'ar taq; xan taq jumul wi' taq xo'lq' b'ee, ta' chki' tq'i tb'en taq, xchomorsaj taq tq'aj taq b'ik laj rchoochaq,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> nik' qe wi' rchoochaq, jumul nik' taq tq'aj taq b'ik, la' jb'ee'aq wi' kiib' nimaq taq chee', retam chaq ttaw taq la' man, la' man nab'ee chee' twa'r taq ra kiitz kla', tuxlan taq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> jlon xan taq, xi' tqan, xtaw taq la' man nab'ee chee' li, xuxlan taq, ta' xri'k'ajaq, xi' jwarjaq, ri' xk'astaj jwiichaq b'esal aq'aab' chaq,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> ri' tjtaw chub' man chee' li wi' jun ra ka'n tb'ixan y tjb'ij: atinmuqu', atinmuqu', atinmuq'u tche', xtzaq jch'ool, xb'it jpach y tjb'ij re: ta'mpuch nen tjb'ij man ka'n li tche'     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> atinmuqu', atinmuqu' tche' ra ka'n, xtzaq jch'oolaq y tjb'ij ¿ta' awetam nen man ka'n li? tche', wetami'n tche' man jun ¿awetami'n nen chak jloni' tijb'ij?   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> wetami'n tche', ta'mpuch tjiin tjb'ij chqe, atinmuqu' tche' chqe, li tjiin tijb'ij xtaw qahora tche', li xtaw qahora tche', xq'aluj rib'aq, x-'ook taq chojq'eej,        </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> xtaw qahora, xtaw qahora tche' taq y ¿nen tqab'an lajori? tche', jo' rk'il &lt;qa&gt;qech'elxiik tche', tqata' kuyb'al qamaak rechaq y tqab'ij rechaq kuy taq re nen k'axk'oliil xqaye' rechaq  &lt;che&gt;  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> tche' taq, jo' tche' taq, xi' tqan, kita' tq'iw tb'en taq, xq'aluj b'i riba'q, xi' tqan, xtaw laj rchoochaq, tjriq chii'aq, tjriqej jchii', tjriqej jchii'aq,     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> tb'ij rechaq rech'elxiik kuy taq qamaak tche', xtaw qahora, xtaw qahora tche', ojkami'n, ojkami'n che' taq y ¿nen chak? tta' rech'elxiik rechaq, xqata' jun tukur laj qab'ee tche' y tijb'ij chqe:   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> atinmuqu', atinmuqu' tche' chqe, ya xtaw qahora tche', y rech'elxiik ttzej jwiichaq, ttzej jwiichaq, ta' tjchomorsaj taq nen tjb'ij taq che'. tche' taq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> re re q'ab'relaq ta' tjchomorsaj nen tjb'ij taq, tche' y jloni' xkan eel. Lajori chwaj tinyol chawe chaq ¿nen chaak? taq ra kiib'  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> kristyan ri, kiib' wunaq jlon xchomorsaj taq; laj, laj qabàntájk Tz'unun Kaab' wi' laj qa . . .</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> chómb'l nen xkan jyol taq k'tzan qamaam-qatiit', nen &lt;j&gt; tjyol taq ójr taq kristyan, rechaq tjb'ij we ttaw jun taq ra ka'n ri, taq ra tukur chjk'ulel rchooch jun y tb'ixan taq     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> ri' tjiin tye' &lt;k'&gt; tjiin tjb'ij kamikal, we tqata' jb'iix taq ra tukur ri' lajori, ma jlon ta tjb'ij, ma kita' tjb'ij atinmuqu', jlon ta' tjb'ij,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> nik' qe &lt;j&gt;jb'iix ma jlon ta'n, taq ra kiib' wunaq ri jlon xchomorsaj taq jwi'l jkojb'alaq, ójr taq kristyan tijkoj, tjb'ij taq    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> we ttaw taq taq ra ka'n li tjiin tjye' jb'ij kamikal, jwi'l k'i ri kristyan we tjta' jb'iix taq ra ka'n li chjk'ulel rchoochaq txukar taq, tta' taq kuyb'al jmaak </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> chíwch Dios, tjta' re Dios tjye' chaq ra kiitz &lt;j&gt;jk'aslemalaq. Jwi'l k'u li, ri' xkan jyol k'etzan inmaam chqe,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> ri' re ójr taq kristyan, ri' re tjchomorsaj; ajwich na lajori, wi' na kristyan, wi' na jkojb'al chíwch nen xkani', &lt;xkañañan&gt; nen xkani' inyol &lt;cha&gt; nen tjiin tinyol chawechaq, wi' na  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> jchómb'al eh wi' na jkojb'al chub', wi' chki' kristyan ta' chki' tjkoj taq, wi' chki' kristyan ta' chki' xjta' taq nen tjiin tinb'ij chawechaq lajori,      </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> jwi'l k'u li ri' li chwaj tinyol chawechaq, jkojb'al ójr kristyan chub' jb'iix taq ra tukur. K'mo chintatb'éjk.   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="T.A.M.L" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Buena tarde, reciban un cordial saludo ahora, quiero contarles a ustedes un cuento que nos dejó relatado mi finado abuelo a nosotros. Él decía que antes aquí en Uspantán habían dos personas,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>  que les gustaba mucho tomar lícor, en el pueblo se les conocía como dos personas que se emborrachaban mucho; hiceron una vez cuando estaban en la calle, ya no aguantaban caminar, pensaron en regresarse a sus casas, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> en la misma dirección están sus casas, siempre juntos se regresan, en su camino hay dos árboles grandes, ya saben que al llegar al primer árbol se paran un poco ahí, descansan, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> así lo hicieron, se fueron, llegaron a ese primer árbol, descansaron, no sintieron, se durmieron, cuando despertaron ya era muy de noche, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> cuando escuchó sobre ese árbol había un animal que cantaba y decía: atinmuqu', atinmuqu', atinmuqu' decìa, se asustó, levantó a su compañero y le dijo: escucha que dice ese animal dijo,      </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> atinmuqu', atinmuqu', decía el animalito, se asustaron y preguntó ¿no sabes qué es ese animal? sí lo se decìa el otro ¿sabes por què así dice? </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> sí se decía, escuchá lo que nos está diciendo, atinmuqu' nos está diciendo, de plano nos está diciendo que nos llegó la hora decía, de plano ya llegó nuestra hora decía, se abrazaron, empezaron a llorar,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE> llegó nuestra hora, llegó nuestra hora decían y ¿qué vamos a hacer ahora? se preguntaban, vamos con nuestros familiares decían, les vamos a pedir que nos disculpen y les vamos a decir disculpen por las dificultades que les causamos</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE> decían, vamos decían y se fueron, no aguantaban caminar, se abrazaron, se fueron, llegaron a sus casas, gritaban, gritaba y gritaban,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE> les decían a sus familiares discúlpennos decían, llegó nuestra hora, llegó nuestra hora decían, nos vamos a morir, nos vamos a morir decían y ¿por qué? les preguntaban sus familiares a ellos, encontramos a un buhó en nuestro camino decían y nos decía:         </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE> atinmuqu', atinmuqu' nos decía, ya llegó nuestra hora decían y los familiares se burlaban de ellos, se burlaban de ellos, no piensan lo que están diciendo decían, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE> ellos están borrachos no piensan lo que están diciendo, decían y así quedó. Ahora quiero contarles a ustedes ¿por qué? las dos </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE> personas, los dos hombres así pensaron; en nuestra cultura uspanteka tenemos en nuestros . . .  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE> pensamientos lo que nos dejaron relatado nuestros finados abuelos, lo que relatan nuestros antepasados, ellos decían sí llega uno de esos animalitos, los buhós a la par de la casa de uno y cantan  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE> están dando, están anunciando muerte, sí escuchamos el canto de los buhós ahora, no es eso lo que dicen, no dicen atinmuqu', eso no es lo que dicen, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE> es parecido su canto pero no es así, los dos hombres así lo pensaron por sus creencias, las personas antepasadas, creían y decían </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE> sí llegan esos animalitos es porque están anunciando muerte, es por eso que sí las personas escuchan el canto de esos animalitos a la par de sus casas se hincan, piden perdón por sus errores </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE> ante Dios, le piden a Dios que les de un poco más de vida. Es eso, lo que nos dejó relatado mi finado abuelo a nosotros, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE> él era de nuestros antepasados, eso era lo que pensaba; actualmente, aún hay personas, que aún tienen sus creencia sobre lo que les estoy relatando a ustedes, aún lo tienen      </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE> en sus pensamientos eh aún creen en eso, hay personas que ya no lo creen, hay personas que ya no escucharon lo que les estoy diciendo a ustedes ahora,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE> es por eso, que quiero relatarles a ustedes, las creencias de las personas antepasadas sobre el canto del buhó o tecolote. Gracias por escucharme.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López " LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="T.A.M.L " TIER_ID="Descripción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> Atinmuqu' significa te voy a sepultar, sinónimo de muerte. Por ese tipo de similitud entre el graznido de los buhós con la palabra es que se consideran a los buhós como mensajeros de la muerte. Creencia de la cultura maya.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> Los antepasados consideraban a los buhós o tecolotes como mensajeros de la muerte, por lo que al oirlos graznar cerca de sus casas, era un sutuación preocupante, ya que anunciaban muerte, según sus creencias. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE> Las generaciones actuales ya no creen o practican las creencias de nuestros antepasados, es más tienden a burlarse de las creencias de los ancianos, hasta incluso son victimas de burlas. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE> Muchas personas se acercaban más a Dios o se reconciliaban con Dios, al sentir cerca su muerte, era cuestión de reflexión y creencia. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

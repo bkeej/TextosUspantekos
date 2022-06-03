@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-02T12:26:48-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Historia de Baxil y Nuestro idioma y cultura Uspanteka.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Historia de Baxil y Nuestro idioma y cultura Uspanteka.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:1e6415cb-3d43-4810-b325-c20c6e521966</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">161</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="4000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="11310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="11540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="20690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="21150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="30500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="30830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="40680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="40930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="51000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="51240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="61510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="62570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="73760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="74590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="85800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="86460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="95590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="96640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="104810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="105330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="113430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="113760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="124700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="124920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="134780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="135360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="145060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="145770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="156530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="156590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="167080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="167480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="176450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="177430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="186300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="186640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="198220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="198890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="209800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="210050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="220990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="221350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="230310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="230690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="239990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="240430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="249020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="249580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="250740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="251470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="258220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="258560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="269840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="270600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="281310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="281610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="292050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="292300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="299990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="300420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="310200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="310870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="319820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="320140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="331010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="331390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="340990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="341350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="352580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="353050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="363160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="364170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="374860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="375430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="383280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="383975"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="393800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="395060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="406030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="406590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="417710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="419300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="429020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="429620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="440020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="440390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="449790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="449980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="451200"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="J.Ch." TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> Eh Lajori pues &lt;tqa&gt; qayol jun kiitz eh jb'antájk qakomoon B'a Xiil, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> tyol taq ójr taq kristyan, nab'ee taq kristyan &lt;xx&gt;xpe taqch b'anik &lt;jwa'&gt; rchoochaq neri laj qakomoon</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>eh tyol q'etz'an inmaam &lt;que&gt; ójr &lt;pur&gt; tb'ijsaj B'a Xiil re jwi'l qe chúwch kurs eh wi' ni'j ab'aj, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> &lt;tz&gt; tk'osk'oj jun, tos tran xiil xiil y &lt;ku&gt; y &lt;kom&gt; eh com sill laj qa... ahí si laj kaxlan,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> tos xij taq ah tos ri xiil, tos xkojsaj kan &lt;pu&gt; B'a Xiil, jwi'l qe wi' ni'j ab'aj pche xiil ah o pche teem tqab'ij re,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> kom la mayor casi k'ii tqach'ob' &lt;ju&gt; más teem &lt;que&gt; que xiil veda, tos jwi'l li&lt;ii&gt; tyol taq que... jlon tb'ij q'etz'an inmaam ooj chqe de que </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> eh ¿nen chak? Baxil, jwi'l qe wi' ni'j ab'aj pche xiil, re tkub'ar jun. Ójr taq kristyan tq'aj taqch l k'áyb'l, tpe taq laq tinmit, tne' taq jtaqkil,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> eh tkos taq, tkub'ar taq eh chúwch kurs ri wi' ni'j xiilVR, jwi'l li entos; &lt;eh&gt; eh pero, qas ójr, qas ójr chi' puerta' tche' taq re,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> kom ójrVR neri jaa, ta' jaa, ta' ni jun kristyan, eh b'nol pche lamas twa'x wi' wákx,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> y tos li tz'apili'n, wi' &lt;jun&gt; jun jchi' jaa nim li chúwch kurs, y jlon lamas &lt;t&gt;tmajmaj b'i Ch'ola'  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> wi' chik jun kla', tos neri tqal li li, ni jun ta' ni, ta' ni jun ajkaq'e li neri ójrVR, tos tb'ij taq que  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> nab'ee taq kristyan xpe taq yaq Ajkot, yaq Vicente, yaq Chitop, eh xppe taq, &lt;x&gt; xch'pe' taq uleew. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> Jas jwi'l k'u li xij taq pues &lt;tqa&gt; tqaq'ex jb'iij, juerta &lt;ta'&gt;  ta' qus  jorque &lt;j&gt; k'ii kristyan tch'ob' taq,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> ta' tch'ob' taq Baxil, no tch'ob' taq Chi' puerta' ójr, Chi' puerta', tos xij taq mejor: tqatok chik jun jb'ij, rech kristyan  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> naj ne' tpe taq pues, &lt;t&gt; ta' k'ax jta'ik &lt;ra, ra&gt; ra qakomoon, tos jlon li y kmo qawinaq yaq aj uspanteko,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> qaye´ re wa  ajaj tinmit, eh ta' k'ii taq ri kiib'-oxiib' taq kristyan wi' taq neri, tos &lt;x&gt;xij taq: qatike' jun jb'iij,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> rech we ne' tpe taq jalan chaq kristyan, laq nimaq taq tinmit, laq ch'qap taq jaa', tta' tqan lamas tq'ax taq b'ik,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> neri kom, neri wi' &lt;jun&gt; jun b'ee ri &lt;laj&gt; pche' wi' lajori, tb'e, looq' atb'e ch'ámq', looq' atb'e Ch'ola', looq' atb'e   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> eh los Canaques, laq Caracol; tos ri li &lt;ójr&gt; ójr b'ee ri, &lt;tz&gt; tqatok jun jb''ij &lt;tz&gt; por es li xkoj taq Baxil re qakomoon lajori  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> y jlon li &lt;potne&gt; xne' taq registrar veda, kmo para k jun kmoon wi' jb'iij, tiene que ser bien eh wi' wuuj re verdad, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> xiq ta' tqab'ij qe Baxil y kla' qe, no que tos wi' jun wuuj wi' xne' taq, xeb'e taq l q'atb'al tziij, ch'ab'ej taq ajk'amal taq b'ee kla'. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> Lajori chqaj ooj &lt;tqa&gt; tqak'ex jb'iij qakomoon, chi' puerta' ta' chki'n, no que lajori chqaj tqakoj Baxil re,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> tos jlon li kristyan wne &lt;t&gt; tpe taq, tt'a taq lamas tkan eel kan kmoon B'a Xiil veda, jlon li   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> ta' tsach taq b'ik, tos jwi'l li tyol q'etz'an inmaan pues que,  jlon li xkojsaj kan B'a Xiil re. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE> ji'n.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE> Eh pues eh también eh &lt;tin&gt; tinb'ij iin rech para que ta' tsach &lt;qa&gt; qab'antájk, porque </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE> tinwila' iin, la verdad k'axk'olil li'n que, ta' chki' ooj k'ii ojyoloow laj qatziijb'al, tos lajori lo que chqaj es de k tqak'ut chúwch qalk'uwal,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE> tqab'ij rechaq ta' tsach kan taq qayólj, nuuch' taq na tqak'ut taq b'i chúwch re re, para que &lt;oj&gt; oj'eel b'i ooj, o xojkam b'i ooj, wi' chik na t...      </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE> tch'a'w taq laj qatziijb'al, tos tinwil iin pues de que rajwáxkin tqak'ut chúwch &lt;qa&gt;qilk'uwal, &lt;qa&gt; qech'olxiik rech ta' tsach b'i qa...   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE> qab'antájk, ta' ooj k'ii, pero tinb'ij iin &lt;tzetz&gt; rech para k ta' tsach b'i qa...  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE> qatziijb'al, qab'antájk la, ooj Tz'unun Kaab', rajwáxk &lt;tqa&gt; qaye' jchóq'b' y jwi'l k'u li pues    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE> eh lajori &lt;k'ii&gt; k'ii taq, l tijoj ib', ya tk'utsaj chaq laj qayólj chúwch yaq ák'l laqVR tijoj ib'   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE> y chqe ooj como ooj qaajaq, ooj chuuchaq, también rajwaxVR' tqak'ut chúwchaq, jlon li ta' tsach kan qayóljVR. Il pka' lajori </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE> rajwaxkin &lt;oj&gt; ojyloow, laj qatziijb'al, jlon li kristyan tretamaj taq lamas ojpe'w,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE> tb'ij taq aaah, tta' taq kristyan ojyoloow laj qatziijb'al ah li &lt;aj&gt; aj Tz'unun Kaab' o &lt;aj&lt; Aj tinmit, ya tzi woj chaq K'iche', woj l</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE> nim tinmit simpre tqak'uta' rajwaxki'n, tos jlon li ta' tsach b'ik y rajwaxki'n &lt;tqa&gt; tqaye' jchóq'b' va.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE> Ooj... iin tinye'... &gt;cu&gt;, tinwil iin rk'il tra walk'uwal ya tretamaj taq b'ik, eh ya tb'ij taq qaaj, chuuch, tiit',</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE> ri li ya, inkikótk porque &lt;tqe, tre&gt; tjin tretamaj taq b'ik, ya tk'iy taq b'ik pues, ta' tsach kan qayólj,     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE> &lt;tzu&gt; ya tyoloow rechaq laj qatziijb'al, ri li, qus rilik, qus jta'ik veda. Jwi'l k'u li pues tin...  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE> tink'amowaj rechaq también de que, rechaq pues ojt'o' &lt;ch&gt; cha jb'itik qab'antájk, looq'laj chaak tran taq pues, nim jb'antájk laj qa...  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE> laj qa..., qatinmit, y tretamaj taq b'ik pues qusi'n, tinb'ij iin pues nim qab'antájk,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE> k'ii qleen &lt;ta&gt; ta' chki' tqa'an o ta' chki' tqa'an porque ya qamaam-qatiit' ta' chki' taq, ta' chki' tk'ut taq chqáwch,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE> lajori pues &lt;t&gt; eh wi' na kiib'-oxiib' qleen &lt;tqa&gt; rajwájk tqaye' jchóq'b' ooj laj qakmoon, rk'il qa... </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE> qech'elxiik, rk'il qaqaaj-qachuuch, rk'il ni'j chik kristyan, rech tril tqa'n de k nim qab'antájk ooj Aj Tz'unun Kaab'.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE> Ri' li tinb'iji'n. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="J.Ch" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Eh ahora pues vamos a relatar un poco eh de la cultura de nuestra comunidad B'axil, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> cuentan personas antepasadas, las primeras personas que vinieron a hacer sus casas aquí a nuestra comunidad, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE> eh relataba mi finado abuelo que antes se le decía B'a Xiil porque en frente de la cruz eh habían unas piedras,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> que al golpearlas, entonces hacían xiil xiil y como eh silla en nuestro... ahí si en español,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> entonces dijeron ah entonces esto es Xiil, entonces lo dejaron como B'a xiil, porque habían unas piedras como sillas podríamos decirle,     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> como la mayor parte sabemos mas teem (silla) que Xiil verdad, entonces es por eso que cuentan que...  así nos relataba mi finado abuelo a nosotros de que</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE> eh ¿por qué? Baxil, porque habían unas piedras como sillas, para sentarse. Las personas antepasadas que regresaban del mercado, que venían al pueblo, a hacer sus mandados,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE> eh se cansaban, se sentaban eh frente la cruz donde estaban unas sillas, es por eso entonces; eh pero, mucho antes, mucho antes chi' puerta' le decían,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE> como antes aquí casas, no habían casas, no había ninguna persona, estaba como donde se están las vacas (potrero) </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE> y entonces eso estaba cerrado, había una puerta grande en frente de la cruz, y así mismo donde empezaba Cholá </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE> había otro ahí, entonces aquí estaba libre, no había ningún, aquí no tenía ningún dueño antes, entonces decían que       </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE> las primeras personas que vinieron fueron los Ajcot, los Vicente, los Chitop, eh vinieron, a agarrar terreno. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE> Siendo por eso que dijeron pues le vamos a cambiar, porque no está bien, porque muchas personas conocen,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE> no conocen Baxil, sino que le conocían antes como chi' puerta, entonces mejor dijeron: busquemos otro nombre, para que las personas    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE> que vengan de lejos pues, que no les cueste encontrar nuestra comunidad, entoces fue de esa manera y como nuestra gente los uspantekos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE> suponiendo que los uspantekos, no eran muchos, dos o tres personas estaban aquí, entonces dijeron: formemos su nombre, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE> por sí vinieran otras personas, de grandes ciudades, de otros paises, puedan encontrar por donde pasar, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE> como aquí, aquí hay un camino, a como está ahora, va, se puede ir a Chamac, se puede ir a Cholá, se puede ir a </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>  los Canaques, al Caracol; entonces era esto antes un camino, busquemos un nombre, por eso es que le pusieron Baxil a nuestra comunidad ahora, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE> y de esa manera fueron a registar verdad, como para que una comunidad tenga su nombre, tiene que tener bien su documentación verdad,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE> no es solo de decirle Baxil y que ahí nada más, sino que entonces había un documento que fueron a hacer, fueron a la Municipalidad a hablar con el Alcalde ahí.     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE> Ahora nosotros queremos cambiarle el nombre a nuestra comunidad, ya no es Chi' Puerta, sino que ahora queremos ponerle Baxil,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE> entonces así las personas por si vinieran, a preguntar donde queda la comunidad de Baxil verdad, y de esa manera  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE> no se pierdan, entonces es por eso que relataba mi finado abuelo pues que, de esa manera fue como le dejaron puesto Baxil.    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE> Sí así es.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE> Eh pues también yo digo que para que no se pierda nuestra cultura, porque </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE> yo veo, la verdad es una pena que ya no seamos muchos los que hablamos en nuestro idioma, entonces ahora lo que queremos es enseñarles a nuestros hijos,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE> que les digamos a ellos que no dejen pérdido nuestro idioma, desde pequeños debemos de enseñarles a ellos, para que cuando salgamos nosotros o si nos murieramos nosotros, que aún hayan    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE> quienes hablen en nuestro idioma, entonces yo veo de que es importante que les enseñemos a nuestros hijos, a nuestros familiares para que no se pierda nuestra...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE> nuestra cultura, ya no somos muchos, pero yo digo que para que no se pierda nuestro...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE> nuestro idioma, nuestra cultura, nosotros los Uspantekos, debemos de darle fuerza y es por eso pues </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE> que ahora son varias las escuelas, que ya enseñan en nuestro idioma a los niños en las escuelas,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE> y para nosotros que somos padres, que somos madres, también es necesario que se los enseñemos, de esa manera no se quedará olvidado nuestro idioma. Vea ahora </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE> es necesario que hablemos, en nuestro idioma, que de esa manera las personas sepan de donde venimos,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE> dicen aaah, cuando las personas nos escuchan hablando en nuestro idioma, ah es Uspanteko dicen, ya que habemos k'iche's, en el      </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE> municipio, es siempre importante mostrar (la cultura uspanteka), entonces de esa manera no desaparecerá y es necesario que le demos fortaleza verdad.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE> Nosotros... yo me doy... yo veo con mis hijos que ya empezaron a aprender, eh ya dicen: papá, mamá, abuela</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE> esas ya, me siento feliz porque ya están aprendiendo, ya cuando crezcan pues, ya no se quedará pérdido nuestro idioma,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE> ya ellos hablarán en nuestro idioma, eso es, se ve bien, se escucha bien verdad. Es por eso ...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE> que les agradezco a ellos también de que, ellos pues nos ayudan a levantar nuestra cultura, el buen trabajo que realizan pues, es muy importante en nuestro... </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE> en nuestro....nuestro pueblo y que se lo aprendan pues está muy bien, yo digo pues que es muy grande nuestra cultura, ,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE> y son varias cosas las que ya no hacemos o ya no las hacemos porque nuestros abuelos ya no nos las enseñaron,      </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE> ahora pues aún hay unas que otras cosas a las que es necesario que fortalezcamos nosotros en nuestra comunidad, con nuestros... </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE> nuestros familiares, con nuestros padres, con algunas otras personas, para que vean de que es grande nuestra cultura, la de nosotros los Uspantekos.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE> Eso es lo que yo comento. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR=" Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="J. Ch" TIER_ID="Descripción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> B'a Xiil: sobre la silla. Topónimo Uspanteko del Caserío Baxil. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> Xiil Xill: sonido que produce un tipo de pierdra, que sirvió como topónimo del Caserío Baxil. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> Xiil o Teem en idioma Uspnateko son palabras sinóminas que significan silla.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> Teem o Xiil significan Silla. Son sinomimos y son una variante del Uspanteko.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE> Kurs= cruz. Referencia de un lugar donde se entrelazan dos carreteras formando una cruz.		Chii' puerta: a la orilla de la puerta. Referencia antigua de lo que hoy es Baxil.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE> Ch'ola'= Cholá. Aldea de Uspantán que colinda con Caserío Baxil. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE> Ajkot, Vicente y Chitop fueron las primeras familias Uspantekas en residir en Baxil. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE> Chamac y Cholá son comunidades de Uspantán, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE> Canaques y Caracol son comunidades de Uspantán.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE> Chii' puerta= en la orilla de la puerta, B'a xiil= sobre la silla </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE> Aj Tz'unun Kaab' y  Aj Tinmit son palabras sinónimas que significan Uspanteko, refiriéndose al gentilicio del municipio de Uspantán.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE> Las palabras Qaaj y Chuuch son palabras homónimas, ya que Qaaj puede significar papá o señor; mientras que Chuuch puede significar mamá o señora.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-02T12:29:59-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/historia personal L.F.S.U..mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/historia personal L.F.S.U..mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:9b4d703a-6efa-492f-b740-6b2bae8004d4</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">131</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="12410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="13200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="24010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="24270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="37940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="38270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="48000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="48610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="58990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="59015"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="69730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="69900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="81280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="81330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="92410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="92530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="103180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="103500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="114010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="114590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="127090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="127500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="137290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="137320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="149415"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="149660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="162000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="162400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="173020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="173290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="184420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="184980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="193400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="193610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="203980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="204420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="215090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="215200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="224990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="226020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="236010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="236200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="247410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="247790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="257590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="257880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="269560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="270370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="280000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="280180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="290240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="290290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="300480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="300710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="309500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="309680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="319510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="319760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="332030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="332590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="342600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="342630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="353200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="353240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="364310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="364640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="375480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="375520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="386600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="387560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="399710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="399910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="410610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="410790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="423310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="423620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="428020"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="L.F.S.U" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> Xe' q'iij &lt;in,in&gt;áb'aj iin eh Luis Fernando Sánchez Us, xinalex jli la capital eh un dieciocho de diciembre del noventa y tres, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> pues eh más o menos &lt;tin&gt; tinb'ij lajori &lt;ni,n&gt;historia desde que &lt;xin&gt;xinalexk hasta inwinVR lajori pues, veintiseis años wi' chwe lajori, iin</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> lo que es eh primaria b'an estudiar jli l escuela en Planes de Minerva zona 11 de Mixco, pues eh, eh xinwesaj juntiir eh lo que es miprimaria eh jli, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> pero eh ojoj juntiir la jaa pues &lt;ooj&gt; ooj seis rk'il inchuuch y inqaaj, pero lamentablemente cuando wi' doce años chwe, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> xkam inqaaj jli la capital pues, entoces xan taq asesinar &lt;x&gt;eh eh, pero eh desde ahí eh &lt;xoj&gt; xojpe neri,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> xojpe neri Uspantán, y bien tyuq chwe lajori cuando xojpe neri pues, ta' qapwaaq, y ta' qa . . . ta' qa . . . osea más que todo ta' nada qa . . .qleen qe pues;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> tonces eh xink'ise' insexto primaria jli lo que es la escuela 15 de septiembre, pero intwil pues la jaa wi' qanecesidad wi' juntiir, ra aweces ta'   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> ta' ta' comida qatij, ta' qawaa, ta' &lt;qa&gt; ta' qapwaaq pues, entonces eh wi' jun q'iij xineel jli' lescuela,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> xinb'e jli l mercado nemo xinb'an jlon li cuando &lt;j&gt;wi' la capital, xin'eel l escuela y xinb'e &lt;x&gt;intokik inchaak porque iin pues &lt;twil&gt; tinwila' pues que wi' siempre necesidad la jaa qk'il, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> eh inqaaj iin ójr pues eh jun kristyan pues &lt;tij&gt; tij bastant awardient, jwi'l li rep xkámk, eh jwi'l jtikik, jtijik awardient</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> y &lt;mmm&gt; y entons cuand xojpe neri pues iin &lt;ya&gt; eh ya looq' chaq inchakúnk, porque ya wi' chaq espericna chwe &lt;j&gt;desd jli, tos xinpe neri pues eh xintok'e inchaak, xintoke' inchaak  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> porque iin tinwil pues que wi' qanecesidad la jaa, entoces xinb'e l mercado &lt;y&gt; y bien tyuqVR chwe lajori que xij taq chwe: -mira </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> eh yo te voy a dar trabajo- tinya' achaak, pero con dos condiciones: teh -tien ser ta awetam, &lt;ta&gt; ta att'aw jlo li Kiche y Uspanteko- y cuand iin xinpe de la capital </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> ta' nada looq' &lt;tin&gt; tinch'aw ni espanteko, ni Kiche', porque jli pues cuando &lt;xink'i&gt; xinalex iin, desde que xinaléxk, desque xwetamaj &lt;in&gt;inch'áwk el castellano &lt;tq&gt; tinkoj rk'il inmamá,     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> desde que xinalex hasta los doce años, de los doce años cuando xojpe neri Uspantán, tonces &lt;xi&gt;xij taq chwe: -la condición que &lt;tiq&gt;&lt;tin&gt;tinya' achaak che' man Don Aurelio Lux,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> es eh que kta' ta awetam pues bien atch'aw lo que es Kiche y Uspanteko tche' chwe, porque neri maq kristyan pes kpe taq aahh ri' pue en ese entoces tjk'ayaj zapatos, uuq. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> Tonces eh &lt;t&gt; eh xij chwe tiene ser que tawetamaj, entonces sí, iin wetam inche' re, pero en ese entonces mentira xinb'ij re porque ta' ta' ri, ta' ri wetam </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> porque &lt;aj&gt; ajri &lt;xi&gt; xojpe niri, entonces de ese entonces eh jwi'l pues puramente qanecesidad iin &lt;xin&gt; xinmaj &lt;ajaj&gt; ch'ab'ik eh</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> eh xinmajaj eh lo que es Uspanteko y Kiche, hasta la fecha lajori pues eh inkwin na más jun kiitz Kiche que lo que es Uspanteko,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> porque Uspanteko casi ta' más inch'aw, más inch'aw li Kiche, pero eh cuando xojpe niri pues eh &lt;ehm&gt; xinb'an seguir estudiando básico,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> y la verdad que &lt;ent&gt; he cuando los lugar &lt;kojxo&gt;  ooj ooj b'e po ójor, eh  ka la mayoría kristyan pues &lt;tstz&gt; eh ch'aw taq Uspanteko, ch'aw taq Kiche,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> y iin no verdad, entonces eh también xinta' jun inchaak jli l Pericon, Pericón jli solo, solo Kiche tch'aw taq, entonces cuando iin ta' inkwinsi',   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> eh entonces eh xinb'an esforzar wib', entonces &lt;xin&gt; eh &lt;xub'an&gt; eh xinb'an lo que es más fluido lo que es Kiche</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> chuch &lt;man&gt; man Uspanteko verdad. Entonces lajori pues eh lajori ya wi chaq eh inchaak, eh la verdad inhistoria iin verdad que si . . . desde que xinalex hasta neri pues eh  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE> xinkaniye'  jb'anik estudiar por casi cuatro años, eh jwi'l tamun ta' qapwaaq verdad, entonces &lt;eh&gt; eh xinchakun read ayudante de camión  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE> por casi cinco años y kla' pues donde más &lt;xin&gt; eh xinwetamaj pues &lt;aj&gt; jch'awik pero Kiche, entonces  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE> después niri lajori pues xinb'an estudiar lajori iin enfermero iin, eh &lt;mmm&gt; chakun li lospital de Uspantán, entonces kla' cuando wi' kristyan pues a veces  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE> ta' tkwin taq ah tch'aw taq l español, entonces inin inch'aw rk'ilaq es en Kiche, inch'aw rq'ilaq eh en Uspanteko, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE> &lt;la la&gt; la cuestión es de que de eh de que rechaq pues tran taq sentir más en confianza jwk'il, eh &lt;tran ta&gt;, tran taq sentir más comprendido wa',</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE> porque wi' jun pues que tch'aw lo mismo que re idioma pues, entonces eh inch'aw rk'ilaq en Uspanteko, inch'aw rk'ilaq en Kiche; &lt;le&gt; la verdad sinceramente   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE> ta' más inkwínk, pero eh conforme pues tinb'an eh &lt;ti&gt; &lt;ti&gt; inch'awk pues yo se que &lt;t&gt;tran mas fluido chwe, la verdad que lajori eh </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE> es donde iin pues, &lt;tz&gt;pok tinya', tinya' eh ejemplo y tinya' validez, que cuando jun tran despenar rib', jun tran &lt;loq'ar&gt; tran lograr</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE> lo que jun tran proponer porque, iin desde xi'ojpe niri pes pe ni jun palabra chwaj eh tinkwin ri ójer pues &lt;tin&gt; tinch'áwk, per lajori si, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE> lajori si más o menos tinb'an &lt;entraba&gt; &lt;entabla&gt; entablecer &lt;jun&gt; jun conversación en Kiche o en Uspanteko. Toces eh ri li más o menos wistoria,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE> ya desde que xinalex jli la capital y &lt;xoy&gt;xinpe niri, la verdad que si . . . &lt;y&gt; y más, eh &lt;más&gt; eh, más todo porque cuando xinalex iin eh </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>en español, todo es español, todo es español &lt;desde q&gt; desde que wi' pues uso de razón chwe, eh en español cualquier cosa, eh inb'e li jli li escuela jli lamas &lt;xin&gt;xinalex,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE> todo es español, nimo ta' neri verdad, que niri pue masta incluso maestro wi' taq que tch'aw taq Uspanteko, tch'aw taq Kiche, per jli no, jli maw juntiir maq profesor solo español </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE> eh tch'aw taq pues, entonces iin eh xinb'an más fluir lo que es español y &lt;xin&gt; xinkaniye' pues lo que es Uspanteko y Kiche, hasta cuando xinpe niri pues xinb'an eh xinb'an aprender,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE> xinb'an aprender lo que ej eh Uspanteko &lt;y&gt; y Kiche. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="L.F.S.U" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Buena tarde mi nombre es Luis Fernando Sánchez Us, nací allá en la capital  eh un dieciocho de diciembre del noventa y tres, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> pues más o menos voy a relatar mi historia desde que nací hasta como estoy ahora pues, tengo veintiseis ahora, yo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> lo que es primaria lo estudié allá en una escuela en planes de Minerva zona 11 de Mixco, pues eh saqué todo lo que es mi primaria eh allá, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> pero todos nosotros en la casa somos seis con mi mamá y mi papá, pero lamentablemente cuando tenía doce años,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> murió mi papá allá en la capital pues, entonces lo asesinaron eh, pero desde ahí nos venimos aquí,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> nos venimos aquí a Uspantán y bien recuerdo cuando venimos aquí pues, no teníamos dinero y no teníamos . . . osea más que todo no tenías nada de cosas pues; </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> entonces terminé mi sexto primaria allá en lo que es la escuela 15 de septiembre, pero yo veía pues en la casa toda nuestra necesidad, a veces no había  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> no había comida que comer, no teníamos comida, no teníamos dinero pues, entonces eh hubo un día que salí allá de la escuela,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE> fui allá al mercado a como lo hice cuando estaba allá en la capital, salí de la escuela y fui a buscar trabajo porque yo pues veía que siempre había necesidad con nosotros en la casa,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE> eh mi papá antes eh era una persona pues que tomaba bastante agua ardiente, por eso fue que murió, por tomar agua ardiente </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE> y entonces cuando venimos aquí pues yo ya podía trabajar, porque ya tenía experiencia desde allá, entonces vine aquí pues eh busqué trabajo, busqué trabajo,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE> porque yo veía que teníamos nuestras necesidades en la casa, entonces fui al mercado y bien recuerdo ahora que me dijeron: -mira  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE> eh yo te puedo dar trabajo-  te voy a dar trabajo, pero con dos condiciones: eh -tenes que saber hablar así en Kiche y en Uspanteko- y cuando yo vine de la capital  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE> nada podía hablar ni Uspanteko, ni Kiche, porque allá pues cuando yo nací, desde que nací, desde que aprendí a hablar el castellano uso con mi mamá,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>  desde que nací hasta los doce años, de los doce años cuando venimos aquí a Uspantán, entonces me dijeron: -la condición para darte trabajo- me dijo Don Aurelio Lux,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE> es que sepas pues bien hablar lo que es Kiche y Uspanteko me decía, porque aquí las personas pues que vienen, lo son, pues en ese entonces vendían zapatos y cortes.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE> Entonces me dijo tenes que aprender, entonces sí, yo sé le dije, pero en ese entonces mentiras le dije porque no sabía,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE> porque a penas habíamos venido aquí, desde entonces pues puramente por nuestra necesidad yo empecé a hablar  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE> eh empecé lo que es Uspanteko y Kiche, hasta la fecha ahora pues puedo un poco más Kiche que lo que es Uspanteko,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE> porque Uspanteko casi no mucho hablo, más hablo el Kiche, pero eh cuando venimos aquí pues seguí estudiando básico, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE> y la verdad que cuando ibamos a los luagres antes, la mayoría de personas pues hablaban en Uspanteko, hablaban en Kiche,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE> y yo no verdad, entonces eh también encontré un mi trabajo allá en el Pericón, en Pericón allá solo en Kiche hablan, entonces cuando yo no podía,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE> eh entonces me esforcé, entonces hice más fluido lo que es el Kiche, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE> ante el Uspanteko verdad. Entonces ahora pues ya tengo trabajo, la verdad mi historia en verdad que si . . . desde que nací hasta aquí pues eh  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE> dejé de estudiar por casi cuatro años, también porque no teníamos dinero verdad, entonces trabajé de ayudante de camión </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE> por casi cinco años y fue ahí pues donde más aprendí a hablar pero Kiche, entonces </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE> después aquí estudíe ahora soy enfermero, eh trabajo en el hospital de Uspantán, entonces ahí cuando hay personas pues que a veces  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE> no pueden hablar en español, entonces yo hablo con ellos en Kiche, hablo con ellos en Uspanteko, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE> la cuestión es de que ellos pues se sientan más en confianza conmigo, que se sientan más comprendidos,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE> porque hay uno que habla el mismo idioma pues, entonces eh yo hablo con ellos en Uspanteko, hablo con ellos en Kiche; la verdad sinceramente </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE> no puedo mucho, pero eh conforme voy hablando pues yo se que se me hace más fluido, la verdad es que ahora eh   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE> es donde yo pues, doy muchos ejemplos y doy validez, que cuando uno se despena, uno logra  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE> lo que se propone porque, yo desde que venimos aquí pero ni una palabra quería ni podía pues antes hablar, pero ahora si,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE> ahora si más o menos entablezco una conversación en Kiche o en Uspanteko. Entonces esa es más o menos mi historia,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE> ya desde que nací allá en la capital y vine aquí, la verdad que si . . . y más, más todo porque cuando yo nací eh  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE> en español, todo es español, todo es español desde que tengo pues uso de razón, eh en español cualquier cosa, eh iba allá a la escuela allá donde nací,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE> todo es español, no es como aquí verdad, que aquí hasta incluso hay maestros que hablan en Uspanteko, que hablan en Kiche, pero allá no, allá todos los profesores solo en español  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>  eh hablaban pues, entonces yo fluí más lo que es el español y dejé pues lo que es el Uspanteko y Kiche, hasta cuando vine aquí pues aprendí,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE> aprendí lo que es eh Uspanteko y Kiche. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="L.F.S.U" TIER_ID="Descripción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Al referirse a la capital, se quiere dar a entender a la cuidad capital de Guatemala. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> Minerva es una colonia que se situá en el municipio de Mixco en la ciudad de Guatemala.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> La Escuela "15 de septiembre" fue la primera escuela del mucipio, por ende es la más antigua. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE> Agua ardiente es un término muy común en Guatemala para referirse a licor. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE> Muchas personas ladinas le dicen kiche al idioma, por desconocimiento o por inconvenientes de pronunciación, pero la escritura correcta del nombre del idioma es K'iche', por lo que su pronunciación cambia. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE> En la mayoría de negocios en Uspantán buscan personas trilingües (Uspanteko, K'iche' y Español) por estretegías de ventas, al pretender una facilidad de comunicación con los clientes. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE> Pericón es una aldea aledaña al municipio de Uspantán, el topónimo uspanteko de esa aldea es iya</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

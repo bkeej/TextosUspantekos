@@ -1,0 +1,2600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-01T12:36:28-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Xoqoneb'.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Xoqoneb'.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:30a2782e-b08f-4361-a96f-533792d26408</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">1220</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="5190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="6080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="11470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="12760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="20190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="21935"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="29545"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="30980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="39690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="40806"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="50231"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="51670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="60140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="61220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="67292"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="67940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="71795"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="73250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="76820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="78150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="83217"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="83990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="89260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="91130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="94180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="95040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="98070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="99530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="105010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="106400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="111650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="113100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="117800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="119090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="123240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="124970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="129170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="130710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="132980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="135040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="138360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="138920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="146770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="148630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="154810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="156330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="163690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="165640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="169600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="172460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="178670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="179770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="185650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="186740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="190470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="191660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="196920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="197850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="202670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="203670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="207480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="208180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="213000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="215970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="224070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="224877"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="229940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="231030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="233510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="233880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="239978"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="240910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="246360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="246980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="254620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="255820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="262270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="263050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="269070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="269760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="276959"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="277221"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="281195"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="282060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="285740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="286130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="291960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="292550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="298840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="300880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="302520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="303230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="309270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="310090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="315280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="316540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="319820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="321360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="325400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="325690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="329140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="330820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="334425"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="335910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="340530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="341520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="346470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="347830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="351980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="353320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="356060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="357020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="359940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="360540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="365860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="366840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="370115"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="371460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="376010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="377210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="383260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="384720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="388760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="389490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="393310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="394520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="398790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="400390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="406090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="407100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="411060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="412260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="420440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="422110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="427760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="428860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="434320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="435160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="438110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="439100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="440830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="441460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="449360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="450070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="455260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="456560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="463210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="463500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="469120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="470780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="476030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="477340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="486210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="486400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="490580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="491150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="494280"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="praat" PARTICIPANT="Virgilio Tomás Méndez" TIER_ID="Transcripción normativa">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a322" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Tink'omowaj re jun saqarsánk ri</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a324" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> Chwaj tinye' jb'íjk nen jb'antájk Tz'unun Kaab'.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a326" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> Xkajyole' taq qamaam, qatiit'. Ójr taq kristyan neri, xjyol taq.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a328" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>¿Nen chak k'uli? ¿Nen xta'maj b'a Xoqoneb'? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a330" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> Tijyol taq qamaam, qatiit', wi' jun puq' ajxojooj, ti'el taq li nimq'iij qatinmit.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a332" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> Y taw nojel aab', tijb'ij taq, "tiqatok qapach, tiqamol qiib', tiqesaj Ajxojólb'."</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a334" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Xtaw taq chíwch. Xtok taq jpachaq, xjnuk' jyoljaq. Y wi' juun  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a336" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> xijb'ij, "In'eel awik'ilaq." Xtaw q'iij re tijme' taqch ritz'iiqaq ajxojooj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a338" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>eh li K'iche' o rik'il Aj Máxb'.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a340" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> Y wi' jun rechaq xjmay jwiich -¿nen tinb'an?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a342" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> Kita' inpuwaq. Ya titaw q'iij oj'eel li xojooj. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a344" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Y ¿nin tinb'an ri?"Tib'isón ránm, -kita' tijta'w nen tijb'an-,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a346" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> Xk'am b'i ríkaj,. Xk'am jkólob'. Xk'am b'i jpátan,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a348" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> Xi' b'a Xoqoneb', tib'isónk. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a350" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> Kita' nen tijnab'ej, ri tiril, x'eelch jun nimlaj, jun nimlaj wunaq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a352" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> b'a k'achelaj y xjb'ij re' ¿nen tab'an neri? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a354" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>"sii' tijiin tintok." "Per ¿nen tamay?" "Kita' nen tinmay."</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a356" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> "Per iin tinwil que wi' jun b'is laj awánm. B'ij chwe, atint'o'w."</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a358" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>"Per nen inat'o'w si aat, kita' awetam nen wi' laj wánm, wetami'n"</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a360" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> We tab'ij chwe, atint'o'w.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a362" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> Tib'ison ránm kita' tjb'ij re,.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a364" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> "Per iin chwaj inat'o'w per aat kita' atkwínk." " ¡Inkwini'n! b'ij nika' chwe nen b'is wi' laj awánm."</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a366" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> "Ya titaw jq'iij qatinmit y wi'n li xojooj.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a368" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Ya inpach, ya tib'ijme' taqch ritz'iiqaq y iin kita' inpuwaq."</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a370" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE> "Ah ¿ri' li tamay?" Tijche' re ¡ji'n!,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a372" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE> Ya titaw oor atxojoow taq, ya titaw oor re nimq'iij." "¿Ri' li tamay?  ¡atint'o'w!" "Per ¿nen inat'o'w re?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a374" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE> Kita' nen tab'ij jino'n atint'o'w." "Atnatun b'i jeli </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a376" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE> y tinb'ij chawe nen tinya' chawe."</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a378" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE> tzi b'a kali tiche'. Xnatunch ra jxúkt eh tinmit.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a380" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Y ri' xq'ax chirij, tijb'ij re, "¿ri' li itz'iiq chawaj?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a382" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE> ¿Ri' li tamay? Tok jun awee </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a384" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE> re tak'am b'ik, per ni jun jumul tab'ij re kristyan lamas xam'ew."</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a386" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE> Xpax ránm tiril ritz'iiq ajxojlob', ¡tiqopqónk!, ¡tiqopqónk!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a388" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE> li puwaq. Y tijb'ij,  "¿Nen k'u li xin'an ri'?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a390" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>ri' li xyuqinte' y ri k'u li tink'am b'ik?"</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a392" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>Va ch'alchaq jun awee, tak'am b'ik y ri takoj laj meer jq'íjl qatinmit.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a394" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>Per tinb'ij chawe kita' tab'ij re ni jun, que neri xyuqame'w.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a396" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>"Jaan," xche'. Xk'amch itz'iiq, tiki'kot ránm. Kita' chiki' xk'amch jsii'. Kita' chiki' xk'amch ni'j qleen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a398" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>Reqajch itz'iiq, xk'amch chi rochooch y xyuq chi rochooch kita' xijb'ij re rixóql, ni re rech'elxiik, re ni jun.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a400" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>Y jpach ti'eel taq li xojooj xijb'ij taq re "¿y akúchj? ¿nen tab'an re?" "No, iin kita' tinye' inkúchj."</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a402" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>"Per ¿nen tab'an re awitz'iiq?" "Pues nen tinb'an re. Tinwib'ej na titaw q'iij y ajrik'u re' injutun cha xo'laq."</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a404" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>"¡Jaan!" xhe' taq re, "Per ¿nen k'u tijb'an wunaq li?" Kita', xya' jk'uchj re ritz'iiq.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a406" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>Y ¿nen tiqab'an re? Tiwa'x na kla', tiril li jcholájl."</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a408" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>Xtaw jq'íjl eh roox q'iij re jnimq'iij eh Simyel.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a410" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>Xojoow taq y xkojch ritz'iiq wunaq ¡Tiqopqon! ¡Tiqopqon! </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a412" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE> li q'aaq' ritz'iiq.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a414" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE> Y xril taq juntiir ¿Lamas xame'w awitz'iiq? kita' ke' apuwaq, kita' ameer, kita' akortiil. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a416" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>Atmeyow ta'n, y nen k'u man itz'iiq li ¿lamas xame'w?". Kita' tijb'ij</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a418" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>Y  kita' tijb'ij, tijk'ot taq jchii', "¿Per lamas xame'w awitz'iiq?"</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a420" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE> Kita' tijb'ij, va, kita' xan, wi' jun chi jxo'laq tijb'ij re.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a422" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE> "Tiqaye' awryent re, qaq'ab'rasaaj.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a424" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE> Ya sach'el chaq jb'aa, tijyola' li chiqe lamas xjme'w."</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a426" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE> "¡Jaan!" xche' taq, xya' taq kúmb'l re. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a428" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>Xq'ab'arsaaj taq, ya laj q'ab'árk. X'eel la jchii'.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a430" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE> Yijb'ij rechaq, "Pues lamast xinme'w witz'iiq, jeli b'a loom."</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a432" TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE> "¿Lamas loom?" "Jeli b'a Xoqoneb'." </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a434" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE> "¿Nen k'u xab'an'?" x'eelch jun nimlaj wunaq chwiij.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a436" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE> Y xjb'ij chwe que "¿Nen chak inb'esónk?" Cuando wi' la jq'aab' re re </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a438" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE> utziil re jt'o'w y kla' xinme'ch witz'iiq."</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a440" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE> "¡K'uttaj chi qáwch!" "Lajori kita' chiki' inkwin, kita' chiki' tinte'. "</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a442" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>  Y kla' k'u li tijyol taq qamaam qatiit'. Que kla' wi' jun meer-jkortiil</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a444" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE> qatinmit Tz'unun Kaab'. ¿Nen k'u chak xq'aje' b'ik? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a446" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE> ¿Nen k'u chak xsach b'ik? Mat xjyol na che'. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a448" TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE> Ma x'eel na laj jchii' yaj wunaq, xjk'ol taj.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a450" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE> Xjchuqt jb'aa lo quel xjsaj re, jpuwaq qatinmit Tz'unun Kaab', ajwi' tina re,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a452" TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE> Cuand xjretamaj wunaq, retamaj nimlaj wunaq.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a454" TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE> Xyolsaj, jmeb'iil qatinmit, q'iij re' xjyol.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a456" TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE> Xtormaj jun lel b'a Kameb', xnatun b'ik </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a458" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE> Kob'n. Xnatun b'ik Rab'inal, kla'.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a460" TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE> Xtok b'i jb'ee jmeer-jkortiil.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a462" TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE> Puwaq Tz'unun Kaab', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a464" TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE> K'exk'oliil xta'maj. Ójr taq tziij qamaam qatiit' tib'ison taq.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a466" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>Tijb'ij taq, kla' tawem ójr, nimlaj k'achelaj.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a468" TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>Kita' qas titaw jun kla' porque k'a'ni'n loq'laj mundo kla'.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a470" TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE> Ri' li xkan yolsaj jwi'l qaqaaj José Méndez.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a472" TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>Ri li qamaam-qatiit' xkan yoloow taq y xjb'ij  taq, "Xqak'ol tine'.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a474" TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE> Xqachajaj tine', jloq'óxl y loq'b'al puwaq re qatinmit Tz'unun kaab'. "</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a476" TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE>  Ri' li tinyol jun saqarsánk ri re.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a478" TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE> Junab' y tink'amowaj chawe ataq. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción normativa" PARTICIPANT="Virgilio Tomás Méndez" TIER_ID="Transcripción literal">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a818" ANNOTATION_REF="a322">
+                <ANNOTATION_VALUE>Tink'amwaj re jun saqrab'eb' ri.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a819" ANNOTATION_REF="a324">
+                <ANNOTATION_VALUE> Chwaj tinye' jb'íjk nen jb'antaj Tz'únun Kaab'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a820" ANNOTATION_REF="a326">
+                <ANNOTATION_VALUE> Xkajyole' taq qamaam, qatiit. Ójr taq kristyan neri, xijyol taq.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a821" ANNOTATION_REF="a328">
+                <ANNOTATION_VALUE> ¿Nen chak k'uli &lt;eh xtamaj&gt;? o ¿nen xtamaj b'a Xoqoneb'?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a822" ANNOTATION_REF="a330">
+                <ANNOTATION_VALUE>Tijyol taq qamaam, qatiit', wi' jun qub' ajxojólb',  t'el taq l nmq'iij qatinmit.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a823" ANNOTATION_REF="a332">
+                <ANNOTATION_VALUE>Y taw nojel ab', tijb'ij taq, "Tqatok qapach, tqamol qib', tqasaj xójol."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a824" ANNOTATION_REF="a334">
+                <ANNOTATION_VALUE>Xtaw taq chuuch. Xtok taq jpachaq. Xnuk' jyoljaq. Y wi' juun </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a825" ANNOTATION_REF="a336">
+                <ANNOTATION_VALUE> xij, "Inel ak'laq. Xtaw q'iij tijmet tijme taqch ritz'yaq ajxójl</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a826" ANNOTATION_REF="a338">
+                <ANNOTATION_VALUE>eh li K'íche' o rik'il Aj Máxb'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a827" ANNOTATION_REF="a340">
+                <ANNOTATION_VALUE> Y wi' jun rechaq &lt;tijmay&gt; xumay jwiich, "¿Nin tinb'an?  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a828" ANNOTATION_REF="a342">
+                <ANNOTATION_VALUE> Ta' inpuwaq. Ya ttaw q'iij oj'el li xójl.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a829" ANNOTATION_REF="a344">
+                <ANNOTATION_VALUE>Y ¿nin tinb'an ri?" Tib'ison ránm. Ta' tta'w nen eh tran.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a830" ANNOTATION_REF="a346">
+                <ANNOTATION_VALUE>Xk'am b'i ríkaj. Xk'am b'i &lt;j&gt;jkólb'. Xk'am b'i jpátn.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a831" ANNOTATION_REF="a348">
+                <ANNOTATION_VALUE>Xe' b'a Xoqoneb', tb'isónk.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a832" ANNOTATION_REF="a350">
+                <ANNOTATION_VALUE>Ta' nen taj nab'ej, ri tril, xelch jun nimlaj, jun nimlaj wunaq</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a833" ANNOTATION_REF="a352">
+                <ANNOTATION_VALUE>b'a &lt;k'achee'&gt;, b'a k'achelaj y xij re, "¿nen tab'an neri?"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a834" ANNOTATION_REF="a354">
+                <ANNOTATION_VALUE>"Sii' &lt;tin&gt;tintok. "Per ¿nen tamay"? "Ta' nen tinmay."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a835" ANNOTATION_REF="a356">
+                <ANNOTATION_VALUE> "Per iin tinwil que wi' jun b'is laj awánm. B'ij chwe, atint'o'w."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a836" ANNOTATION_REF="a358">
+                <ANNOTATION_VALUE>"Per nin inat'o'w si aat, ta' awetam lo que wi' laj wánm, wetami'n".</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a837" ANNOTATION_REF="a360">
+                <ANNOTATION_VALUE>"Si we tab'ij chwe, atint'o'w."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a838" ANNOTATION_REF="a362">
+                <ANNOTATION_VALUE> Tb'eson ránm, ta' raj tb'ij re.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a839" ANNOTATION_REF="a364">
+                <ANNOTATION_VALUE> "Per iin chwaj inat'o'w, per aat ta' atkwiink." "¡Inkwiini'n! B'ij nika chwe &lt;nin nin wi'&gt; nin b'is wi' laj awánm."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a840" ANNOTATION_REF="a366">
+                <ANNOTATION_VALUE>"Ya titaw jq'iij qatinmit y wi'n l &lt;li&gt; li xjooj.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a841" ANNOTATION_REF="a368">
+                <ANNOTATION_VALUE>Ya eh inpach, ya b'ijme taqch ritz'yaqaq y iin ta' inpuwaq."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a842" ANNOTATION_REF="a370">
+                <ANNOTATION_VALUE> "Ahhh ¿ri li tamay?" Tche re,  "Ji'n.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a843" ANNOTATION_REF="a372">
+                <ANNOTATION_VALUE>Ya titaw hor atxjoow taq, ya taw hor re nimq'iij. " "¿Ri li tamay? ¡iin atint'o'w!" "Per ¿nin inat'o'w re?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a844" ANNOTATION_REF="a374">
+                <ANNOTATION_VALUE> Ta' tab'ij y atint'o'w." "Katnatun b'i jli </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a845" ANNOTATION_REF="a376">
+                <ANNOTATION_VALUE> y tinb'ij chawe nen tinya' chawe."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a846" ANNOTATION_REF="a378">
+                <ANNOTATION_VALUE> "Tzib' kali," tche. Xnatunch &lt;ra&gt; ra jxúkt eh tinmit.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a847" ANNOTATION_REF="a380">
+                <ANNOTATION_VALUE>Y cuand xq'aj chrij, tb'ij re, "¿Ri li itz'yaq chawaj?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a848" ANNOTATION_REF="a382">
+                <ANNOTATION_VALUE> ¿Ri li lo que tamay?  Cha' jun awe  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a849" ANNOTATION_REF="a384">
+                <ANNOTATION_VALUE> y tak'am b'ik per ni jumul tab'ij re kristyan lamas xame'w."  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a850" ANNOTATION_REF="a386">
+                <ANNOTATION_VALUE> Pax ránm tril ritz'yaq ajxójol, tqopqon, tqopqon  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a851" ANNOTATION_REF="a388">
+                <ANNOTATION_VALUE>li puwaq. Y tijb'ij , "¿Nin k'uli xinb'an ri,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a852" ANNOTATION_REF="a390">
+                <ANNOTATION_VALUE>ri li xyuqinte' y ri li tink'am b'ik?"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a853" ANNOTATION_REF="a392">
+                <ANNOTATION_VALUE>Va cha' jun awe y tak'am b'ik y ri takoj laj mer jq'íjl qatinmit.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a854" ANNOTATION_REF="a394">
+                <ANNOTATION_VALUE> Per tinb'ij b'i chawe ta' tab'ij re ni jun, que niri xyuqame'w.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a855" ANNOTATION_REF="a396">
+                <ANNOTATION_VALUE> "Jaan," xche'. Xk'amch atz'yaq, tki'kot ránm. Ta' chki xk'amch jsii'. Ta' chki xk'amch ni'j qleen.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a856" ANNOTATION_REF="a398">
+                <ANNOTATION_VALUE>Reqajch atz'yaq, xk'amch chirchooch, y xyuq chirchooch ta' xij re rixóql, ni rech'elxiik, ni jun.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a857" ANNOTATION_REF="a400">
+                <ANNOTATION_VALUE>Y jpach ti-'el taq li xjooj xij taq re, "¿Y akúchj? ¿Nin tab'an re?" "No, iin ta' tinye' inkúchj."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a858" ANNOTATION_REF="a402">
+                <ANNOTATION_VALUE>"Per ¿nin tab'an re awitz'yaq?""Pues nin tinb'an tre. Tinwilb'ej na taw q'iij y rik'u re' tinjutun &lt;cha&gt; chaxo'laq."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a859" ANNOTATION_REF="a404">
+                <ANNOTATION_VALUE>"Jaan," xche' taq re, "Per ¿nin k'u tran wunaq li? Ta' ta' xya' jkúchj re ritz'yaq.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a860" ANNOTATION_REF="a406">
+                <ANNOTATION_VALUE>Y ¿nin tqab'an re? Wa'x naq kla', tril li jcholájl."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a861" ANNOTATION_REF="a408">
+                <ANNOTATION_VALUE>Xtaw jq'íjl eh roox q'iij re jnimq'iij eh Simyel.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a862" ANNOTATION_REF="a410">
+                <ANNOTATION_VALUE>Xjoow taq y xkojch ritz'yaq wunaq, ¡Tqopqon! ¡Tqopqon! &lt;li li li&gt;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a863" ANNOTATION_REF="a412">
+                <ANNOTATION_VALUE>li q'aaq' ritz'yaq.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a864" ANNOTATION_REF="a414">
+                <ANNOTATION_VALUE>Y xril taq juntir. "¿Lamas xame'w awitz'yaq? Ta' &lt;ke'&gt; ke' apuwaq, ta' &lt;ta' ta'&gt; ameer, ta' akortiil.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a865" ANNOTATION_REF="a416">
+                <ANNOTATION_VALUE>Atb'eyom ta'n,y nin k'u &lt;ma&gt;man atz'yaq li ¿li xame'w?"  Ta' tjb'ij.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a866" ANNOTATION_REF="a418">
+                <ANNOTATION_VALUE>Y ta' tijib'ij, tjk'ot taq jchii', "¿Per lamas xame'w awitz'yaq?"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a867" ANNOTATION_REF="a420">
+                <ANNOTATION_VALUE>Ta' tijib'ij, va, taxan jun wi' jun chijxo'laq te.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a868" ANNOTATION_REF="a422">
+                <ANNOTATION_VALUE> "Qaye' awryent re, qaq'ab'rsaaj.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a869" ANNOTATION_REF="a424">
+                <ANNOTATION_VALUE> Ya sache'l chaq jb'aa, tijyola' li chqe lamas xijme'w."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a870" ANNOTATION_REF="a426">
+                <ANNOTATION_VALUE>"Jaan," xche' taq, &lt;x,x&gt; xkoj, xya' taq kúmb'l re.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a871" ANNOTATION_REF="a428">
+                <ANNOTATION_VALUE>xq'ab'rsaaj taq, ya laj q'ab'árk, xelch laj chii'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a872" ANNOTATION_REF="a430">
+                <ANNOTATION_VALUE> Tijb'ij rechaq, "Pues lamastch xinme' witz'yaq, jeli b'a loom."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a873" ANNOTATION_REF="a432">
+                <ANNOTATION_VALUE>"¿Lamas loom?" "Jeli b'a Xoqoneb'".</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a874" ANNOTATION_REF="a434">
+                <ANNOTATION_VALUE>"¿Nin k'u xab'an?" Xelch jun nimlaj wunaq chwiij.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a875" ANNOTATION_REF="a436">
+                <ANNOTATION_VALUE>Y xij chwe que, "¿Nen chak inb'esónk?" Cuando wi' la jq'aab' re re</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a876" ANNOTATION_REF="a438">
+                <ANNOTATION_VALUE> utziil re jt'o'w y kla' xinme'ch wítz'yaq."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a877" ANNOTATION_REF="a440">
+                <ANNOTATION_VALUE> "¡K'uttaj chqáwch!" "Loq'ori ta' chki inkwiin, ta' chki tinte'."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a878" ANNOTATION_REF="a442">
+                <ANNOTATION_VALUE>Y kla' k'uli &lt;tiji&gt; tyol taq qamaam qatiit'. Que kila' wi' jun meer jkortii'l</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a879" ANNOTATION_REF="a444">
+                <ANNOTATION_VALUE> qatinmit Tz'unun Kaab'. ¿Nin k'u chak &lt;x&gt;xq'aje b'ik?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a880" ANNOTATION_REF="a446">
+                <ANNOTATION_VALUE> ¿Nin k'u chak xsach b'ik? Mat xijyol na che'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a881" ANNOTATION_REF="a448">
+                <ANNOTATION_VALUE>Mat xel na laj chii' wunaq, xijk'ol taj.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a882" ANNOTATION_REF="a450">
+                <ANNOTATION_VALUE>Xijch'uqt jb'aa lo que xi'jsaj re, jpuwaq qatinmit Tz'unun Kaab', ajwi' tna re.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a883" ANNOTATION_REF="a452">
+                <ANNOTATION_VALUE>Cuand xretamaj wunaq, retamaj nimalaj wunaq.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a884" ANNOTATION_REF="a454">
+                <ANNOTATION_VALUE>Xyolsaj jmeb'iil qatinmit,  q'iij re xijyol.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a885" ANNOTATION_REF="a456">
+                <ANNOTATION_VALUE> Xtormaj jun lel B'a Kameb', xnatun b'ik </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a886" ANNOTATION_REF="a458">
+                <ANNOTATION_VALUE>Kób'n. Xnatun b'ik Rab'inal, kla'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a887" ANNOTATION_REF="a460">
+                <ANNOTATION_VALUE>Xtok b'i jb'ee jmeer jkortii'l.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a888" ANNOTATION_REF="a462">
+                <ANNOTATION_VALUE> J'upuwaq Tz'unun Kaab'.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a889" ANNOTATION_REF="a464">
+                <ANNOTATION_VALUE> K'ixk'olil eh xtamaj ójr taq tziij. Ójr taq qamaam qatiit' tib'eson taq.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a890" ANNOTATION_REF="a466">
+                <ANNOTATION_VALUE>Tajb'ij taq, kila' tawem ójr, nimalaj k'achelaj.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a891" ANNOTATION_REF="a468">
+                <ANNOTATION_VALUE>Ta' qas ttaw jun kla' porque k'a'ni'n, k'a'ni'n loq'laj mundo kla'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a892" ANNOTATION_REF="a470">
+                <ANNOTATION_VALUE>Ri li xkan yolsaj jwi'l qaqaaj José Méndez.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a893" ANNOTATION_REF="a472">
+                <ANNOTATION_VALUE> Ri li qamaam qatiit' xkan yoloow taq y xi'j taq, "Xqak'ol tine'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a894" ANNOTATION_REF="a474">
+                <ANNOTATION_VALUE>Xqachajaj tine' &lt;jloqo&gt; jloq'óxl y &lt;jloq, loq,loq&gt; loq'b'al puwaq re qatinmit Tz'unun Kaab'."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a895" ANNOTATION_REF="a476">
+                <ANNOTATION_VALUE>Ri li tinyol jun saqrab'em ri rej eh...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a896" ANNOTATION_REF="a478">
+                <ANNOTATION_VALUE> Rik'al junab' y tink'amwaj chawe ataq.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Robert Henderson" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción normativa" PARTICIPANT="Virgilio Tomás Méndez" TIER_ID="Morfología">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a897" ANNOTATION_REF="a322">
+                <ANNOTATION_VALUE>T-Ø-in-k’amwaj              re       jun saqrab’eb’ ri. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a898" ANNOTATION_REF="a324">
+                <ANNOTATION_VALUE>Ch-Ø-w-aj                t-Ø-in-ye’               j-b’íj-ik         nen  j-b’an-taj        Tz’únun Kaab’. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a899" ANNOTATION_REF="a326">
+                <ANNOTATION_VALUE>X-Ø-Ø-kaj               yol-e’     taq  qa-maam,   qa-tiit’.    Ójer                 taq   kristyan neri,  x-Ø-ij-yol                taq.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a900" ANNOTATION_REF="a328">
+                <ANNOTATION_VALUE>Nen chak k’uli? Nen  x-Ø-tamaj                b’a    Xoqoneb’?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a901" ANNOTATION_REF="a330">
+                <ANNOTATION_VALUE>Ti-Ø-j-yol                taq   qa-maam,    qa-tiit’        wi’   jun  qub’   aj-xoj-ól-ob’,                     t-Ø-’el           taq   li     nimq’iij  qa-tinmit.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a902" ANNOTATION_REF="a332">
+                <ANNOTATION_VALUE>Y taw    nojel ab’,    t-Ø-ij    -b’ij       taq,    “t-  Ø-  qa-        tok            qa-pach,                   t-     Ø-qa-mol               q-ib’,          t-Ø-q-esaj                xójol.”</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a903" ANNOTATION_REF="a334">
+                <ANNOTATION_VALUE>X-Ø-taw             taq   chuuch. X-Ø            -tok     taq   j     -pach         -aq.   X-Ø-        nuk’   j    -yolj  -aq. Y wi’  juun</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a904" ANNOTATION_REF="a336">
+                <ANNOTATION_VALUE>x-Ø-Ø-ij,               “In-el        a-k’l-aq."        X-Ø-taw            q’iij t-Ø-ij-met                t-Ø-ij-me                taq-ch    r-itz’yaq  aj-xójl </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a905" ANNOTATION_REF="a338">
+                <ANNOTATION_VALUE>li      K’íche’  o r-ik’il Aj Máx-ib’.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a906" ANNOTATION_REF="a340">
+                <ANNOTATION_VALUE>Y wi’   jun  rechaq x-Ø-u-may              j-wiich,  “Nin  t-Ø-in-b’an?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a907" ANNOTATION_REF="a342">
+                <ANNOTATION_VALUE>Ta’    in-puwaq. Ya ti-Ø-taw            q’iij oj-’el         li     xójol.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a908" ANNOTATION_REF="a344">
+                <ANNOTATION_VALUE>Y ¿nin   t-Ø-in-b’an              ri?” Ti-Ø-b’ison             r-ánim. Ta’    t-Ø-Ø-ta’-w                       nen  t-Ø-r-an.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a909" ANNOTATION_REF="a346">
+                <ANNOTATION_VALUE>X-Ø-k’am         b’i   r-íkaj. X-Ø-k’am        b’i    j-kólob’. X-Ø-k’am         b’i   j-pátan.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a910" ANNOTATION_REF="a348">
+                <ANNOTATION_VALUE>X-Ø-e’          b’a  Xoqoneb’, t-Ø-b’ison-ik. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a911" ANNOTATION_REF="a350">
+                <ANNOTATION_VALUE>“Ta’    nentaj   nab’ej,   ri       t-Ø-r-il,              x-el-ch               jun  nim-laj         wunaq </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a912" ANNOTATION_REF="a352">
+                <ANNOTATION_VALUE>b’a   k’achelaj  y x-Ø-ij                re,   “¿Nen    t-Ø-a-b’an               neri?”</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a913" ANNOTATION_REF="a354">
+                <ANNOTATION_VALUE>“Sii’  t-Ø-in-tok.” “¿Per   nen  t-Ø-a-may?” "Ta’    nen  t-Ø-in-may."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a914" ANNOTATION_REF="a356">
+                <ANNOTATION_VALUE>“Per   iin t-Ø-inw-il            que wi’   jun  b’is       laj    aw-ánm. B’ij   ch-w-e,       at-in-t’o’-w.”</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a915" ANNOTATION_REF="a358">
+                <ANNOTATION_VALUE>“Per   nin   in-a-t’o’-w                si  aat, ta’      aw-etam  lo que wi’ laj    w-ánim,          w-etam-i’n.”</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a916" ANNOTATION_REF="a360">
+                <ANNOTATION_VALUE>“Si we      t-Ø-a-b’ij               ch-w-e,  at-in-t’o’-w.”</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a917" ANNOTATION_REF="a362">
+                <ANNOTATION_VALUE>T-Ø-b’ison              r-ánim,         ta’      raj     t-Ø-b’ij re.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a918" ANNOTATION_REF="a364">
+                <ANNOTATION_VALUE>“Per   iin ch-Ø-w-aj             in-a-t’o’-w,                per   aat   ta’      at-kwiin-ik.” “¡In-kwiin-i’n!       B’ij   nika    ch-w-e            nin   b’is       wi’    laj    aw-ánm.” </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a919" ANNOTATION_REF="a366">
+                <ANNOTATION_VALUE>“Ya ti-Ø-taw           j-q’iij  qa-tinmit    y wi’-n       li    xojooj.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a920" ANNOTATION_REF="a368">
+                <ANNOTATION_VALUE>Ya in-pach,              ya Ø-b’i-j-me                 taq-ch  r-itz’yaq-aq y iin ta’    in-puwaq. "</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a921" ANNOTATION_REF="a370">
+                <ANNOTATION_VALUE>“Ahhh, ¿ri      li     t-Ø-a-may? T-Ø-che        re,   “Ji’-n. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a922" ANNOTATION_REF="a372">
+                <ANNOTATION_VALUE>Ya ti-Ø-taw           hor at-xjoo-w      taq. Ya Ø-taw           hor   r-e     nimq’iij.”“¿Ri     li     t-Ø-a-may? ¡Iin at-in-t’o’-w!” “Per   ¿nin in-a-t’o’-w              re? </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a923" ANNOTATION_REF="a374">
+                <ANNOTATION_VALUE>Ta’  t-Ø-a-b’ij              y at-in-t’o’-w.” “K-at-natun         b’i  jli   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a924" ANNOTATION_REF="a376">
+                <ANNOTATION_VALUE>jli   y t-Ø-in-b’ij             ch-aw-e       nen t-Ø-in-ya’ ch-aw-e</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a925" ANNOTATION_REF="a378">
+                <ANNOTATION_VALUE>“Tzib’   kali,”   t-Ø-che. X-Ø-natun-ch ra j-xúkut tinmit.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a926" ANNOTATION_REF="a380">
+                <ANNOTATION_VALUE>Y cuand   x-Ø-q’aj               ch-r-ij,       t-Ø-b’ij          re,  “¿Ri    li     itz’yaq ch-Ø-a-waj? </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a927" ANNOTATION_REF="a382">
+                <ANNOTATION_VALUE>Ri     li    lo   que t-Ø-a-may? Cha’      jun aw-e     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a928" ANNOTATION_REF="a384">
+                <ANNOTATION_VALUE>y t-Ø-a-k’am          b’i-ik     per  ni jumul  t-Ø-a-b’ij              r-e.    kristyan lamas x-Ø-a-me’-w.”</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a929" ANNOTATION_REF="a386">
+                <ANNOTATION_VALUE>Pax       r-ánim          t-Ø-r-il             r-itz’yaq aj-xójol,    t-Ø-qop-qo-n, t-Ø-qop-qo-n,               </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a930" ANNOTATION_REF="a388">
+                <ANNOTATION_VALUE>li     puwaq. Y t-Ø-ij-b’ij,      “¿Nin k’uli  x-Ø-in-b’an           ri,     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a931" ANNOTATION_REF="a390">
+                <ANNOTATION_VALUE> ri     li x-Ø-yuq-in-te’   y  ri      li    t-Ø-in-k’am         b’i-ik?” </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a932" ANNOTATION_REF="a392">
+                <ANNOTATION_VALUE>Va    cha’,     jun aw-e     y t-Ø-a-k’am           b’i-ik    y ri      t-Ø-a-koj laj   mer    j-q’íj li      qa-tinmit. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Robert Henderson" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción normativa" PARTICIPANT="Virgilio Tomás Méndez" TIER_ID="Glosa">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a933" ANNOTATION_REF="a322">
+                <ANNOTATION_VALUE>INC-A3-E1S-agradecer DEM uno mañana     DEM </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a934" ANNOTATION_REF="a324">
+                <ANNOTATION_VALUE>INC-A3-E1S-querer INC-A3-E1S-give E3-decir-SC INT E3-hacer-PAS Uspantán</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a935" ANNOTATION_REF="a326">
+                <ANNOTATION_VALUE>X-Ø-Ø-kaj               yol-e’     taq  qa-maam,   qa-tiit’.  antiguamente PL  persona   aquí COM-A3-E3-relatar PL </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a936" ANNOTATION_REF="a328">
+                <ANNOTATION_VALUE>INT          PART    INT  COM-A3-encontrar PRE Xoqoneb’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a937" ANNOTATION_REF="a330">
+                <ANNOTATION_VALUE>INC-A3-E3-contar PL   E1P-abuelo E1P-abuela  EXS uno grupo AGT-bailar-NOM-PL INC-A3-salir PL  PRE fiesta      E1P-pueblo </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a938" ANNOTATION_REF="a332">
+                <ANNOTATION_VALUE>y llegar todo  año INC-A3-E3-decir PL    INC-A3-E1P-buscar E1P-compañero           INC-A3-E1P-reunir E1P-REFL INC-A3-E1P-sacar baile </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a939" ANNOTATION_REF="a334">
+                <ANNOTATION_VALUE>COM-A3-llegar PL   fecha.     COM-A3-buscar PL  E3-compañero-PL COM-A3-juntar E3-habla-PL y EXS uno  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a940" ANNOTATION_REF="a336">
+                <ANNOTATION_VALUE>COM-A3-E3-decir E1S-salir E2S-SR-PL  COM-E3-llegar día  INC-A3-E3-recibir INC-A3-E3-recibir PL-DIR E3-traje   AGT-baile </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a941" ANNOTATION_REF="a338">
+                <ANNOTATION_VALUE>PRE Quiche  o  E3-SR originario.de Chichicastenango-PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a942" ANNOTATION_REF="a340">
+                <ANNOTATION_VALUE>y  EXS uno ellos    COM-A3-E3-penar E3-rostro INT  INC-A3-E1S-hacer </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a943" ANNOTATION_REF="a342">
+                <ANNOTATION_VALUE>NEG E1S-dinero. ya  INC-A3-llegar día   A1P-salir PRE baile</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a944" ANNOTATION_REF="a344">
+                <ANNOTATION_VALUE>y  INT INC-A3-E1S-hacer DEM INC-A3-estar.triste E3-corazón </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a945" ANNOTATION_REF="a346">
+                <ANNOTATION_VALUE>COM-A3-traer DIR E3-hacha COM-A3-traer DIR E3-lazo COM-A3-traer DIR E3-mecapal </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a946" ANNOTATION_REF="a348">
+                <ANNOTATION_VALUE>COM-A3-ir PRE Xoqoneb’, INC-A3-estar.triste-SC </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a947" ANNOTATION_REF="a350">
+                <ANNOTATION_VALUE>NEG INT      primero DEM INC-A3-E3-ver COM-salir-DIR uno grande-SUP hombre</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a948" ANNOTATION_REF="a352">
+                <ANNOTATION_VALUE>PRE selva           y COM-A3-decir DEM INT   INC-A3-E2S-hacer aquí</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a949" ANNOTATION_REF="a354">
+                <ANNOTATION_VALUE>leña INC-A3-E1S-buscar pero INT  INC-A3-E2S-penar NEG INT INC-A3-E1S-penar</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a950" ANNOTATION_REF="a356">
+                <ANNOTATION_VALUE>pero yo INC-A3-E1S-see que EXS uno tristeza PRE E2S-corazón decir PRE-E1S-SR INC-A2S-E1S-ayudar-SC</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a951" ANNOTATION_REF="a358">
+                <ANNOTATION_VALUE>pero INT INC-A1S-E2S-ayudar-SC si  tú   NEG E2S-saber lo que EXS PRE E1S-corazón E1S-corazón-ENF</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a952" ANNOTATION_REF="a360">
+                <ANNOTATION_VALUE>si si INC-A3-E2S-decir PRE-E1S-SR.    A2S-E1S-ayudar-SC </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a953" ANNOTATION_REF="a362">
+                <ANNOTATION_VALUE>INC-A3-estar.triste E3-corazón NEG ADV INC-A3-decir DEM </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a954" ANNOTATION_REF="a364">
+                <ANNOTATION_VALUE>pero yo  INC-A3-E1-querer  A1S-E2S-ayudar-SC pero tú     NEG A2S-poder-SC A1S-poder-ENF decir PART PRE-E1S-SR INT  tristeza   EXS PRE E2S-corazón </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a955" ANNOTATION_REF="a366">
+                <ANNOTATION_VALUE>ya  INC-A3-llegar E3-día E1P-pueblo y EXS-A1S PRE baile </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a956" ANNOTATION_REF="a368">
+                <ANNOTATION_VALUE>ya  A1S-compañero     ya A3-DIR-E3-recibir  PL-DIR E3-traje-PL y yo NEG E1S-dinero</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a957" ANNOTATION_REF="a370">
+                <ANNOTATION_VALUE>ahhh   DEM PRE INC-A3-E2S-penar T-Ø-che        re,   “Ji’-n. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a958" ANNOTATION_REF="a372">
+                <ANNOTATION_VALUE>ya  INC-A3-llegar hora  A2S-bailar-SC PL ya  A3-llegar hora E3-SR fiesta DEM PRE INC-A3-E2S-penar yo  A2S-E1S-ayudar-SC pero INT A1S-E2S-ayudar-SC DEM  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a959" ANNOTATION_REF="a374">
+                <ANNOTATION_VALUE>NEG INC-A3-E2S-decir y A2S-E1S-ayudar-SC  INC-A2-voltear DIR allá </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a960" ANNOTATION_REF="a376">
+                <ANNOTATION_VALUE>y INC-A3-E1S-decir PRE-A2S-SR INT  INC-A3-E1S-dar PRE-E2S-SR</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a961" ANNOTATION_REF="a378">
+                <ANNOTATION_VALUE>palabra calidad INC-A3-decir COM-A2-voltear-DIR DEM E3-SR pueblo </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a962" ANNOTATION_REF="a380">
+                <ANNOTATION_VALUE>y  cuando COM-A3-regresar PRE-E3-SR INC-A3-decir DEM DEM PRE traje INC-A3-E2S-querer</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a963" ANNOTATION_REF="a382">
+                <ANNOTATION_VALUE>DEM PRE los que INC-A3-E2S-penar escoger uno E2S-SR </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a964" ANNOTATION_REF="a384">
+                <ANNOTATION_VALUE>y INC-A3-E2S-traer DIR-SC pero ni siempre INC-A3-E2S-decir E3-SR persona  INT     INC-A3-E2S-recibir-ENF</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a965" ANNOTATION_REF="a386">
+                <ANNOTATION_VALUE>quebrar E3-corazón INC-A3-E3-ver E3-traje   AGT-baile INC-A3-brillar-RED-AP INC-A3-brillar-RED-AP </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a966" ANNOTATION_REF="a388">
+                <ANNOTATION_VALUE>PRE dinero y  INC-A3-E3-decir INT   PART COM-A3-E1-hacer DEM </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a967" ANNOTATION_REF="a390">
+                <ANNOTATION_VALUE>DEM PRE COM-A3-DIR-E1S-encontrar y DEM PRE INC-A3-E1S-traer DIR-SC </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a968" ANNOTATION_REF="a392">
+                <ANNOTATION_VALUE>vaya escoger uno E2S-SR y INC-A3-E2S-traer DIR-SC y DEM INC-A3-E2S-usar PRE mero E3-día PRE E1P-pueblo </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción normativa" PARTICIPANT="Virgilio Tomás Méndez" TIER_ID="Traducción literal (español)">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a969" ANNOTATION_REF="a322">
+                <ANNOTATION_VALUE>Agradezco por este amanecer. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a970" ANNOTATION_REF="a324">
+                <ANNOTATION_VALUE>  Quiero dar a conocer cuál es la cultura de Uspantán.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a971" ANNOTATION_REF="a326">
+                <ANNOTATION_VALUE> Lo que dejaron relatado nuestros abuelos. Las antiguas personas de aquí, ellos relataron. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a972" ANNOTATION_REF="a328">
+                <ANNOTATION_VALUE> el ¿por qué sucedió? o ¿qué sucedió en Xoqoneb'?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a973" ANNOTATION_REF="a330">
+                <ANNOTATION_VALUE> Cuentan nuestros abuelos, que había un grupo, que participaban en la fiesta de nuestro pueblo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a974" ANNOTATION_REF="a332">
+                <ANNOTATION_VALUE> Y que al llegar la fecha en todos los años, decían, "Busquemos a nuestros compañeros, reunámonos, para que presentemos el baile de la Conquista."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a975" ANNOTATION_REF="a334">
+                <ANNOTATION_VALUE> Llegaron a la fecha.Buscaron a sus compañeros. Se pusieron de acuerd. Yy hubo uno </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a976" ANNOTATION_REF="a336">
+                <ANNOTATION_VALUE> que dijo, "Voy a participar con ustedes."  Llegó el día para que fueran a traer sus trajes para el baile de la conquista   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a977" ANNOTATION_REF="a338">
+                <ANNOTATION_VALUE> a Quiché o con los chichicastecos.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a978" ANNOTATION_REF="a340">
+                <ANNOTATION_VALUE> Y uno de ellos se preocupó ¿qué voy a hacer?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a979" ANNOTATION_REF="a342">
+                <ANNOTATION_VALUE>  no tengo dinero y ya casi llega el día para presentarnos en el bailde de la Conquista, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a980" ANNOTATION_REF="a344">
+                <ANNOTATION_VALUE> Y ¿qué voy a hacer? Estaba muy triste. No encontraba una solución. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a981" ANNOTATION_REF="a346">
+                <ANNOTATION_VALUE>Se llevó su hacha. Se llevó su lazo. Se llevó su mecapal </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a982" ANNOTATION_REF="a348">
+                <ANNOTATION_VALUE> Se fue hacía Xoqoneb', muy triste.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a983" ANNOTATION_REF="a350">
+                <ANNOTATION_VALUE> No se esperaba nada, cuando vió, salió un gran, un gran hombre</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a984" ANNOTATION_REF="a352">
+                <ANNOTATION_VALUE> sobre la montaña y le preguntó, "¿qué estas haciendo aquí?"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a985" ANNOTATION_REF="a354">
+                <ANNOTATION_VALUE> "leña estoy buscando." "Pero ¿qué te preocupa?" "No tengo ninguna preocupación."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a986" ANNOTATION_REF="a356">
+                <ANNOTATION_VALUE>"Pero yo veo que sí hay una trsiteza en tu corazón. Decimelo, te voy a ayudar."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a987" ANNOTATION_REF="a358">
+                <ANNOTATION_VALUE>"Pero en qué me vas a ayudar, si no sabes lo que tengo en mi corazón, lo sé. "</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a988" ANNOTATION_REF="a360">
+                <ANNOTATION_VALUE> Si me lo decís, yo te ayudo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a989" ANNOTATION_REF="a362">
+                <ANNOTATION_VALUE> Estaba muy triste, no quería decirle.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a990" ANNOTATION_REF="a364">
+                <ANNOTATION_VALUE> "Pero yo sí quiero que me ayudes, pero no podes." "¡Bien puedo! Decime qué tristeza hay en tu corazón."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a991" ANNOTATION_REF="a366">
+                <ANNOTATION_VALUE> "Ya casi llega la fiesta de nuestro pueblo y estoy en el grupo de baile.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a992" ANNOTATION_REF="a368">
+                <ANNOTATION_VALUE> Ya mis compañeros, ya van a ir a traer sus trajes y yo no tengo dinero."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a993" ANNOTATION_REF="a370">
+                <ANNOTATION_VALUE> "Ah ¿eso es es lo qué te proecupa? "le preguntó, "Sí, eso es.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a994" ANNOTATION_REF="a372">
+                <ANNOTATION_VALUE>Ya casi llega la hora para que bailen, ya casi llega la hora para la fiesta." "¿eso es lo qué te preocupa? ¡yo te voy  ayudar!" "pero ¿en qué me vas a ayudar? </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a995" ANNOTATION_REF="a374">
+                <ANNOTATION_VALUE> No digas nada y te voy a ayudar." "Mira hacia allá</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a996" ANNOTATION_REF="a376">
+                <ANNOTATION_VALUE> y te voy a decir que te voy a dar."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a997" ANNOTATION_REF="a378">
+                <ANNOTATION_VALUE> "Esta bien," dijo. Miró hacia un lado del pueblo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a998" ANNOTATION_REF="a380">
+                <ANNOTATION_VALUE>Y cuando volteó, le preguntó, "¿esa es la ropa que querés?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a999" ANNOTATION_REF="a382">
+                <ANNOTATION_VALUE> ¿Es es lo que te preocupa? Escoge un tuyo,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1000" ANNOTATION_REF="a384">
+                <ANNOTATION_VALUE> y te lo llevas, pero en ningún momento vas a decirles a las personas en donde lo fuiste a traer."   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1001" ANNOTATION_REF="a386">
+                <ANNOTATION_VALUE>  Se quebrabtó su corazón al ver los trajes para el baile de la conquista que ¡brillaban! ¡brillaban! </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1002" ANNOTATION_REF="a388">
+                <ANNOTATION_VALUE> entre el dinero. Y se preguntó, "¿Qué habré hecho?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1003" ANNOTATION_REF="a390">
+                <ANNOTATION_VALUE> que esto haya venido a encontrar y esto me voy a llevar?"  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1004" ANNOTATION_REF="a392">
+                <ANNOTATION_VALUE> Ya escoge el tuyo y te lo llevas y eso vas a utilizar en la mera fiesta de nuestro pueblo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1005" ANNOTATION_REF="a394">
+                <ANNOTATION_VALUE> Pero de una vez te lo advierto no tenes que decirle a nadie, que aquí lo veniste a traer. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1006" ANNOTATION_REF="a396">
+                <ANNOTATION_VALUE> "Muy bien," dijo. Se trajo el vestuario, muy feliz. Ya ni se trajo su leña. Ya ni se trajo ninguna cosa.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1007" ANNOTATION_REF="a398">
+                <ANNOTATION_VALUE>Se cargó la ropa, se lo trajo para su casa y vino a su casa no le dijo nada a su esposa, ni a sus familiares, a nadie.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1008" ANNOTATION_REF="a400">
+                <ANNOTATION_VALUE> Y sus compañeros participantesdel baile le preguntaron, "¿y tu cuota? ¿Qué vas a hacer?" "No, yo novoy a dar mi cuota."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1009" ANNOTATION_REF="a402">
+                <ANNOTATION_VALUE>"Pero ¿qué vas a hcaer con tu traje?" "Pues que puedo hacer. Voy a esperar a que llegue el día y después me iré a meter entre ustedes."  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1010" ANNOTATION_REF="a404">
+                <ANNOTATION_VALUE> "¡Muy bien!" le dijeron, "pero ¿qué irá a hacer ese hombre? que no dió su cuota para su traje.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1011" ANNOTATION_REF="a406">
+                <ANNOTATION_VALUE>Y ¿qué le vamos a hacer? Que se quede ahí, que vea él que hacer."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1012" ANNOTATION_REF="a408">
+                <ANNOTATION_VALUE> Llegó el día, eh el tercer día de fiest de San Miguel.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1013" ANNOTATION_REF="a410">
+                <ANNOTATION_VALUE> Bailaron y se puso su traje el hombre ¡brillaba! ¡brillaba!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1014" ANNOTATION_REF="a412">
+                <ANNOTATION_VALUE> en la luz su traje.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1015" ANNOTATION_REF="a414">
+                <ANNOTATION_VALUE> Y todos lo vieron, ¿Dónde fuiste a traer tu traje? sí no tenías dinero, no tenías bienes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1016" ANNOTATION_REF="a416">
+                <ANNOTATION_VALUE> No tenías nada y ¿qué es ese traje? ¿dónde lo fuiste a traer?"No decía nada </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1017" ANNOTATION_REF="a418">
+                <ANNOTATION_VALUE> Y no decía nada, lo interrogaban, "Pero ¿dónde fuiste a traer tu traje?"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1018" ANNOTATION_REF="a420">
+                <ANNOTATION_VALUE> No lo decía, va, uno que estaba entre ellos dijo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1019" ANNOTATION_REF="a422">
+                <ANNOTATION_VALUE> "Demosle licor, emborrachemoslo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1020" ANNOTATION_REF="a424">
+                <ANNOTATION_VALUE> Ya inconsciente nos irá a contar donde lo fue a traer."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1021" ANNOTATION_REF="a426">
+                <ANNOTATION_VALUE> "¡Muy bien!" dijeron, le dieron licor.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1022" ANNOTATION_REF="a428">
+                <ANNOTATION_VALUE> Lo emborracharon, ya entre su borrachera. Lo dijo todo, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1023" ANNOTATION_REF="a430">
+                <ANNOTATION_VALUE>Les dijo a ellos, "Pues donde más pude haber ido a traer mi traje, fue allá sobre el cerro." </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1024" ANNOTATION_REF="a432">
+                <ANNOTATION_VALUE> "¿En qué cerro?" "Alla´sobre Xoqoneb'."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1025" ANNOTATION_REF="a434">
+                <ANNOTATION_VALUE>" ¿Qué tuviste que hacer?" "Salió un gran hombre detrás de mi. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1026" ANNOTATION_REF="a436">
+                <ANNOTATION_VALUE> Y me preguntó, "¿Por qué estas triste?" Cuando él tenía en sus manos</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1027" ANNOTATION_REF="a438">
+                <ANNOTATION_VALUE> intenciones para ayudar y ahí fue donde fui a traer mi traje." </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1028" ANNOTATION_REF="a440">
+                <ANNOTATION_VALUE> "¡Enseñanmos!" "Ahorita ya no puedo, ya no lo encontraría. "</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1029" ANNOTATION_REF="a442">
+                <ANNOTATION_VALUE> Y es así como lo relatan nuestro abuelos,. Que ahí estaba la riqueza</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1030" ANNOTATION_REF="a444">
+                <ANNOTATION_VALUE> de nuestro pueblo de Uspantán. ¿Por qué razón se regresó? </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1031" ANNOTATION_REF="a446">
+                <ANNOTATION_VALUE> ¿Por qué razón se perdió? No lo hubiera contado dice.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1032" ANNOTATION_REF="a448">
+                <ANNOTATION_VALUE> No hubiera dicho nada el hombre, lo hubiera mantenido en secreto.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1033" ANNOTATION_REF="a450">
+                <ANNOTATION_VALUE>Hubiera guardado en su cabeza lo que le dijeron, la riqueza de nuestro pueblo de Uspantán, aún estuviera.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1034" ANNOTATION_REF="a452">
+                <ANNOTATION_VALUE> Cuando se enteró el hombre, se enteró el gran hombre.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1035" ANNOTATION_REF="a454">
+                <ANNOTATION_VALUE> Que se exhibió la pobreza de nuestro pueblo, en ese mismo día en que lo relató.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1036" ANNOTATION_REF="a456">
+                <ANNOTATION_VALUE> Se abrió una ventana sobre el cerro Xoqoneb', viendo hacía </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1037" ANNOTATION_REF="a458">
+                <ANNOTATION_VALUE> Cobán. Viendo hacía Rabinal, ahí.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1038" ANNOTATION_REF="a460">
+                <ANNOTATION_VALUE> Buscó su camino la riqueza.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1039" ANNOTATION_REF="a462">
+                <ANNOTATION_VALUE> El dinero de Uspantán. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1040" ANNOTATION_REF="a464">
+                <ANNOTATION_VALUE> Dificultades se vivieron en la antigüedad. Nuestros abuelos quedaron tristes. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1041" ANNOTATION_REF="a466">
+                <ANNOTATION_VALUE> decían que llegar ahí antes, era una gran montaña. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1042" ANNOTATION_REF="a468">
+                <ANNOTATION_VALUE> No se llegaba mucho por ahí porque era enojado el sagrado mundo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1043" ANNOTATION_REF="a470">
+                <ANNOTATION_VALUE> Esto fue relatado por Don José Méndez.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1044" ANNOTATION_REF="a472">
+                <ANNOTATION_VALUE> Fueron nuestros abuelos quienes relataron y dijeron, "lo hubiéramos guardado.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1045" ANNOTATION_REF="a474">
+                <ANNOTATION_VALUE> Hubiéramos cuidado al dinero sagrado de nuestro pueblo de Uspantán. "</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1046" ANNOTATION_REF="a476">
+                <ANNOTATION_VALUE> Esto es lo que yo relato en esta mañana.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1047" ANNOTATION_REF="a478">
+                <ANNOTATION_VALUE> En este año y les agradezco a ustedes. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción normativa" PARTICIPANT="Virgilio Tomás Méndez" TIER_ID="Traducción libre (español)">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1048" ANNOTATION_REF="a322">
+                <ANNOTATION_VALUE>Agradezco por esta mañana.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1049" ANNOTATION_REF="a324">
+                <ANNOTATION_VALUE> Quiero dar a conocer cuál es la cultura de Uspantán.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1050" ANNOTATION_REF="a326">
+                <ANNOTATION_VALUE> Dejaron relatado nuestros abuelos. Antiguas personas de aquí,  relataron .</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1051" ANNOTATION_REF="a328">
+                <ANNOTATION_VALUE> ¿por qué? ¿qué pasó en Xoqoneb'?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1052" ANNOTATION_REF="a330">
+                <ANNOTATION_VALUE> Cuentan nuestros abuelos, que había un grupo del baile de la conquista, que salían en la fiesta de nuestro pueblo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1053" ANNOTATION_REF="a332">
+                <ANNOTATION_VALUE> Y al llegar todos los años, decían, "Busquemos nuestros compañeros, reunámonos, saquemos el baile de la conquista."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1054" ANNOTATION_REF="a334">
+                <ANNOTATION_VALUE> Llegaron a la fecha. Buscaron a sus compañeros. Se pusieron de acuerdo. Y hubo uno </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1055" ANNOTATION_REF="a336">
+                <ANNOTATION_VALUE> que dijo, "Salgo con ustedes." Llegó el día para que fueran a traer los trajes del baile de la conquista</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1056" ANNOTATION_REF="a338">
+                <ANNOTATION_VALUE> eh a Quiché o con los chichicastecos.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1057" ANNOTATION_REF="a340">
+                <ANNOTATION_VALUE> Y uno de ellos se preocupo ¿qué voy a hacer?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1058" ANNOTATION_REF="a342">
+                <ANNOTATION_VALUE> No tengo dinero. Ya casi llega el día para que salgamos en el baile de la conquista.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1059" ANNOTATION_REF="a344">
+                <ANNOTATION_VALUE> Y ¿qué voy a hacer?" Estaba triste. No encontraba que hacer.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1060" ANNOTATION_REF="a346">
+                <ANNOTATION_VALUE>Se llevó su hacha. Se llevó su lazo. Se llevó su mecapal,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1061" ANNOTATION_REF="a348">
+                <ANNOTATION_VALUE> Se fue a Xoqoneb',  triste.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1062" ANNOTATION_REF="a350">
+                <ANNOTATION_VALUE> De repente, vió, que salió un gran, un hombre grande</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1063" ANNOTATION_REF="a352">
+                <ANNOTATION_VALUE> sobre la montaña y le pregunto, "¿qué haces aquí?"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1064" ANNOTATION_REF="a354">
+                <ANNOTATION_VALUE>"Leña estoy buscando." "Pero ¿qué te preocupa?"  "No me preocupa nada."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1065" ANNOTATION_REF="a356">
+                <ANNOTATION_VALUE>"Pero yo veo que hay una tristeza en tu corazón. Decimelo, te voy a ayudar." </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1066" ANNOTATION_REF="a358">
+                <ANNOTATION_VALUE> "Pero en qué me vas a ayudar si no sabes lo que tengo en mi corazón, lo sé." </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1067" ANNOTATION_REF="a360">
+                <ANNOTATION_VALUE> Si me decís, te voy a ayudar.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1068" ANNOTATION_REF="a362">
+                <ANNOTATION_VALUE> Muy triste, no quería decirle.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1069" ANNOTATION_REF="a364">
+                <ANNOTATION_VALUE> "Pero yo quiero que me ayudes, pero no podes." "¡Bien puedo! Decime qué tristeza hay en tu corazón."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1070" ANNOTATION_REF="a366">
+                <ANNOTATION_VALUE> "Ya llega la fiesta en nuestro pueblo y estoy en el baile.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1071" ANNOTATION_REF="a368">
+                <ANNOTATION_VALUE> Ya mis compañeros, ya van a ir a traer sus trajes y yo no tengo dinero."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1072" ANNOTATION_REF="a370">
+                <ANNOTATION_VALUE> "Ahhh ¿eso es lo qué te preocupa? " le dijo, "Sí eso.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1073" ANNOTATION_REF="a372">
+                <ANNOTATION_VALUE>Ya llega la hora para que bailen, ya llega la hora para la fiesta " "¿Eso te preocupa? ¡yo te voy a ayudar!" "Pero ¿en qué me vas a ayudar?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1074" ANNOTATION_REF="a374">
+                <ANNOTATION_VALUE> No digas nada y te voy a ayudar." "Volteate para allá </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1075" ANNOTATION_REF="a376">
+                <ANNOTATION_VALUE> y te voy a decir que te voy a dar."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1076" ANNOTATION_REF="a378">
+                <ANNOTATION_VALUE> "Esta bíen," dijo. Se volteó viendo hacia a un lado del pueblo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1077" ANNOTATION_REF="a380">
+                <ANNOTATION_VALUE>Y cuando se volteó, le preguntó, "¿esos trajes querés?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1078" ANNOTATION_REF="a382">
+                <ANNOTATION_VALUE> ¿Esto es lo que te preocupa? Escoge un tuyo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1079" ANNOTATION_REF="a384">
+                <ANNOTATION_VALUE>  y te lo llevas, pero no tenes que decirles nada a las personas, donde lo fuiste a traer."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1080" ANNOTATION_REF="a386">
+                <ANNOTATION_VALUE>  Se quebrantó su corazón, al ver los trajes del baile de la conquista que brillaban, brillaban</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1081" ANNOTATION_REF="a388">
+                <ANNOTATION_VALUE> entre el oro. Y se preguntaba, "¿Qué habré hecho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1082" ANNOTATION_REF="a390">
+                <ANNOTATION_VALUE> para venir a encontrar esto y es lo que me voy a llevar?",</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1083" ANNOTATION_REF="a392">
+                <ANNOTATION_VALUE> Va escoge un tuyo y te lo llevas y ese vas a usar en el mero día de fiesta de nuestro pueblo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1084" ANNOTATION_REF="a394">
+                <ANNOTATION_VALUE>  Pero de una vez te lo digo no le digas a nadie, que aquí lo veniste a traer.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1085" ANNOTATION_REF="a396">
+                <ANNOTATION_VALUE> "Bueno," dijo. Se trajo el vestuario, muy feliz. Ya no se trajo su leña. Ya no se trajo ninguna cosa.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1086" ANNOTATION_REF="a398">
+                <ANNOTATION_VALUE>Se cargó el traje, se los trajo para su casa y vino a su casa no le dijo nada a su esposa, ni a sus familiares, a nadie.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1087" ANNOTATION_REF="a400">
+                <ANNOTATION_VALUE> Y sus compañeros del baile, le preguntaron, "¿y tu cuota? ¿qué vas a hacer?" 'No, yo no voy a dar mi cuota."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1088" ANNOTATION_REF="a402">
+                <ANNOTATION_VALUE>" Pero ¿qué vas a hacer con tu traje?" "Pues que puedo hacer. Tengo que esperar que llegue el día y después me meto entre ustedes." </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1089" ANNOTATION_REF="a404">
+                <ANNOTATION_VALUE> "Bueno," le dijeron, "Pero ¿qué va ha hacer ese hombre? No dió su cuota para su traje.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1090" ANNOTATION_REF="a406">
+                <ANNOTATION_VALUE>Y ¿qué le vamos a hacer? Que se quede ahí, que vea que hacer."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1091" ANNOTATION_REF="a408">
+                <ANNOTATION_VALUE> Llegó la festividad eh el tercer día de la fiesta de San Miguel.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1092" ANNOTATION_REF="a410">
+                <ANNOTATION_VALUE> Bailaron y se puso su traje el hombre, ¡Brillaba! ¡Brillaba! </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1093" ANNOTATION_REF="a412">
+                <ANNOTATION_VALUE> en la luz su traje.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1094" ANNOTATION_REF="a414">
+                <ANNOTATION_VALUE>Y lo vieron todos "¿Dónde fuiste a traer tu traje? no tenías dinero, no tenés riquezas.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1095" ANNOTATION_REF="a416">
+                <ANNOTATION_VALUE>  No tenias nada y ese traje ¿Dónde lo fuiste a traer?" No decía nada.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1096" ANNOTATION_REF="a418">
+                <ANNOTATION_VALUE> Y no lo decía, lo interrogaban "¿Pero dónde fuiste a traer tu traje?"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1097" ANNOTATION_REF="a420">
+                <ANNOTATION_VALUE> No lo decía, va, vino uno que estaba entre ellos dijo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1098" ANNOTATION_REF="a422">
+                <ANNOTATION_VALUE>" Demosle licor, emborrachemoslo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1099" ANNOTATION_REF="a424">
+                <ANNOTATION_VALUE> Ya inconsciente, nos irá a contar donde lo fue a traer."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1100" ANNOTATION_REF="a426">
+                <ANNOTATION_VALUE> "Bueno," dijeron, le dieron licor.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1101" ANNOTATION_REF="a428">
+                <ANNOTATION_VALUE> Lo emborracharon, ya entre su borrachera. Salió de su boca  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1102" ANNOTATION_REF="a430">
+                <ANNOTATION_VALUE> Y les dijo, "Pues donde fui a traer mi traje, allá sobre el cerro."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1103" ANNOTATION_REF="a432">
+                <ANNOTATION_VALUE> "¿Qué cerro?" "Allá en Xoqoneb'."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1104" ANNOTATION_REF="a434">
+                <ANNOTATION_VALUE> "¿Qué hiciste?" "Salió un hombre grande detrás de mi.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1105" ANNOTATION_REF="a436">
+                <ANNOTATION_VALUE> Y me dijo que "¿Por qué estas triste?" Cuando tenia entre sus manos </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1106" ANNOTATION_REF="a438">
+                <ANNOTATION_VALUE> alegría para ayudar y ahí fui a traer mi traje."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1107" ANNOTATION_REF="a440">
+                <ANNOTATION_VALUE> ¡Anda a enseñarnos! "Ahorita ya no puedo, ya no lo encuentro."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1108" ANNOTATION_REF="a442">
+                <ANNOTATION_VALUE> Y es así como cuentan nuestros abuelos. Que ahí estaba la riqueza</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1109" ANNOTATION_REF="a444">
+                <ANNOTATION_VALUE> de nuestro pueblo Uspantán. ¿Por qué se regreso?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1110" ANNOTATION_REF="a446">
+                <ANNOTATION_VALUE> ¿Por qué se perdió? No lo hubiera contado dice.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1111" ANNOTATION_REF="a448">
+                <ANNOTATION_VALUE> No hubiera salido de la boca del hombre, lo hubiera guardado.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1112" ANNOTATION_REF="a450">
+                <ANNOTATION_VALUE> No hubiera olvidado lo que le dijeron, el dinero de nuestro pueblo de Uspantán, aún estuviera. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1113" ANNOTATION_REF="a452">
+                <ANNOTATION_VALUE> Cuando se enteró el hombre, se enteró el hombre grande.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1114" ANNOTATION_REF="a454">
+                <ANNOTATION_VALUE> Que fue relatado la pobreza de nuestro pueblo,  ese mismo día que lo relató.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1115" ANNOTATION_REF="a456">
+                <ANNOTATION_VALUE> Se abrió una ventana en b'a Kameb', viendo hacia </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1116" ANNOTATION_REF="a458">
+                <ANNOTATION_VALUE> Cobán. Vió hacia Rabinal, ahí.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1117" ANNOTATION_REF="a460">
+                <ANNOTATION_VALUE> Buscó su camino la riqueza.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1118" ANNOTATION_REF="a462">
+                <ANNOTATION_VALUE> El dinero de Uspantán.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1119" ANNOTATION_REF="a464">
+                <ANNOTATION_VALUE> Dificultades se dieron en la antiguedad. Nuestros abuelos quedaron tristes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1120" ANNOTATION_REF="a466">
+                <ANNOTATION_VALUE> Decían, que al llegar ahí antes, era una gran montaña.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1121" ANNOTATION_REF="a468">
+                <ANNOTATION_VALUE> No llegaba uno ahí porque era enojado, enojado el sagrado mundo ahí.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1122" ANNOTATION_REF="a470">
+                <ANNOTATION_VALUE> Eso fue relatado por Don José Méndez.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1123" ANNOTATION_REF="a472">
+                <ANNOTATION_VALUE> Fueron nuestros abuelos quienes lo relataron y dijeron, "Lo hubieramos guardado.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1124" ANNOTATION_REF="a474">
+                <ANNOTATION_VALUE> Hubieramos cuidado el sagrado dinero de nuestro pueblo Uspantán. "</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1125" ANNOTATION_REF="a476">
+                <ANNOTATION_VALUE> Esto es lo que yo relato en esta mañana.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1126" ANNOTATION_REF="a478">
+                <ANNOTATION_VALUE> En este año y les agradezco a ustedes. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción normativa" TIER_ID="Ingles">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1127" ANNOTATION_REF="a322">
+                <ANNOTATION_VALUE>I thank you for this morning.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1128" ANNOTATION_REF="a324">
+                <ANNOTATION_VALUE>I want to tell you about the culture of Uspantán. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1129" ANNOTATION_REF="a326">
+                <ANNOTATION_VALUE>Our ancestors told a story. Older people here, they told it. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1130" ANNOTATION_REF="a328">
+                <ANNOTATION_VALUE>Why? What happened on Xoqoneb'?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1131" ANNOTATION_REF="a330">
+                <ANNOTATION_VALUE>According to our ancestors, there was a group for the Baile de la Conquista who participated in the festival in our town. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1132" ANNOTATION_REF="a332">
+                <ANNOTATION_VALUE>And every year when they arrived they would say  "Let's look for our friends, get together, and have the Baile de la Conquista."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1133" ANNOTATION_REF="a334">
+                <ANNOTATION_VALUE>They would come on that date. They would look for their friends. They agreed. There was one</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1134" ANNOTATION_REF="a336">
+                <ANNOTATION_VALUE>who said  "I am going with you." The day came for them to bring the costumes of the Baile de la Conquista</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1135" ANNOTATION_REF="a338">
+                <ANNOTATION_VALUE>to the Quiché or the people of Chichicastenango.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1136" ANNOTATION_REF="a340">
+                <ANNOTATION_VALUE>And one of them worried, "What am I going to do?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1137" ANNOTATION_REF="a342">
+                <ANNOTATION_VALUE>I don't have any money.  The day has almost come for us to do the Baile de la Conquista.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1138" ANNOTATION_REF="a344">
+                <ANNOTATION_VALUE>And what am I going to do?" He was sad. He couldn't figure out what to do. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1139" ANNOTATION_REF="a346">
+                <ANNOTATION_VALUE>He took his axe.He took his bow. He took his mecapal. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1140" ANNOTATION_REF="a348">
+                <ANNOTATION_VALUE>He went to Xoqoneb', sad. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1141" ANNOTATION_REF="a350">
+                <ANNOTATION_VALUE>Suddenly he saw that a man came out, a big man. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1142" ANNOTATION_REF="a352">
+                <ANNOTATION_VALUE>on the mountain and asked him "What are you doing here?" </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1143" ANNOTATION_REF="a354">
+                <ANNOTATION_VALUE>"I'm looking for firewood." "But, what are you worried about?" "I'm not worried about anything."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1144" ANNOTATION_REF="a356">
+                <ANNOTATION_VALUE>"But, I see that there is a sadness in your heart. Tell me, I am going to help you."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1145" ANNOTATION_REF="a358">
+                <ANNOTATION_VALUE>"But, what are you going to help me with if you don't know what I have in my heart? I know. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1146" ANNOTATION_REF="a360">
+                <ANNOTATION_VALUE>"If you tell me, I will help you"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1147" ANNOTATION_REF="a362">
+                <ANNOTATION_VALUE>"I am very sad, I don't want to tell you. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1148" ANNOTATION_REF="a364">
+                <ANNOTATION_VALUE>But I want you to help me, but I can't" "Well I can! Tell me the sadness in your heart."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1149" ANNOTATION_REF="a366">
+                <ANNOTATION_VALUE>"The festival is coming to our town, and I am in a dance.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1150" ANNOTATION_REF="a368">
+                <ANNOTATION_VALUE>My friends, they are going to get their traditional clothes and I do not have any money."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1151" ANNOTATION_REF="a370">
+                <ANNOTATION_VALUE>"Ah, that is what worries you?" he said. "Yes, it is.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1152" ANNOTATION_REF="a372">
+                <ANNOTATION_VALUE>It is time for them to dance, it is time for the festival.""Is that what is worrying you? I am going to help you!" "But, with what are you going to help me?"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1153" ANNOTATION_REF="a374">
+                <ANNOTATION_VALUE>"Don't say anything, and I will help you." "Look there</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1154" ANNOTATION_REF="a378">
+                <ANNOTATION_VALUE>"Okay," he said. He turned to the side of the village</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1155" ANNOTATION_REF="a380">
+                <ANNOTATION_VALUE>and when he turned, he asked him "Are those the clothes you want?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1156" ANNOTATION_REF="a382">
+                <ANNOTATION_VALUE>Is this what worries you? Choose yours</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1157" ANNOTATION_REF="a384">
+                <ANNOTATION_VALUE>and take them, but don't say anything to anyone, where you will bring it."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1158" ANNOTATION_REF="a386">
+                <ANNOTATION_VALUE>  His heart was broken, seeing the costumes of the dance of the conquest that shone and shone</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1159" ANNOTATION_REF="a388">
+                <ANNOTATION_VALUE>among the gold. And he wondered "What have I done </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1160" ANNOTATION_REF="a390">
+                <ANNOTATION_VALUE>to come and find this and what am I going to take?"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1161" ANNOTATION_REF="a392">
+                <ANNOTATION_VALUE>"Go and choose yours and take it, and you will wear it just on the day of the festival in our town.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1162" ANNOTATION_REF="a394">
+                <ANNOTATION_VALUE>But again I tell you, tell no one that you got it here."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1163" ANNOTATION_REF="a396">
+                <ANNOTATION_VALUE>"Okay,"he said. He took the outfit, very happy. He no longer had his firewood. He no longer had anything.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1164" ANNOTATION_REF="a398">
+                <ANNOTATION_VALUE>He carried the suit, brought them home and came home and said nothing to his wife, or his relatives, to anyone.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1165" ANNOTATION_REF="a400">
+                <ANNOTATION_VALUE>And his fellow dancers, they asked him "And the dues? What are you going to do?" "No, I am not going to pay the dues.t."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1166" ANNOTATION_REF="a402">
+                <ANNOTATION_VALUE>"But, "what are you going to do for your clothes?" "Well, what can I do? I will have to wait for the day to come and then I will go with you." </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1167" ANNOTATION_REF="a404">
+                <ANNOTATION_VALUE>"Good!" They said to him, "But what is that man going to do? He doesn't have the dues for his clothes. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1168" ANNOTATION_REF="a406">
+                <ANNOTATION_VALUE>And what are we going to do? Let him stay there, let him see what to do."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1169" ANNOTATION_REF="a408">
+                <ANNOTATION_VALUE>The festival came on the third day on the Feast of St. Michael. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1170" ANNOTATION_REF="a410">
+                <ANNOTATION_VALUE>They danced and the man put on his suit. His suit was shining, shining in the sun. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1171" ANNOTATION_REF="a414">
+                <ANNOTATION_VALUE>And everyone asked him "Where did you get your suit? You don't have money, you don't have riches.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1172" ANNOTATION_REF="a416">
+                <ANNOTATION_VALUE>You done have anything. What is that suit? Where did you go to get it?" He said nothing. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1173" ANNOTATION_REF="a418">
+                <ANNOTATION_VALUE>And he said nothing, they asked him "But where did you go to get your clothes?"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1174" ANNOTATION_REF="a420">
+                <ANNOTATION_VALUE>He said nothing, one who was among them said </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1175" ANNOTATION_REF="a422">
+                <ANNOTATION_VALUE>"Give him liquour, let's get him drunk.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1176" ANNOTATION_REF="a424">
+                <ANNOTATION_VALUE>Once he is unconscious, he will tell us where he got it."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1177" ANNOTATION_REF="a426">
+                <ANNOTATION_VALUE>"Good," they said, they gave him liquor.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1178" ANNOTATION_REF="a428">
+                <ANNOTATION_VALUE>They got him drunk, and once drunk it came out of his mouth</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1179" ANNOTATION_REF="a430">
+                <ANNOTATION_VALUE>and he told them "Well I got my clothes over there on the hill."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1180" ANNOTATION_REF="a432">
+                <ANNOTATION_VALUE>"What hill?" "There on Xoqoneb'."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1181" ANNOTATION_REF="a434">
+                <ANNOTATION_VALUE>"What did you do?" "A big man appeared behind me</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1182" ANNOTATION_REF="a436">
+                <ANNOTATION_VALUE>and said to me "Why are you sad?" When he had in his hands </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1183" ANNOTATION_REF="a438">
+                <ANNOTATION_VALUE>a desire to help, and there I got my suit."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1184" ANNOTATION_REF="a440">
+                <ANNOTATION_VALUE>"Go show us!" "Now I can't, I can't find it."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1185" ANNOTATION_REF="a442">
+                <ANNOTATION_VALUE>And this is how it is told by our ancestors. That there was wealth</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1186" ANNOTATION_REF="a444">
+                <ANNOTATION_VALUE>in our town Uspantán. Why did he return?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1187" ANNOTATION_REF="a446">
+                <ANNOTATION_VALUE>Why was it lost? I wouldn't have told anyone, he says. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1188" ANNOTATION_REF="a448">
+                <ANNOTATION_VALUE> It would not have come out of the man's mouth, he would have kept it.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1189" ANNOTATION_REF="a450">
+                <ANNOTATION_VALUE> I would not have forgotten what they told him, the money of our people of Uspantán, was still there.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1190" ANNOTATION_REF="a452">
+                <ANNOTATION_VALUE>When the man found out, the big man found out. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1191" ANNOTATION_REF="a454">
+                <ANNOTATION_VALUE>  That the poverty of our people was recounted, that same day that he related it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1192" ANNOTATION_REF="a456">
+                <ANNOTATION_VALUE>A window opened in B'a Kameb', looking towardds</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1193" ANNOTATION_REF="a458">
+                <ANNOTATION_VALUE> Cobán.   It went to Rabinal, there.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1194" ANNOTATION_REF="a460">
+                <ANNOTATION_VALUE>Wealth found its way.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1195" ANNOTATION_REF="a462">
+                <ANNOTATION_VALUE>The money of Uspantán.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1196" ANNOTATION_REF="a464">
+                <ANNOTATION_VALUE>There were difficulties in ancient times. Our ancestors were sad.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1197" ANNOTATION_REF="a466">
+                <ANNOTATION_VALUE>They said, that before I got there, it was a big mountain. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1198" ANNOTATION_REF="a468">
+                <ANNOTATION_VALUE>You did not go there as much because the sacred world was angry.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1199" ANNOTATION_REF="a470">
+                <ANNOTATION_VALUE>That was told by Don José Méndez.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1200" ANNOTATION_REF="a472">
+                <ANNOTATION_VALUE>It was our ancestors who related this and told us "We would have kept it.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1201" ANNOTATION_REF="a474">
+                <ANNOTATION_VALUE>We would have taken care of the sacred money of our town Uspantán. "</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1202" ANNOTATION_REF="a476">
+                <ANNOTATION_VALUE>This is what I recounted this morning. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1203" ANNOTATION_REF="a478">
+                <ANNOTATION_VALUE>In this year, and I thank you. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción normativa" PARTICIPANT="Virgilio Tomás Méndez" TIER_ID="Comentarios">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1204" ANNOTATION_REF="a328">
+                <ANNOTATION_VALUE> Xoqoneb' es un cerro sagrado en Uspantán, Quiché, en las que se encuentran unas cuevas de mucha historia y tradición. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1205" ANNOTATION_REF="a330">
+                <ANNOTATION_VALUE> Ajxojlob' se les llamaba a un grupo de bailadores que representaban la conquista de Guatemala por medio de una danza.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1206" ANNOTATION_REF="a338">
+                <ANNOTATION_VALUE> Personas de Chichicastenango, Quiché son los que elaboran y alquilan los tranajes del baile de la Conquista, quienes son conocidimos también como: Maxeños o chichicastecos,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1207" ANNOTATION_REF="a340">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1208" ANNOTATION_REF="a346">
+                <ANNOTATION_VALUE> Mecapal es un instrumento de cuero que asociado con el lazo, se coloca en la frente para cargar objetos pesados. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1209" ANNOTATION_REF="a350">
+                <ANNOTATION_VALUE> Ese hombre era el espíritu o dueño del cerro Xoqoneb', según los abuelos uspantekos.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1210" ANNOTATION_REF="a364">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1211" ANNOTATION_REF="a376">
+                <ANNOTATION_VALUE>and I am going to tell you what I will give you." </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1212" ANNOTATION_REF="a404">
+                <ANNOTATION_VALUE> Para participar en el baile de la conquista se tenía que dar cuota tanto para el alquiler de los trajes como para cualquier imprevisto para el evento como la comida. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1213" ANNOTATION_REF="a408">
+                <ANNOTATION_VALUE> En Uspantán se celebran dos fiestas para el patrono San Miguel, en Mayo y en Septiembre.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1214" ANNOTATION_REF="a424">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1215" ANNOTATION_REF="a426">
+                <ANNOTATION_VALUE> Los uspnatekos al licor también le dicen Kúmb'l (medicina) por sus efectos curativos o porque algunas personas lo utilizan como medicina.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1216" ANNOTATION_REF="a436">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1217" ANNOTATION_REF="a450">
+                <ANNOTATION_VALUE> Según los abuelos uspantekos al revelarse el secreto de los trajes, la riqueza de Uspantán se esfumó para otro lugar. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1218" ANNOTATION_REF="a456">
+                <ANNOTATION_VALUE> Las cuevas ubicadas en Xoqoneb' se consideran como ventanas por medio del cual se esfumaron las riquezas de Uspantán hacía otros lugares. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1219" ANNOTATION_REF="a458">
+                <ANNOTATION_VALUE> En Alta y Baja Verapaz, se encuentran otras cuevas que se conectan con las que se encuentran en Xoqoneb', por lo que los uspantekos aseguran que fue en esos lugares en donde se trasladaron las riquezas de Uspantán. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1220" ANNOTATION_REF="a468">
+                <ANNOTATION_VALUE> Los uspantekos consideran a Xoqoneb' como un cerro sagrado en el municipio.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="praat" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-02T13:00:27-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Sobre COVID.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Sobre COVID.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5871b677-2883-428e-b902-19173df0b4ce</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">89</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="12340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="12625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="24310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="24700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="36710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="37000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="50010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="50990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="61000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="61210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="72420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="72900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="81700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="82510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="93990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="94390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="106180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="106510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="119580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="119790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="130000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="130800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="142210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="142710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="153400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="153490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="164590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="165490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="177010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="177390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="188010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="188510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="199530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="199990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="214210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="214500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="225510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="226410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="238700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="239010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="250190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="250500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="261010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="272000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="283710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="284280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="298980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="301500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="304846"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="L.T.V.M" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> K'amtzawxaq, man q'iij ri chwaj inyoloow chub' eeeh man yajeel eh l kaxlan jb'iij eeh Covid-19,  man yajeel li xeelch desde&lt;eee&gt;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> a finales deee dos mil diecinueve, y pues neri Guatemala xuq  &lt;eeeh&gt; &lt;eeeh&gt; ennn marzo,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>del dos mil veinte eeeh &lt;laj&gt; en el caso re infamilia xqa'an pensar que ta' re tyuq, cuando xqata' man primer caso, pues xqa'ij ooj que</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> transaj ire' controlar condo xqata' xan taq contagiar riib' más yyyy xmajmaj man . . . xojtz'apir neri juuun aaah jun buen tiempo, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> yyy man yajeel li juert pok xojane' perjudicar laj infamilia, pes en el caso eh xkam kiib' eh infamilia, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> y wi' kirtyan ta' tran taq creer chub' man yajeel li, per ooj al cuando xmajmaj ta' re tqa'an creer, tqa'an re pensar que, que ta' re tran existir, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>  cuando xqil que tz'eet eh,  tz'eet wi' y xkam kiib' &lt;i&gt;nfamiliar, pues kla' xqil que man yajeel tz'eet wi'.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> Y pues eh wi' kirtyan &lt;tz&gt;ta' tran taq creer y tinwil que ta' tjkoj taq jmascarilla'aq, pero eh chap xqa'an vivir ooj pues tqa'an creer.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> Y &lt;lll&gt; bueno en el caso re k'is escuelas juert eh xan afectar porque iin xinchaakun jun buen tiempo, xinchaakun&lt;nnn&gt; </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> el año 2020 xaq como jun mes yyy maq ra ék'l pues eh &lt;el&gt; man junab' que xq'ax ta'r, ta' xan taq aprender nada, porque la aldea wuw taq y  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> qetam que la aldea eeeh k'ax ttaw si kita' señal, a veces wi' kirtyan ta' jpuwaqaq para que tijloq' taq jun jtelefono, kita' jtelefono'aq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> y jino li y ta' pues, jun aldea lamas re wi'n jb'iij laj Chimel, y kla' pues t'a re, ta' re ttaw más señal y kirtyan ta' re más jpuwaaqaq,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> tonces eeeh cuando ojtaw re' eh  tqaye' trabajos eh kirtyan ojk'ul tar re', pero maq ra ék'l ta' tran taq re' porque jpapás ta' rapoyo chrijaq,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> nik' ta' nimo neri Uspantán, l centro, que neri sí papás trna' tqa apoyar ralk'uwalaq, en cambio jeli pues qetami'n que es muy diferente,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> y en ese caso el año pasado ta' más xan taq aprender maq ra ék'l, nimo wi' maq ra ék'l que xeel taq de primero, pues eeeh xch'ekonVR taq porque jinon ri re' man ley, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> que ni juun re tkan porque ta' ni juun &lt;j&gt; eh jculpa eh &lt;nij&gt; ni ooj, ni re re taq, sino man yajeel y pues eeeh</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> nada xan taq aprender eeh &lt;yyy&gt; y este año pues eh tmajmaj clases, pero  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> eeh tinwil chrij lajori jun ra insobrina que va tran estudiar l jun colegio, pues eh si b'esal y como jalan, como qetam bien que jun colegio más eh a veces wi' na más atención, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> y l jun escuela casi no, &lt;dep&gt;&lt;m&gt; a veces depende chrij maq maestros, pero tinwilin que, que maq ék'l jino li ta' tran taq aprender nada,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> y wi pues chwaj &lt;tin&gt;tinb'ij que, que kirtyan tchajaj riba'aq pues, porque man yajeel tzrna' existir y jwiich na wi' qik'il,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> y ta' qetam si ya t'eel o ta' t-'eel, porque wi' k'ii kristyan va tkam taq tanto neri aaah nik' chik lugares, nimaq taq lugares, nimaq taq kirtyan xe' taq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> y pues xaq chwaj tinb'ij chawe taq que siempre tqachajaj qáyb', porque ta' qetam eeeh nen petzal chqij.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> Aaah wi' más&lt;sss&gt; eeh junab' porque eeeh nimo woj Guatemala, pues ta', a veces ta' más . . . eeh ooj eeh </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> en el caso re man presidente ta' más eh jch'ab'ej tinwilin, toces eh t'ij taq ya xeel chi jun vacuna, pero kita' yusal neri y tonces eeeh tinb'ijin tran na seguir ni'j junab' chik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE> Tink'omaj chawe taq, k'omo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="L.T.V.M" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Buena tarde, en este día quiero hablar sobre eh la enfermedad que en castellano se llama Covid-19, esa enfermedad salió desde </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> a finales de dos mil diecinueve y pues aquí en Guatemala vino  en marzo, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> del dos mil veinte eh en el caso de mi familia pensamos que no iba a venir, cuando escuchamos el primer caso, pues dijimos nosotros que</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> que se iba a controlar cuando escuchamos que se contagiaron más y empezó el . . . nos encerramos aquí un ah un buen tiempo,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> y esa enfermedad como nos perjudicó en mi familia, pues en el caso eh murieron dos de mi familia, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> y hay personas que no creen sobre esa enfermedad, pero nosotros cuando empezó no lo creíamos, pensábamos que no existía,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> cuando vimos que era verdad, que en verdad estaba y murieron dos de mis familiares, pues ahí vimos que esa enfermedad en verdad estaba. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> Y pues eh hay personas que no creen u veo que no usan sus mascarillas, pero a como lo vivimos nosotros pues lo creemos. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> Y bueno en el caso de las pobres escuelas les afectó fuertemente porque yo trabajé un buen tiempo, trabajé</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> en el año 2020 solo como un mes y los niños pues eh en ese año que pasó no aprendieron nada, porque en la aldea estaban y </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE> sabemis que en las aldeas eh cuesta que llegue si hay señal, a veces hay personas que no tienen dinero para que se compren un su teléfono, no tienen teléfono,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE> y así, y no tenían, una aldea donde estaba se llama laj Chimel y ahí pues no había mucha señal y las personas no tenían mucho dinero,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE> entonces eh cuando llegabamos eh a dejar trabajos eh las personas nos recibían, pero los niños no los hacían porque los papás no los apoyaban,     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE> no es igual como aquí en Uspantá, en el centro, que aquí sí los papás apoyan a sus hijos, en cambio allá pues sabemos que es muy difernte,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE> y en ese caso el año pasado no aprendieron mucho los niños, así como están los niños que salieron de primer grado, pues eh tuvieron que ganar porque así era la ley,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE> que ninguno se podía quedar porque nadie era culpable, ni nosotros, ni ellos, sino que por la enfermedad y pues eh </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE> nada aprendieron y en este año pues empiezan las clases, pero </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE> eeh yo veo ahora por una mi sobrina que está estudiando en un colegio, pues si ha ido y como es distinto, como sabemos bien que en un colegio a veces hay más atención</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE> y en una escuela casi no, a veces depende de los maestros, pero yo veo que, que los niños así no aprenden nada, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE> y pues quiero decir que las personas se cuiden pues, porque esa enfermedad existe y que aún está con nosotros,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE> y no sabemos si ya se va a quitar o si no se va a quitar, porque hay varias personas que se están muriendo tanto aquí como en otros lugares, grandes lugares, grandes personalidades se fueron, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE> y pues solo quiero decirles a ustedes que siempre nos cuidemos, porque no sabemos eh lo que se nos viene. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE> Aaah hay más años porque eh así como estamos en Guatemala, pues no hay, a veces no hay mucho . . . eh nosotros  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE> en el caso del presidente no es muy sabio veo yo, entonces eh dicen que ya salió una vacuna, pero que aún no ha venido aquí y entonces eh yo digo que va a seguir por algunos años más.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE> Les agradezco a ustedes, gracias.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="L.T.V.M" TIER_ID="Descripción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Covid-19 es el nombre científico del coronavirus que ha causado una pandemia a nivel mundial, que por su puesto a afectado al pueblo uspanteko.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> Xojtz'apir, haciendo referencia a un toque de queda (todos en casa a una cierta hora) aplicado como medio de confinamiento y prevención del Covid-19.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> El Covid-19 afectó fuertemente a las escuelas del territorio uspanteko, ya que por medidas de prevención del virus, las clases fueron suspendidas durante todo el ciclo escolar 2020, un hecho histórico.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE> Por la suspensión de clases, muchas escuelas y docentes optaron por la educación virtual, pero no fue exitoso por falta de teléfonos, intenernet y recursos de los padres de familia. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE> Laj Chimel, es una aldea ubicada al norte de Uspantán, es un lugar turístico por su con clima frío, sus senderos y paisajes. Lugar de procedencia de la Premio Nobel de la Paz; Rigoberta Menchú.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE> El Ministerio de Educación, informó por medio de un acuerdo, que ningún niño debía perder el grado, todos debían de aprobarse para el próximo grado escolar.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE> Se menciona que ya existe una vacuna que controle el Covid-19, pero no se sabe si llegará a toda la población, más en áreas olvidadas como el territorio uspanteko.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

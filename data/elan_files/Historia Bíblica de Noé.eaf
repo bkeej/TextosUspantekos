@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-01T12:25:36-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Historia Bíblica de Noé.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Historia Bíblica de Noé.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:7403e526-4479-4da4-9935-96daca9d4ce3</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">144</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="28310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="36680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="37280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="43620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="43830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="53440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="53480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="59770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="59970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="67970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="68440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="76440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="77010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="84840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="84930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="94090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="94570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="103550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="104350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="113550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="113610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="122960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="123130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="131390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="131590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="139430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="139600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="148110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="148450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="157620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="157860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="164220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="164390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="174090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="174360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="184910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="185170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="192490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="192840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="202010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="202320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="211510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="211630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="222290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="223640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="230660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="231040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="239400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="239980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="248130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="248490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="257320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="258160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="268310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="268460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="276930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="277750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="285850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="285940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="293530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="293720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="301990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="302180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="309760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="310580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="318800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="319160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="326770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="327000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="335000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="335090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="342650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="342740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="352070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="352270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="359670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="359720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="368850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="369150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="378080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="378180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="386080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="386270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="394990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="395100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="401380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="401790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="407830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="408110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="414240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="414300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="423840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="424010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="435700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="436410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="442550"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="A.A.V" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> Este, k'omo chawechaq xatpe taq neri la jaa qik'il, este iin chwaj inyoloow jun kiitz chirij &lt;jun&gt; jun kristyan re jun historia bíblica,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> que iin poq ingan, sí, &lt;d,eh&gt; ingan porque xk'ut jun montón qleen chuwe iin</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> eh ri wunaq ri jb'iij Noé, tb'iij laj tziij qaqaaj Dios, eh que ojer taq tziij kristyan xk'iy jmaakaq wiich uleew,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> chuch Dios, ta' chki' tkojon taq, nijun tjtok Dios, ta' chki' txukar taq chúwch, ta' chki' tjtok taq,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> ta' chki' tran, ta' chki' &lt;t&gt;tkojon taq laq q'aab' Dios, juntiir xtok lo que raj nen tran taq, xk'ex jb'ee'aq,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> jwi'l ri Dios, eh &lt;xpe&gt; xpe k'ax laj ránm, eh xb'ison chirijaq y xpe retzal, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> xan, y xchomrsaj tjk'is jwiich, eh &lt;jja&gt; tjk'is jwiich jmalda'aq,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> juntiir lo que re rechaq tran taq wiich uleew, nijun chik kristyan tran ri utziil wiich uleew, xaq jun jb'iij Noé, pach rixóql y kiib' jk'ajol  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> eh jwi'l li Dios xchomorsaj, eh xyoloow rik'il Noé, xij re lo que, lo que raj tran, raj tjk'is jwiich kristyan, jwi'lVR, jwi'l jmaakaq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> xk'iy jmaakaq wiich uleew, jwi'l li raj &lt;tj&gt;tjsách bí jwiich wiich uleew, xij re que tran construir jun arca, re tjkol rib' re re pach rixóql</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> kiib' jk'ajol y juntiir eh también eh ka'n wiich uleew, Dios xij re que tjtaq b'ik eeeh</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> ka'n re &lt;tij&gt; tjk'ol xilj man arca y jilon li xan, Noé xkojon chuch Dios, xan lo que re re xan, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> xan lo que re re xij, xan lo que Dios xij re, cuando Dios xij que tjsách jwiich uleew, Noé xpe b'is laj ránm, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> xij re Dios que si looq' tjb'ij re kristyan si raj tjk'ex jb'ee'aq y jilon li tjkolmaj taq &lt;chuch&gt; chuch jaab', y Dios xan decidir taqch jun q'alaj re, tj  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> para que ta' chki' maldad wiich uleew y Noé xyoloow rk'il kristyan, xij rechaq que Dios raj tran</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> tresaj bik juntiir jmaakaq wiich uleew, pero kristyan &lt;ta'&gt; ta' xkojon taq, xtzee'j taq jwiich, ritz'b'ej taq jwiich,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> xan taq jun montón qleen &lt;chuch&gt; chuch Noé, porque ta' tjkoj taq lo que tijb'ij, tnatun taq lékj, y tril taq &lt;que&gt; que &lt;ta'&gt; ta' tk'utun que tpe jaab'. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> Noé xan construir, Noé xan &lt;man&gt;man arca eh sáq'j q'iij tinchomrsaj iin, jwi'l li kristyan &lt;to'oq&gt;, titzee'n taq, &lt;tj&gt; tjretz'b'ej taq jwiich y</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> y &lt;ta',x&gt; ta' xkojon taq, jwi'l li cuand xtaw tiempo, &lt;xx&gt; xq'alji'n lékj suutz' nim, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> na´r que tpe jaab', kristyan &lt;ni&gt; ni aún jilo li xsách eh jpensaraq, ni jilo li xk'ex jb'ee'aq, y xtok taq Dios, sino</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> xan taq lo que re re rajaq, xtzee'j taq jwiich Noé y jfamilia, xpe k'ure' jaab', cada vez xnimar más jwiich y cada vez, xpe más y más,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> y hasta que xpe q'alaj chirijaq, y xaqx eh xkolmaj taq eh k'is ka'n lo que Dios xtaq b'i &lt;re&gt; re Noé y  jfamilia.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> Después de li xq'ax cuarenta aq'ab' y cuarenta q'iij &lt;que&gt; que xwa'x taq l arca, toces </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> tjb'ij &lt;chuch&gt; chuch laj tziij &lt;qa&gt; qaqaaj Dios, que Dios xteb'a arca, porque ri re xtz'apin re desde jun principio, y xteb'a chik, y xel taq;   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE> eh wiich uleew diferente, ri ta' chki' cheka nab'ee, ta' chki' kristyan, ta' chki' jmaakaq, ta' chki' nijun wiich uleew, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE> y lo que wi' lajori, lo que ooj qil lajori, jwi'l li qaqaaj Dios, ri xkan ya'woq, ri xkolow re k'is awaj wi' taq wiich uleew, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE> Jwi'l &lt;li&gt; li también que tpe &lt;laj&gt; laj wánm iin, &lt;que&gt; que kristyan jilo li jb'anik cheka ójr, talq'an taq, tjmaj rixóqlaq, tjtij taq awryent </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE> ch'o'ji'n taq, eh txukar taq &lt;chuch&gt; chuch eh tyoox y li ta' raj qaqaaj Dios, jlon tjb'ij laj tziij, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE> y tpe &lt;laj&gt; laj wánm que, en jun tiempo ri, Dios ya jiin, jiin tjye' tiempo re wunaq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE> re kristyan, para que tjk'ex jb'ee'aq, para que tkuxtaj taq Dios, ojxuker chuch, porque ¿nen xya'w qak'aslemal?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE> ¿nen más xya'w? si xaq Dios qe xya'w chqe, ta' looq' qak'ex qab'ee, ta' looq' ojb'i xukar chuch jun chik, que ri' ta' tya'w qachóq'b', que ri' ta' tya'w qak'aslemal  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE> woj jwi'l qaqaaj Dios, tjye' qáw, tjye' teew chqe, tjye' jun montón qleen que ooj ni siquiera xqa ta'.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE> Jwi'l qajaw Dios ataq wataq neri, ooj juntiir woj neri, entonces &lt;iin&gt; iin ri tchwajin que kristyan &lt;ti&gt; titran pensar ra historia ri, porque </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE> juntiirVR lo que xq'asaj Noé ójr, jilo li jiin tq'ax lajori, kamnaq por todos lados, de donde sea, &lt;ta'&gt; ta', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE> ta' ni siquiera jun kristyan &lt;que&gt; que tran utziil lajori, juntiir ooj wi' &lt;qa&gt; wi' qamaak chuch Dios, juntiir laj qánm, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE> toces lo que tqa'an lajori, tina' qachomrsaj na bien lo que chqaj, si chqaj utziil o chqaj que ta' tzi k'is qleen, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE> si tqa'an utziil, wi' jun b'ee tzi, y ojb'e rik'il lékj Dios y si tqa'an ta' tzi, también wi' lamas ojk'isb'en, pero ¿nen raj tb'i k'isb'en li</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE> &lt;y l,l,l,&gt; ri' lugar que ta' utziil? lamas wi' q'aaq', lamas wi jaa', lamas wi' kristyan tch'ajaj taq, y nunca más looq' ti'el taq xilj,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE> jinon tijb'ij laj qatziij qaqaaj Dios, iin, iin si tinkojan, que Dios wi' jchóq'b', que Dios xaqe re re qe rójw juntiir k'is qleen wi neri, wiich uleew,      </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE> y iin rit chwaj que juntiir kristyan wiich uleew, wiich mundo, juntiirVR, &lt;tj&gt; tjkoj taq, tran taq, eh tjchomrsaj taq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE> vida'aq, porque iin si ta' chwaj que tb'i k'isb'en taq l q'aaq', cheka tjb'ij Dios, nijun raj, nijun raj tb'i k'isb'en, menos qaqaaj Dios raj que tk'isb'en. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE> Toces ri' historia ri, iin siempre tinchomrsaj chirij, que juntiir lo que wi' neri wiich uleew, lajori wi' jvalor chqáwch, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE> porque &lt;j&gt; woj chuch, eh woj chuch uleew, &lt;wi'&gt; wi' qafamilia, kan qaye' jun montón qleen rechaq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE> pero en realidad qa'an na, &lt;qa&gt;qachomrsaj na, qa'an na pensar que, que juntiir ri tk'is jwiich jun tiempo, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE> si iin looq' tinb'it jun buen jaa', ta' tink'am b'i cuand inkam, ta' looq' tink'am b'i l kaax, ta' tink'am b'i wik'il,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE> tos lo que ti'an na lajori, tina' ti'an na aprovechar &lt;ti&gt; &lt;in&gt;intzee'n na rk'il infamiliar, ti'an na utziil rk'ilaq, porque xaq li, &lt;raj&gt; raj qaqaaj Dios, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE> juntiir lo que wi' neri wiich mundo tka'eli'n, nad tqak'am b'ik, lo importante ri lo que wi' laj qánm, ri lo &lt;que&gt; que &lt;wi'&gt; wi' laj qánm, wi' laj qapensar, tqak'ut na chuch juntiirVR, ri utziil.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE> Xaq li chwaj tinb'ij chawechaq, porque iin siempre tinb'an pensar jilo li, rit chwaj juntiir tran taq utziil.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="A.A.V" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Este, gracias a ustedes por venir aquí con nosotros en la casa, este, yo quiero hablar un poco sobre un personaje de una historia bíblica, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> que a mi me gusta mucho, sí, me gusta porque me enseñó a mi un montón de cosas   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> eh ese hombre se llama Noé, dice en la palabra de nuestro Dios, eh que antes las personas eran muy pecadoras sobre la tierra, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> ante Dios, ya no obedecían, ninguno buscaba de Dios, ya no se incaban ante él, ya no le buscaban,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> ya no obedecían ante la voluntad de Dios, todos buscaron lo que querían hacer, cambiaron sus caminos,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> por eso Dios con dolor en su alma, se entristeció por ellos y se enojó, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> y pensó en desaparecerlos, en desaparecer sus maldades, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> y todo lo que ellos hacían en la faz de la tierra, ya ninguna persona era buena en la tierra, solo uno que se llamaba Noé junto a su esposa y sus dos hijos,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> eh por eso Dios pensó, eh habló con Noé, le dijo lo que quería hacer, quería desaparecer a la humanidad, por sus pecados,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> ya que incrementaron sus pecaos en la tierra, por eso quería desaparecer lo que había sobre la tierra, le dijo que construyerá un arca, para que se resguardará él y su esposa, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE> sus dos hijos y también todos eh los animales de la tierra, Dios le dijo que le iba a enviar eeeh </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>  a los animales para que los guardará en el arca, y así fue como lo hizo, Noé obedeció a Dios, hizo lo que él hizo,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE> hizo lo que él había dicho, hizo lo que Dios le dijo, cuando Dios le dijo que iba a desaparecer la faz de la tierra, Noé se entristeció, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE> y le dijo a Dios que si podía decirles a las personas que si querían cambiar sus caminos y así corregirse ante la lluvia y Dios decidió enviar un diluvio para, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE> para que ya no hubiera maldad en la tierra y Noé habló con las personas, les dijo a ellos que Dios quería</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE> quitarles todos sus pecados en la tierra, pero las personas no obedecieron, se ríeron de él, se burlaban de él, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE> hicieron un montón de cosas delanté de Noé, porque no creían lo que él les decía, miraban al cielo y veían que no había señales de que fuera a llover.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE> Noé construyó, Noé hizo el arca en verano, pienso yo, por eso las personas se reían, y se burlaban de él y </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE> y no obedecieron, por eso cuando llegó el tiempo, se vió en el cielo nubes grandes,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE> se veía que iba a llover, pero las personas ni aún asi perdieron sus pensamientos, ni aún así cambiaron sus caminos y ni buscaron a Dios, sino</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE> que hicieron lo que ellos quisieron, se ríeron de Noé y de su familia, y vino la lluvia, cada vez arrecia y cada vez, llovía más y más, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE> y hasta que les cayó el diluvio, y solo quedaron los pobres animales que Dios le envió a Noé y su familia. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE> Después de eso pasaron cuarenta noches y cuarenta dias en los que estuvieron en el arca, entonces</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE> dice en la palabra de nuestro Dios, que Dios abrió el arca, porque fue él quien lo cerró desde un principio y lo volvió a abrir y salieron;      </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE> eh y la faz de tierra era diferente, ya no era el mismo de antes, ya no habían personas, ya no habían pecados, ya no había ninguno sobre la tierra, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE> y lo que ahora hay, lo que nosotros vemos ahora, es por nuestro Dios, fue él quien lo dejó, él fue quien guardó a los pobres animales que estaban en la tierra,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE> Es por eso que también viene a mi corazón, que hay personas que están como los de antes, roban, se quitan a sus esposas, se embriagan, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>  se pelean, se hincan ante imagenes (ídolos) y eso es lo que no quiere nuestro Señor, así lo dice en su palabra, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE> y viene a mi corazón que, en estos tiempos, Dios ya les está dando tiempo a los hombres, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE> a las personas, para que cambien sus caminos, para que se acuerden de Dios, para hincarnos ante él, porque ¿quién nos dió la vida?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE> ¿quién más lo dió? si solo Dios nos lo dió, no podemos cambiar nuestro camino, no podemor ir a hincarnos ante otro, que no es quien nos da la fuerza, que no es quien nos dió la vida, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE> estamos por nuestro Dios, nos da nuestra comida, nos da aire, nos da un montón de cosas que nosotros ni siquiera pedimos. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE> Por nuestro Dios ustedes están aquí, todos nosotros estamos aquí, entonces yo lo que quiero es que las personas piensen en está historia, porque  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE> todo lo que pasó con Noé antes, eso es lo que está pasando ahora, muertos por todos lados, de donde sean, no hay,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE> no hay ni siquiera una persona que haga el bien ahora, todos nosotros tenemos pecados ante Dios, todos en nuestros corazones, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE> entonces lo que tenemos que hacer ahora, es pensar bien lo que queremos, si queremos alegría o queremos que no estén bien las cosas, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE> si hacemos el bien, hay un camino bueno y nos vamos al cielo con Dios, y sino hacemos el bien, también hay un lugar donde podemos ir a parar, pero ¿quién quiere ir a parar al</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE> lugar donde no hay paz?, donde hay fuego, donde hay agua, donde hay personas que gritan y que nunca podrán salir de ahi dentro, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE> así lo dice la palabra de nuestro Dios, yo, yo si lo creo, que Dios tiene poder, que solo Dios es el dueño de todas las cosas que existen sobre la tierra,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>  y yo lo que quisiera es que todas las personas de la tierra, del mundo, todos, lo crean, que piensen </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE> en sus vidas, porque yo sino quiero que terminen en el fuego, como lo dice Dios, ninguno quiere ir a terminar ahí, menos nuestro Dios quiere que terminen ahi.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE> Entonces está es la historia, en la que yo siempre me pongo a pensar, que todo lo que hay aquí sobre la tierra, ahora tiene su valor para nosotros, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE> porque estamos sobre la faz de la tierra, tenemos nuestra familia, les dejamos un montón de cosas a ellos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE> pero en realidad tenemos que pensar que todo esto se tiene que acabar en un tiempo, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE> si yo puedo construir una buena casa, pero no me lo llevo cuando me muera, no me lo puedo llevar en la caja (ataúd), no me lo voy a llevar conmigo,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE> entonces lo que debo hacer ahora, es aprovechar para reírme con mis familiares, hacer el bien con ellos, porque solo es eso lo que quiere nuestro Dios, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE> todo lo que hay aquí en este muendo se va a quedar, nada nos vamos a llevar, lo importante es lo que tenemos en nuestro corazón, en nuestros pensamientos, todo lo que tenemos que mostrar, es lo bueno.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE> Solo eso es lo que quiero compartirles a ustedes, porque yo siempre pienso de esa manera, cuanto quisiera que todos hicieran el bien.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

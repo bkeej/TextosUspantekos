@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-02T11:25:52-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Historia personal E.M.T.L..mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Historia personal E.M.T.L..mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c73d4f19-0c2c-45e9-ae8f-62253d9fac3e</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">86</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="2550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="9080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="9610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="16400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="16790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="27020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="27810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="36010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="36890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="49000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="49900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="60760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="62470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="73540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="74980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="81510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="82120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="91160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="92360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="99530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="100030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="106585"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="107410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="115440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="116430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="121810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="128760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="130190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="130400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="135330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="136380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="142010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="142400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="148150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="148820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="154760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="155850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="159730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="160420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="165050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="166600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="175120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="175430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="183020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="183490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="190320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="191190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="196280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="196600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="201500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="202070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="209610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="210320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="212460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="218030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="231520"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="E.M.T.L" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> K'amtzáwch ataq juntir lamas nataw, &lt;eh&gt; lajori tinyool taq jun kiitz cháwchaq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> chuch &lt;eh&gt; nimo xinch'ek re Rab'in qatinmit nari re Tz'unun Kaab'.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> Lajori tinb'ij taq chawe que iin xin'ook re li, ta' re tinch'ob'  &lt;nen tin&gt; lamas, lamas inb'e'w y &lt;lll&gt; nen tinb'an, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> xintaw kla', &lt;xt&gt; xinyol, &lt;xt&gt; xinyol qa&gt;, xinch'a'w laj &lt;qa&gt; qayólj, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> &gt;xin&gt; ta' wetam &lt;nen tz&gt; iin inch'ekon kare', kla' xinch'ekon y xye'saj lugar chwe xinb'e</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> xinb'e nik' chi tinmit chik, re xink'ute' qayólj, xink'ute' qitz'yaq re nik' chij tinmit.  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> Kla' xinb'ne', xinch'ob'e' jwiichaq yaq ajq'opoj taq ánm, lamas re &lt;aje&gt; re Quetzaltenango,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>kla' xi'ojb'e'w rk'il jkotz'ii'j, kotz'ii'j tinmit kla', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> xojb'e', xojyloow chub' &lt;ql&gt;&gt; chub' qitz'yeq, &lt;chub' a&gt; &lt;nen ej&gt; ¿nen ajchaak yaj q'opoj taq ánm lojori?; </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>  jchaak yaj q'opoj taq ánm lajori rech &lt;tj&gt; tijb'ne taq, tijk'ute' taq ritz'yaqaq, tijk'ute' taq j...   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> nen tjran taq laq tinmitaq, nen eh,,, tijyole' taq.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> &lt;xxx&gt; Re xijyole' taq chub' &gt;yaj&gt; yaj wunaq kita' tran taq, ta' &gt;tj&gt; ta' tjye' taq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> qleen re'aq y &lt;tr&gt; re re raj taq re re t'eel taq chub'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> chib' ra jk'axk'oliilaq,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> lajori re re taq jori xqab'ane' y xchasaj jun re </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> y &lt;rrr&gt; lajori rech taq re tzii' &lt;xqa&gt; xqile' nik' kirtyan chik xqile' taq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> ¿nimo nen qitz'yaq? ¿nen lamas ojpew? re re taq &lt;xxxx&gt; xej...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> xajye'ch taq &lt;juuun&gt; jun qa...  jun qa...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> nimo tinb'ij taq chawe chuch yaq q'opoj taq ánm.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> Y jori nari la qatz'unun kaab', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> ¿nin qa'an ooj? ari &lt;eh, rr&gt; qe ooj tqa'an &lt;tqa&gt; tran taq qamaam-qatiit', tran taq b'o'j, tran taq xoot, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> &lt;in&gt; quuq ooj q'eq, y &lt;qa&gt;qapoot' saq, kyeq jqul </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>  qachachal &lt;ari&gt; ari jyub' che taq re, ari quuq q'eq rech oqum </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> rech laq'ab' &lt;tzq&gt; ojche' re y qachij ari</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE> qachij color, re re jkyeqi'n, kyeqi'n y</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE> ari li qachij ooj, ari, &lt;eh&gt; ari ooj &lt;r&gt; ojk'am b'i chi ooj ánm ooj ajmáyb' </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE> re &lt;qa t&gt; re Tz'unun Kaab' </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>Inb'iij iin Esmeralda Micaela Túm López, nari &lt;petzal, eeeh&gt; win laj Tz'unun Kaab'. Komo taq chawe.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="E.M.T.L" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Buen día a todos hasta donde me escuchan, ahora les relato un poco a ustedes, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> de como gané para ser Hija de nuestro pueblo de Uspantán (Reina Uspanteka).</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> Ahora les cuento a ustedes que yo participe en eso, sin saber donde, a dónde tenía que ir y qué tenía que hacer, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> llegué ahí, hablé en nuestro idioma, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> no sabía, si yo iba a ganar, ahí gané y me permitieron que fuera,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> que fuera a otros pueblos, para ir a mostrar nuestro idioma, y fui a mostrar nuestra vestimenta a otro pueblos.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> Ahí fui a hacer, fui a conocer a las señoritas, que eran de allá de Quetzaltenago, ( Departamento de Guatemala) </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> ahí fuimos con la flor, flor de ese pueblo (Reina del Pueblo Quetzalteco)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> fuimos, platicamos sobre nuestra vestimenta, sobre ¿cuál es el trabajo de las señoritas ahora?;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> el trabajo de las señoritas ahora, es hacer, es ir a mostrar sus vestimentas, ir a mostrar </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>  lo que hacen en sus pueblos, que lo puedan ir a relatar.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE> Ellas hablaron sobre, los hombres que no hacen, que no les dan </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE> las cosas a ellas y ellas quieren salir de su </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE> de su sufrimiento,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE> ahora con ellas ahora fuimos a hacer (participar) y eligieron a una, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE> y ahora junto ellas estuvo bien, que hayamos ido a ver y a conocer a otras personas, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE> de ver ¿cómo son nuestras vestimentas?, ¿de dónde venimos?, ellas </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE> nos dieron una nuestra... una nuestra...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE> así como les decía sobre las señoritas.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE> Y ahora aquí en nuestro Uspantán, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>  ¿qué hacemos nosotros?  nosotros hacemos, nuestros abuelos hacen, hacen ollas de barro, hacen comales,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE> y nuestro corte es negro, y nuestro güipil es blanco, con cuello rojo, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE> nuestro collar le dicen que significa las montañas, nuestro corte negro es por la oscuridad </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE> de la noche, así como le decimos y nuestra cinta (se pone en el cabello) es;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE> nuestra cinta, es roja, es roja y</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE> esa es nuestra cinta que llevamos nosotras la mujeres, nosotras las mayas, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE> de Uspantán. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE> Yo me llamo Esmerlda Micaela Túm López, aquí estoy en Uspantán. Muchas gracias a ustedes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

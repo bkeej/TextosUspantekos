@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-01T14:44:51-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Yajeel.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Yajeel.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:34754e9e-b7da-486b-b87c-4ebd117535d7</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">92</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="12490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="14100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="24990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="25310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="38000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="38985"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="51505"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="52400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="64320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="65090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="75510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="78200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="90600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="91380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="103200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="103880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="115090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="115370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="126220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="126790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="138000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="140280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="151590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="153690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="164210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="165270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="177000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="177680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="188410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="190390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="200200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="200990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="209690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="209880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="221900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="222980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="233100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="233990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="244200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="246970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="256020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="257580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="271200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="271720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="282000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="283900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="296070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="297980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="310980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="311870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="323300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="324100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="334310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="334430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="341196"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="T.A.M.L" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> K'amtzáwch, lajori woj chíwch jb'eleej iik' re joq'o' juk'al juun júnb', chwaj inyoloow chub' jun yajeel, man yajeel li jb'ij Coronavirus,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> man yajeel li xcholmaj &lt;la' ch'&gt;li ch'qap jaa', ta' xqachomorsaj laj oor tyuq qk'il neri Tz'unun Kaab', lajori xq'axi'  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> wajxaqlajuuj iik' wi' man yajeel qk'il, jor k'ii kristyan xjkamsaj b'ik, jor k'ii kristyan jor tch'ob'saj jwiichaq kita' chki' qk'il lajori, pent kare'    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> kita' jmaakaq rechaq, pent kare' kita' retamaq lamas xijme'  &lt;x&gt; maq &lt;yab'&gt; man yajeel, pent kare' xk'amsaj b'i man yajeel laj rochoochaq ¡ta' qetam!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> ¿nen chki' qetam lajori? man yajeel li wi' na qk'il, jwi'l k'u li rajwax tiqat'o' qib', kita' ni jun kúmb'l ojkol re man yajeel li,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> wi' ni'j &lt;kri&gt; wi' ni'j qleen tjb'ijsaj rajwaj tiqab'an re tqakol ra kiitz qib' re man yajeel li, jwi'l k'u li we rajwax at-'eel b'i laq k'áyb'al, at-'eel b'i li chaak,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> k'am b'i ch'uqb'al áchii', koj b'ik, ta' atjutun rk'il kristyan, ye' axo'l rk'ilaq, atq'ajch chuch jaa, atq'ajch laj awochooch,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> ch'aj aq'aab' jinon akayb'al &lt;jwi'l&gt;rk'il jaa' pach xab'oon, jilon takol ra kiitz áyb' re man yajeel ri, jinon takol ra kiitz  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> awech'elxiik re man yajeel ri, xijsaj na xaq ri'j kristyan tran k'ax re, rechaq, ri' tqata'w tjb'ij taq yaq ajkuun  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> xk'exmaj jwiich man yajeel, lajori tjrna' k'ax re wúnaq jinon ánm, ri' tqata'w tjb'ij taq yaq aj. . .</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> ajkuun jumul xk'exmaj chi jwiich man yajeel, lajori tjrna' k'ax re k'ojol &lt;q'q'&gt; k'ojol wúnaq jinon q'opoj ánm,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> xtzaq jch'oolaq, xtzaq qach'ool, ri' tqata'w íwr li k'aat ch'iich' xk'exmaj chi jumul man yajeel, man jwiich lajori tjrna' k'ex re taq ra ék'l, taq ra nuuch'    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> tqachomrsaj man yajeel li ta' chki' tb'ek, jwi'l k'u li rajwax tqata' re qaqaaj Dios tye' qachóq'b' re ojwa'x rk'il man yajeel li, kita' tren k'ex chqe,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> rajwax tqata na nen tjb'ij taq k'amal taq b'ee re qatinmit re jinon ojyo'l na ra kiitz chik. Lajori tjiin &lt;tkuj&gt;tjiin tkojsaj akuux kúmb'l,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> wi' &lt;nin&gt;, wi' nen tjb'ij taq ojkol ra kiitz re man yajeel, wi' nen tjb'ij taq ri' tjiin tb'now re tkam b'ij kristyan, ¡ta' qetam!   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> iin tinb'ij chawe chaq ye' taq ak'aslemal laj q'aab' qaqaaj Dios, sik'ij taq jwiich jyólj, b'an nen tijb'ij kla',  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> chomrsaj ak'aslemal, chomrsaj jk'aslemal awech'elxiik, ma xaq ta jk'aslemal, ak'aslemal neri chíwch uleew,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> rajwax &lt;tch&gt; qachomorsaj ak'aslemal, la jun q'iij kita' chki' wat neri, laj yólj qaqaaj Dios tjb'ij ma xaq ta neri wi' k'aslemal,     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> wi' k'aslemal ajwiich na tkam b'i jun. Jwi'l k'u li chomorsaj nen chki' tab'an. jwi'l k'u li chomorsaj lamas atb'e'w, man yajeel ri   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> ajki' na tb'ek,  man yajeel ri, ta' chki' tb'ek, man yajeel ri tkan eel qk'il, jwi'l k'u li tinb'ij chawechaq koj taq ch'úqb'al áchii',    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> ch'aj taq akayb'al jinon aq'aab' rk'il jaa' pach xab'oon, b'an toq'ob' trajwax tachajsaj áyb',  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> wi' nika', wi' ni kare' kristyan laj awochooch ta' t-'eel taq b'ik, awech'elxiik ta' t-'eel taq b'ik. tjiin &lt;tchajs&gt; tjiin tchajaj rib'aq, ta' qus at-'eel b'i aat y tab'ne' k'ex rechaq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> chomrsaj nen chki' tab'an, tab'an toq'ob' chomrsaj nen chki' tab'an. Ri' li chwaj tinb'ij chawechaq , man yajeel ri,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> jun étzel yajeel, man yajeel ri, tinchomrsaji'n rk'il jq'aab' kristyan xb'ansaj, ta' jun yajeel jor tk'ex jwiich,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE> ta' jun yajeel kita' tkam rk'il siik lúwr, rk'il q'aaq' lúwr, ta' ilan inwi'l jun yajeel jloni'n, jwi'l k'u li tinb'ij k'u re' iin, ri' kristyan xnow, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE> we xtaw qk'il ta' qetam we tqayol na qak'aslemal, jwi'l k'u li tinb'ij chomrsaj ak'aslemal, tat'o' áyb',   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE> t'o' awech'elxiik, b'an nen chki' tb'ijsaj, jw'l k'u li qaqaaj Dios tjye' qakaslemal,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE> re tqayol na nen chki' tqil ri' tqej jchóq'b' man jayeel ri. K'mo chintatb'éjk. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="T.A.M.L" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Buena noche, hoy estamos en el noveno mes del año 2021, quiero hablar sobre una enfermedad, esa enfermedad se llama Coronavirus, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> esa enfermedad empezó en el extranjero, no pensamos que rápidamente iba a venir aquí con nosotros en Uspantán, ahora ya pasaron </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> 18 meses lleva la enfermedad con nosotros, son varias las personas que ha matado, son varias las personas muy conocidas que no están con nosotros ahora, quizás </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> ellos no tenían la culpa, quizás no sabían donde fueron a contraer la enfermedad, quizás se llevaron la enfermedad a sus casas ¡no lo sabemos!  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> ¿qué es lo que sabemos ahora? esa enfermedad aún esta con nosotros, es por ello que es necesario que nos ayudemos, no hay ninguna medicina que nos proteja de esa enfermedad,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE> hay algunas cosas que se dicen que es necesario que hagamos para protegernos un poquito de esa enfermedad, es por eso que sí es necesario que salga al mercado, que salga al trabajo,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE> llevese su cubre bocas, uselo, no se junte con las personas, marque su espacio con ellos, cuando regrese a su casa,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE> lavase sus manos como también su rostro con agua y jabón, así se protege un poco de esta enfermedad, de igual manera protege un poco</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>a sus familiares de esta enfermedad, se había dicho que solo a ancianos les iba a afectar, cuando escuchamos que decían los doctores</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>  cambió la enfermedad, ahora les hace daño a los hombres, asimismo, las mujeres; cuando escuchamos decían los   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE> médicos una vez más ha cambiado la enfermedad a otra variante, ahora ya les hace daño a jóvenes y señoritas,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE> se asustaron, nos asustamos, cuando de repente escuchamos ayer en el internet que cambió otra vez la enfermedad, la variante de ahora les hace daño a los niñitos, a los pequeños,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE> analizamos que esa enfermedad ya no se va a ir, es por eso que es necesario que le pidamos a nuestro padre Dios que nos de fuerzas para estar con esa enfermedad y que no nos haga daño,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE> es necesario que escuchemos lo que dicen las autoridades de nuestro pueblo para que vivamos otro ratito. Ahora están poniendo vacunas  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE> hay quienes mencionan que nos protege un poco de la enfermedad, hay quienes aseguran que es la que está haciendo que las personas se mueran, ¡no lo sabemos!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE> yo les digo a ustedes pongan sus vidas en las manos de nuestro padre Dios, lean su palabra, hagan lo que ahí dice,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE> piensé en su vida, piensá en la vida de su familia, no solamente en su vida, ni en su vida aquí en la tierra,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE> es necesario que pensemos sobre su vida, porque en un día ya no va a estar aquí, en su palabra nuestro padre Dios dice que no solo aquí hay vida,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE> hay vida aún después de que uno se muera. Por ello piense qué va a hacer, por eso piense a dónde va a ir, esta enfermedad</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE> aún no se ha ido, esta enfermedad, ya no se va a ir, esta enfermedad se va a quedar con nosotros, es por eso que les digo a ustedes pónganse sus cubre bocas,     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE> lávense el rostro como también sus manos con agua y jabón, haga favor es necesario que se cuide,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE> hay, hay quizás personas en su casa que no salen, familiares que no salen, se están cuidando, no es correcto que usted salga y que llegue a hacerles daño a ellos,      </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE> piense lo que va a hacer, por favor piense lo que va a hacer, Eso es lo que quiero decirles, esta enfermedad, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE> una maligna enfermedad, esta enfermedad, yo pienso que con las manos de personas se hizo, no hay una enfermedad que tenga muchas variantes,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE> no hay una enfermedad que no se muera con lugares fríos, con lugares cálidos, nunca había visto una enfermedad así, es por ello que yo supongo, que personas lo hicieron,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE> sí llega con nosotros no sabemos sí aún vamos a relatar nuestra vida, por eso digo piense en su vida, cuídese,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE> cuide a su familia, haga lo que dicen, y solo así nuestro padre Dios nos dará vida, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE> para relatar lo que veremos cuando disminuya su fuerza esta enfermedad. Gracias por escucharme. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="T.A.M.L" TIER_ID="Descripción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>  El Coronavirus, más conocido como COVID_19 ha causado una pandemia mundial, afectando también a la población uspanteka de Guatemala.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> Esta enfermedad tardó 4 meses en llegar a Guatemala y 7 meses aproximadamente a Uspantán. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE> En el pueblo uspanteko se cree que el coronavirus fue creado por las manos y mentes humanas, con un propósito malo, ya que no había existido una enfermedad con tantas variantes que dañe a edades específicas. Este es el sentir de muchos uspantekos.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE> Ante esta pandemia, junto a mi familia creemos firmemente que solo Dios puede librarnos y protegernos, solo resta ponernos en sus manos y que cumpla su voluntad sobre nuestras vidas.    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

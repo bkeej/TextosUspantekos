@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-01T14:53:29-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Jq'iij kamnaqib' - Día de los muertos.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Jq'iij kamnaqib' - Día de los muertos.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:fab93417-3c3b-4a9c-b3eb-a0771457dd92</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">152</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="6800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="9800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="12690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="14580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="18700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="20470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="24310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="26010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="28490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="30050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="33680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="36640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="41290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="43420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="46900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="49380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="52475"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="55015"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="60080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="63930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="66500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="68380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="70010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="81890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="82400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="93200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="93710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="107920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="108580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="121840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="123300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="134400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="135110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="147020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="147500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="159300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="159890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="170500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="171310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="181000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="181300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="193590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="194100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="204990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="205410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="219140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="219800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="231720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="232090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="242010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="242490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="253510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="254310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="264300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="265490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="276200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="276990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="292490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="293330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="303610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="304190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="314700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="315090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="327400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="327690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="338190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="339290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="351790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="353900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="364800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="365390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="376100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="377300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="389310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="390190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="401790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="402490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="411990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="412790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="427000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="427990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="440420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="441890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="456280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="457400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="467100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="467490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="478390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="478820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="490510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="490690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="503760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="504290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="514100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="514770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="523300"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="V.T.M" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> Jun pat x'ook inpach le tijob'al jaa.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> Xeel jun tuun l k'áyb'l. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> Ánm xook l k'ayb'al. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> Inatin l miq'in jaa'. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> T-'eelch jaa l k'olb'l. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> Íwr xin'eelch l saqrab'em Kób'n. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> Saqrab'em xin'eelch l chuwchooch. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> T-'ooq' ánm &lt;l&gt;le kompsant </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> Xwa'j jun nuuch' ék'l Xe'tloox.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> Cuando in'ookch l Tz'unun Kaab' inq'ax li itz'anb'al. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> Xinwa'x Tz'unun Kaab'. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> Laj lajuuj iik' re &lt;j&gt;nojel junab' tjyol taq qamaam-qatiit' t-'eel taqch   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>  lo wokatem juntiir nen ya xuxlan taq, nen ya xkam taq, le jurk'lal iik';</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> tjb'ij taq, tjyol taq qamaam-qatiit', twok taq &lt;rrr&gt;eel taqch l wokatem, tyuqrile' taq rleewal, jtáq'jaq, lamax jwa'x taq chuch q'iij saq, cuando &lt;xaj&gt; ajyo'l taq na. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> Tjyol taq rechaq, rechaq tyuqrile' taq rpaam rchoochaq, tyuqrile' taq ralk'walaq, jun iik' twokot taq y &lt;rju'&gt; ju'ljuuj iik'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> &lt;tqa&gt; tyuq, tq'aj taqch b'ik; jwi'l li tyuqrile' taq ¿nen qab'antáj chuch q'iij saq?, tjyol taq qamaam-qatiit' t-'eel taqch l wokotem,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> t-'eel taqch chrilik chuch q'iij saq nen xkan rne' taq, ajwich taq na tqaloq'aj, ajwich taq na rleewaq, ajwi taq na jwiich jchee'aq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> juntiir nen xkan jtike' taq chuch q'iij saq cuando ajyo'lch, ajyo'l taq y cuand tkam taq b'ik, tyuqrile' taq naj; tjb'ij taq: cuand tyuq jun ra ka'n como jun ra pempe', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> tyuq nab'ee q'iij, kaab' q'iij re ju'ljuuj iik' re nojel aab', jun k'ri' loq'ori ta' chki' tqakoj &lt;ret&gt; retal,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> ta' chki' tqil y rechaq sí ojrila' tran. Tjyol taq l Tz'unun Kaab' t-'eel taqch ánms l kompsant,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> laq'ori nab'ee q'iij, jkaab' q'iij re eh lajuuj iik' re nojel aab' t-'eel taqch ánims tche' taq qamaam-qatiit',    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> jwi'l li ójr taq tziij, ójr taq kristyan nen jwi' na la jpíxb'aq tjkote' taq poom, tkoje' tan candela, tk'ul taq jmaam, jtiit'aq,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> tk'ul taq ralk'wal, tk'ul taq rab'inaq nen ya xuxlan taq chuch q'iij saq, jul k'il loq'ori ooj ta' chki' tqakoj eh jcholaajl, ta' chki' tqayaq, ta' chki' tqaya' jq'iijlaq nen ya xuxulan taq.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> Jwi'l k'u li loq'ori tinyol nen xka jyole' taq qamaam-qatiit', nen xka jyole' inmaam, nen xka jyole' intiit', nen xka jyole' chuch q'iij saq cuando wi' taq na qk'il,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE> loq'ori tjb'ij taq: ta' mod oj-'eel taq b'ik, ta' oj-'eel b'ik laq'ab', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE> jwi'l k'u li tqachajaj qib', ánm wi' rk'lal ta' t-'eel b'i laq'ab', wunaq yaaj ta' t-'eel b'i laq'ab', porku' toxlan taq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE> ta' tuxlan taq qamaam-qatiit', yo'l taq na, twokot taq l teew kaq, jwi'l k'u li loq'ori jq'iijlaq qamaam-qatiit' wi' taq l teew-kqiq',  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE> rechaq ojyurile' taq, nab'ee esquin, jkaab', jroox, jkaaj esquin re rchooch-jk'olb'alaq, tyuqrile' taq nen qus tqab'an rechaq,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE> nen sk'il xka jne' taq rechaq y ooj tin tqaloq'ij na, jwi'l k'u li chweeq'-kab'iij nen ttaj, nen tal jpíxb' jqaaj-jchuuch, ma qaséch;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE> jsechik ta' k'ax, ri' jb'itik chaq ta' ojkwin chik, ta' chki' ojkwin tqab'it jnójb'l, ta' chki' ojkwin tqab'it jtziijaq,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE> ta' chki' ojkwin tqab'it &lt;j&gt; jchaak, jpátn qamaam-qatiit', rechaq q'iij rij, nab'ee q'iij</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE> jkaab' q'iij re iik' ri tqab'ij rechaq t-'ooq' taq, tb'eson taq, tyuqrile', tib'irile' taq l kompsant, tb'ijmese' taq l kompsant</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE> jq'iijil jqaajaq, jchuuchaq, jmaamaq, jtiit'aq. Ri' k'u li tinyol iin loq'ori, tkan inyole', tkan inb'ij, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE> li tsách re qalk'wal, tsách re &lt;qa&gt; &lt;qi&gt;qi'iim, mat qasách, mat kan qasche', mat kan qaye', rechaq tloq'aj taq, tch'ab'ej, tch'ab'ej taq keq', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE> q'iij loq'ori, q'iij loq'ori nimlaj q'iiji'n, tinya' jb'ij kab'lajuuj iiq' laq'ori,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE> jq'iijil loq'laj teew-kqiq', rechaq ojrila' tran; tinb'ij re inmaam, tinb'ij re intiit', tinb'ij re &lt;in&gt;inqaaj-inchuuch rechaq laq'ori twokot taq,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE> inki'kot laj wánm laq'ori que rechaq ojyurile' taq, tinkuxtaj que rechaq laq'ori tyuqrile' taq jpaam rchooch, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE> ri' wi' taq qk'il loq'ori ta' tqil, per rechaq ojrila' tran; jwi'l k'u li iik' laq'ori nimalaj qus chuch qamaam-qatiit',</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE> nimalaj nim jb'antaj, jb'antájk chuch rechaq, mojb'eson taq b'a', ma kan qaye' taq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE> qile' ¿nen k'u li rajwáxk rechaq? tjyol inmaam iik' laq'ori &lt;tk&gt;qak'ul rk'i poom, rk'i candela, rk'i incienso, porque tyuq taq, tyuqrile' taq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE> siw jpaam rchoochaq wiqílk che', rechaq tjk'am taqch jpach, tk'am taq nen ajvecin nen ya xuxlan taq, tyuqrile' taq  y cuand ttaw taq lu jun jaa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE> tolin jpaam, ta' nen &lt;j&gt;&lt;nen,nen&gt; ta' wiqílk, ta' nen rúxb' poom, ta' rúxb' candela, tb'ison taq, tb'ison taq y tk'amsaj taq chik b'ik jwi' nen wi' qleen rk'ilaq,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE> rechaq tki'kot taq, tyuqrile' taq rchooch cuand ooj tqawiq, cuand ooj tqakoj jkútz'ijaq, tqakoj jcandelaq, &lt;tqa&gt;tqak'at poom,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE> tqaye' &lt;jxechqe&gt; xaaq chaj la jaa rechaq, ri' li nimalaj q'iijlaq rechaq, ri' li &lt;r&gt;ki'kotemal, ri'r nimlaj utzil tjya' taq laj qak'aslemal</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE> rechaq nen ya xuxlan taq re' chqaxo'l; jwi'l k'u li laq'ori ri' li lo que tkani &lt;ti&gt;tiinyol re jun pat laq'ori, ma qasache',  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE> mkan qaye' jchaak, jpátm qamaam-qatiit', trechaq nim jq'iijilaq, nim jb'antájaq chqab' ooj nen ojyo'l &lt;ojojw&gt; ooj woj na chuch q'iij saq. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE> Ri' k'u li tinyol re &lt;jun&gt; jun pat loq'ori, eh mojb'isónk, &lt;qa,qa&gt;qach'ab'ej qamaam-qatiit'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE> le saqrab'en, lokrb'al aq'ab', ya que rechaq wi' taq chqilik, chqata'ik; k'omo chintat, &lt;chin,chin&gt;chintatb'éjk.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="V.T.M" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Hace un rato entró mi compañero a la escuela. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> Salió un gato de la tienda. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> La mujer entró a la mercado. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> Me baño en agua caliente. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> Sale agua del recipiente. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> Ayer salí temprano de Cobán. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> De madrugada salí de mi casa. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> Llora la mujer en el cementerio. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> Nación en niño pequeño en las Pacayas. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> Cuando entró a Uspantán paso el lugar de juego. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE> Nací en Uspantán. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE> En el décimo mes de cada año relatan nuestros abuelos que salen</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE> a pasear todos los que ya descansaron, los que ya murieron,  a finales del mes;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE> dicen, relatan nuestros abuelos, salen a pasear, vienen a ver sus terrenos, sus campos, donde estuvieron en la faz de la tierra, cuando aún estaban vivos.    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE> Relatan ellos, que ellos (difuntos) vienen a ver sus hogares, vienen a ver a sus hijos, un mes pasean y en once meses</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>  vienen, se regresan; es por eso que vienen a ver ¿cómo estamos sobre la faz de la tierra? cuentan nuestros abuelos que salen a pasear, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE> que salen a ver a la faz de la tierra lo que dejaron hecho, sí aún lo valoramos, si aún están sus terrenos, si aún están los frutos de sus árboles,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE> todo lo que dejaron sembrado en la faz de la tierra cuando estaban vivos y cuando se mueren, aún regresan; dicen: cuando viene un animalito como una mariposa,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE> vienen en el primer día, segundo día del oncevo mes de todos los años, pero ahora ya no le prestamos atención, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE> ya no lo vemos y ellos sí nos ven. Relatan en Uspantán que salen ánimas en el cementerio, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE> ahora en el primer día, segundo día del décimo mes de todos los años salen las ánimas decían nuestros ancestros, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE> por eso en el pasado, las antiguas personas quienes aún mantenían sus consejos iban a poner incienso, iban a poner candela, reciben a sus abuelos, a sus abuelas, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE> reciben a sus hijos, recibem a sus hijas quienes ya descansaron de la faz de la tierra, por eso ahora nosotros ya no le prestamos sentido, ya no les damos su importancia a quienes ya descansaron. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE> Es por eso que ahora cuento lo que dejaron relatado nuestros ancestros, lo que dejó relatado mi abuelo, lo que dejó relatado mi abuela, lo que dejó relatado en la faz de la tierra cuando aún estaban con nosotros,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE> ahora dicen: no hay modo para que salgamos, no salgamos de noche,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE> por eso nos cuidamos, mujer que tenga hijos no sale en la noche, hombre enfermo no sale de noche, porque descansan</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE> no descansan nuestros abuelos, aún están vivos, pasean en los vientos, por eso ahora la importancia de nuestros ancestros aún están en los vientos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE> ellos nos vienen a ver, en la primera esquina, segunda, tercera, cuarta esquina de sus hogares, vienen a ver que el bienestar que les hacemos a ellos,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE> lo correcto que dejaron hecho ellos y nosotros lo tenemos que valorar, es por eso que mañana-pasado mañana los que han escuchado los consejos de sus padres, no lo perdamos; </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE> perderlo no cuesta, el levantarlo es lo que no podemos, ya no podemos levantar sus conocimientos, ya no podemos levantar su idioma, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE> ya no podemos levantar el trabajo, el oficio de nuestros ancestros, ellos día a día, en el primer día</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE> segundo día de este mes que decimos ellos lloran, se ponen tristes, van a ver al cementerio, van a barrer al cementerio</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE> en los días de sus padres, madres, abuelos y abuelas. Eso es lo que yo relato ahora, lo dejo relatado, lo dejo dicho,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE> seguro se les va a olvidar a nuestros hijos, se les va a olvidar a nuestros nietos, no deberíamos perderlo, no lo deberíamos dejar olvidado, no deberíamos dejarlo, ellos lo valoran, le hablan al viento,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE> el día de hoy es un día muy grande, doy a conocer que es kab'lajuuj iq' ahora,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE> es el día del sagrado aire-viento, ellos nos ven; le digo a mi abuelo, le digo a mi abuela, le digo a mis padres ellos ahora pasean, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE> me siento feliz en mi corazón ahora que ellos vengan a vernos, recuerdo que ellos ahora vienen a ver sus hogares,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE> seguro están con nosotros ahora solo que no los vemos, pero ellos nos ven; es por eso que el mes de ahora es muy bueno ante nuestros ancestros, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE> es muy importante para ellos, no nos entristezcamos, no los dejemos,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE> veamos ¿qué es lo que necesitan ellos? relata mi abuelo que el mes de ahora lo recibíamos con estoraque, con candelas, con incienso, porque vienen, vienen a ver</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE> si dentro de sus casas está adornado dice, ellos traen a sus amigos, se traen a sus vecinos quienes ya descansaron, vienen a ver y cuando llegan a una casa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE> vacía, que no está adornada, que no tiene olor a incienso, ni olor a candela, se entristecen y se los vuelven a llevar por quienes sí tienen cosas con ellos,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE> ellos se sienten felices, vienen a ver sus hogares cuando nosotros lo adornamos, cuando nosotros les ponemos sus flores, les ponemos sus candelas, les quemamos incienso,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE> damos hojas de pino en la casa de ellos, ese es el gran día de ellos, esa es la felicidad, es el gran bienestar que nos dan en nuestras vidas</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a91">
+                <ANNOTATION_VALUE> ellos los que ya descansaron entre nosotros; es por eso que ahora es lo que dejo relatado en este momento ahora, no lo perdamos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE> no vayamos a dejar los trabajos, los oficios de nuestros ancestros, ellos tienen mucha importancia, es grande su legado sobre nosotros los que estamos vivos y que aún estamos sobre la faz de la tierra.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE> Eso es lo que relato para el momento de ahora, no nos sintamos tristes, hablémosles a nuestros ancestros</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE> al amanecer, al anochecer, ya que ellos están para vernos, para oírnos; gracias por escucharme.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="V.T.M" TIER_ID="Descripción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE> Ánms es un término que en Uspanteko se refiere a las ánimas o almas de los difuntos.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE> En la cultura maya se tiene lse cree que en el mes de octubre las almas de los difuntos salen a convivr con sus familias y de noche si se muestran a alguna persona es porque su muerte está próxima. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE> En a cultura maya días del 30 o 31 del mes de octubre, las personas realizan arreglos a sus difuntos como: pintar, limpiar y adornar los panteones, con la creencia del retorno de sus difuntos para esas fechas.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

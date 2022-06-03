@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-02T11:29:57-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Bailes de Uspantán.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Bailes de Uspantán.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a22eabec-052b-441f-b530-b22f21fa9b5d</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">228</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="5230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="9680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="9890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="16640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="17450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="22960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="23570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="27510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="27740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="34960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="35515"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="39805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="40150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="46780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="47410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="54695"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="54920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="62140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="62410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="62870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="62950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="70900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="71260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="78320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="78660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="86800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="87050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="91600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="91910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="97410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="97670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="106890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="107020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="113320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="113555"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="114215"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="114350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="119630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="119800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="129040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="129280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="139740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="140130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="146120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="146340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="152880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="153750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="160640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="161880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="166060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="167070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="173680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="173820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="181490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="181830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="190340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="191450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="201650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="201890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="209350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="209660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="217540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="218280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="225380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="225530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="226170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="226450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="231900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="232340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="239970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="241090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="248860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="248970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="257990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="258520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="266540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="266870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="277300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="277465"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="278295"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="278970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="284610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="284760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="293270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="293670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="298780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="299100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="307330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="307900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="316960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="317640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="320740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="321550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="330500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="330920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="339840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="340120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="346500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="349890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="356280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="356600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="364510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="370410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="379030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="379145"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="385885"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="385940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="392810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="393370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="399570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="399675"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="405800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="405870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="414040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="414580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="422470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="422580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="430120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="430710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="437800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="437880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="444780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="445800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="453460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="453910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="458450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="458570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="463870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="463970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="473390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="473440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="480980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="481120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="485550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="487890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="493270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="494320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="501450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="502420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="507500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="508040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="513350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="513980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="523490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="523940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="531880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="532330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="538950"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Este&lt;eee&gt; tinyol jun kiitz chawechaq,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> eeeh ójor laj qatinmit,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> fuert alegre, alegre cuando&lt;ooo&gt; tpe nimq'iij mayo, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> eeeh &lt;wi' jun&gt; wi' jun, jun montón jb'anen tran taq pues, eeeh wi' nimq'iij,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> este, pero lamentablemente que loq'ori xan perder &lt;jun&gt;jun kiitz,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>jun kiitz eh tradiciones porque ójor iin xink'íych, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> &lt;calid&gt; eh talvez injunab' como de... aaaah ocho o nueve años, &lt;acerc&gt; de siete a ocho, nueve años, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> wi' &lt;jun&gt; jun xjooj, jun xjooj, jun tradición digamos, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> este, lastima xna' desaparecer, ta' chiki'n, ta' chiki' tran taq, sach jwiich, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> y ma xaq ta iin inb'ínk, sino que k'ii ooj aj tinmit que, &lt;lamen&gt; lastima que ta' chki'n, va&lt;aa&gt;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> y &lt;or&gt; toces ooj loq'ori, tqayólj re maq ék'l, per rechaq tijb'ij taq y ¡nemo? ¿nen k'u tran taq? y juntiir,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> aaah</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> pero lastim kit'a ta, ta' chki' xilsal, ta' chki' ni jun xnow interesar re tresaj taq &lt;man, man&gt; man ra xjooj </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> y bonito porque... en cambio loq'ori lo que xan taq pues, ya xresaj taq chich jun xjooj </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> pero iin ta' qus twil porque es como que digamos &lt;eh, eh, eh&gt; eeh digamos tradiciones brasileñas juntiir li,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> porque maq disfraz tjkoj taq, ya &lt;tz&gt; plumas y tanta cosa, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> toces ta' iin ta' qus twilin,  aaah pero bueno ahi si que </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> ehh ahi kristyan wi' jujun tjb'ij taq va, tran taq, raj &lt;tjk'isb', tij, tij&gt; k'iysaj taq chik jun vuelt,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> pero es un poco dificil che, ya sol tran taq desear, pero ta' chki', ta' chki' tran taq. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> neee</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> Toces eh más cosas también wi' chki' jun, jun xjooj sach jwiich </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> y quizás &lt;nnnnnou&gt; no hace mucho tiempo re jk'isb'a taq, raj taq xan taq rescatar, pero como que ta' chki' más interes, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> y man xjooj b'ij patzkar, b'ij patzkar y &lt;man&gt; man xjooj li pues también bonito veda, eh se trataba de cacería,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> cacería laq k'achee'laj juntiir, pero lamentablemente ya xsachVR jwiich también, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE> y ahí &lt;xna&gt; tovía xna' tqaluchar re xan taq restacar ra xjooj, pero como ta' chki' interes veda, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE> y es por eso que ta' chki', ta' chki' looq' pues. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE> Y también eeeh ójor alegre,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE> iin xink'íych eh fuert nimq'iij pero nim &lt;krist&gt; y juntiir kristyan, aldeas juntiir tpe taq nerri </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE> &lt;yyy&gt; y jun ki'kotemal nim, porque juntiir aldeas &lt;tij&gt; tijk'ul rib'aq neri, tpe taq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE> eh &lt;t,eh&gt; wi' xijooj, wi' q'ojoom, juntiir eh tixojoow taq, tyuq taq, ¡alegre!,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE> man nimq'iij tjt'iya' ójor, tjt'iya' como seis dias, seis dias casi jun semana, eh tyuq taq, alegre, txojoow taq, ¡vedaa!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE> pero loq'ori ya no, ya &lt;x&gt; también xk'isi'n, xchupVR jwiich juntiir li, entoces si, ya na tqan luchar, pero ya</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE> ya no con mucho interes también, como que ya ... y también que como ta' chki' puwaq, &lt;aah&gt; ta' chki' chaak, juntiir li,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE> y es por eso que kristyan ya xna' taq pensar, ¡tinb'an gastar nri!, mejor ta'an gastar infamilia, oooh qleen, tiloq' jun qleen we, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE> aaah</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE> ese es el, el caso chik jun ... toces &lt;eeeh&gt;,  eeeh  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE> ri' tinb'ij iin pues vaaa de que lastima ksachVR jwiich juntiir li, aaah y ojala que algún día pues  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE> eeeh de repente wi' jujun tb'now rescatar eeeh vaaa talvez &lt;tq&gt;tqila' chki na o ya no va, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE> pero &lt;re el fut&gt;, digamos k'is nen k'is petzal taq chiqij, digamos el futuro, los futuros, de repente vaaa, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE> y el problema ahhh a veces tinb'ijin va, tinb'an pensar, &lt;ya no&gt; ya no es posible, porque loq'ori la juventud como que yaaa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE> jalan chaq &lt;i,i,i&gt; ideas o no sé aaah porque cosas, tradiciones como que tra' tri' tran valer, ta chki' tran importar rechaq,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE> aaah</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE> ese es el caso, entonces eeeh iin tinb'ijin a veces aaah es un poco dificil,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE> porque loq'ori tawilt juntiir qetam man tecnología aaah twil maq ék'l de cinco, ya media vez ya retam chap taq jun celular,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE> ya x'óok tqa li man tecnologiy pues yyyyyy averiguando otras cosas,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE> y toces de esa manera pues, yo creo que va ser un poco dificil, eeh  toces eeeh </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE> &lt;yo piens&gt; ri' qe li qas tinb'an pensar tinb'ij chawechaq, es lo único que tinb'an sentir iin pues realmente</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE> re, re qatilmit neri Uspantán. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE> Toces iin kink'amowaj chawechaq, vaaa &lt;y&gt; y que bueno, que bueno que aat taq wi' interes chawechaq &lt;re&gt; re tatijoj awiib'aq re qatziijb'al,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE> aaah, es como en el interes we iin también &lt;in, in, in&gt; inch'a'w ingles, pero &lt;desgra&gt; lastima com ya ooj chaq nim, ta' chki', ya no es lo mismo,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>cuando jun na nuuch' na tk'utsaj chúwch jun aahh entonces si todavía, pero jun ya esta edad ya... </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE> Aaah también pues fijate que iin xin, ha ya xi' chki' jun seis, siete años,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE> xin, jwi'l necesidad, xintok b'ik, xintok b'i inb'ee, xinb'e, xinb'e le chq'aap ojche' ooj re Estados Unidos,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE> eeeh toces eeh wi' necesidad, toces iin xinb'an, xintok b'ik y bueno gracias a Dios xya' oportunidad chwe, ta' nim tiempo xine'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE> a penas uxiib' junab' xine´, uxiib' junab' &lt;y&gt; y bueno xinpe l chaak kla' y gracias a Dios,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE> juntiir tzii tzii x'élk va, porque en el caso tqila' loq'ori tantos problemas, dificultades laq b'ee, ttaw jun </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a108" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE> eh tanto problema, tanto winaq kam taq, wi' ta' ttaw taq va y wi' aaaah </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>  &lt;bueno que&gt;, osea el imigrant pues &lt;ehh&gt; eeeh tna' sufrir jun juntiir umjuju</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a110" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE> toces sí, pues iin gracias a Dios eeh xinb'ne'ch uxiib' junab', y xinpet, com wi' infamilia, tos xintok na infamilia, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a119" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE> toces eeh por eso xinch'ob'ech a jun kiitz atinmitaq, jejejeh, eeeh bonito lugar, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a120" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE> bonito, eh &lt;man&gt; man... ¿nemo jb'ijk? iin tinb'an envidiar atinmitaq, porque wi' jun orden </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>jun orden wi', bonito, kla' ta' ch'o'j, ta' qleen, ¡yaaa! bonit para mi que jun jun... </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a122" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE> pero &lt;li,&gt; tinb'an pensar iin chirij leyaq, chirij aleyaq, en caso qk'il neri ¡hay Dios! </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a123" TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>  eeeh neri Guatemala más cosas tqil, sí, &lt;maq&gt; maq autoridades, digamos &lt;qa&gt;maq q'ab'tziij; </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a124" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE> rechaq tran taq, y nojel tran taq, pero en beneficio rechaq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE> no es en beneficio re jwinaqaq, ¡sí! sino que en beneficio rechaq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a133" TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE> r tran taq chop laq'ori, tran taq loq'ori tch'o'jin taq chrib' puestos políticos, ¡pero por interes!, van por un interes, no es por interes re ajtilmitaq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a134" TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE> aahh &lt;no es un progr&gt; no es interes porque jun tilmit tran progresar, sino que progreso &lt;del&gt; re jbolsa rechaq, aaah </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE> &lt;más&gt; más corrupción y iin ta' tziil twil jlon li. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a136" TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE> Aaah &lt;xin&gt; man chaak, eh xinwesaj maq ab'aj re tkojsaj re maq jaa, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a137" TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE> maq jaa tb'ansaj forrar jaa &lt;maq, maq&gt; maq ab'aj, ja, ah man chaak ko'wi'n ¡hay Dios! es si tremendo, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a138" TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE> ¡sí!  tatija' q'iij, tatija' jaab', &lt;tatj&gt; tatija' chuun también, ¡sí!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a139" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE> sí, bonito, y gracias a Dios de que xintaw xin'óok li chaak desde que xin'élch. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a140" TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE> Wi' jun npatrón eeeh digamos &lt;a,a&gt; awinaq aat taq, kuxtaj inwi'l aaah buena gente man wunaq, buena gente man patrón, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE> ji' y que eh juno li pues,  jri' li &lt;xinb'an&gt; xinb'an iin, ji´</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a149" TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE> toces unicamente riq li tinb'ij chawechaq, y k'omo chawe, k'omo chawechaq.  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Este, les voy  a relatar un poco a ustedes, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> eeeh antes en nuestro pueblo, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> era muy alegre, alegre cuando venía la fiesta de mayo (feria)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> eeeh habían muchas cosas que se hacían pues, eeeh había fiesta, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> este, pero lamentablemente que ahora se perdió un poco, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> un poco de tradiciones porque antes cuando yo crecí, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> eh talvéz mi edad era de ... ahhhh ocho o nueve años, de siete a ocho, nueve años, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> había un baile, un baile, una tradición digamos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> este, lastima que desapareció, ya no está, ya no lo practican, se perdió,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE> y no solo yo lo digo, sino que somos varios los Uspantekos que decimos, que lastima que ya no está (el baile),  va&lt;aa&gt;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a163" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE> y entonces nosotros ahora les comentamos a los niños, pero ellos preguntan y ¿cómo? ¿qué es lo que hacían? y todo,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE> aaah</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a165" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE> pero lastima que ya no, que ya no se vió, que ya nadie se interesó en presentar el baile,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE> y bonito porque ... en cambio ahora lo que hicieron pues, ya sacaron otro baile, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a167" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE> pero a mi no me parece, porque es como que digamos eeeh digamos tradiciones brasileñas a todo eso, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE> porque los disfraces que usan ya con plumas y tanta cosa, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a169" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE> entonces a mi eso no me parece, aaah pero bueno ahi si que</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE> ehhh hay personas, hay algunos que dicen va, que estan haciendo algo para fortalecerlo otra vez,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a171" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE> pero dice que es un poco dificil, ya solo lo desean, pero ya no lo hacen. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a172" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE> neee</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a173" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE> Entonces hay más cosas también, hay otro baile que desapareció,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a174" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE> y quizás no hace mucho tiempo lo revivieron, quisieron rescatarlo, pero como que ya no hubo mucho interes, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a175" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE> y el baile se llama Los Sacatunes y ese baile pues también era bonito verdad, eh se trataba de cacería,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a176" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE> cacería en todas las montañas, pero lamentablemente ya desapareció también,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a177" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>y ahí todavía intentaron luchar para rescatar el baile, pero como ya no había interes verdad,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE> y es por eso que ya no, que ya no se pudo pues. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a179" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE> Y también eeeh antes era alegre, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a180" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE> yo crecí eh había muchas fiestas, pero grandes y todas las personas, aldeas,todas venían aquí,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a181" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE> y era una gran felicidad, porque todas las aldeas se encontraban aquí, venían, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a182" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE> eh había baile, había marimba, todos eh bailaban, venían, ¡alegre!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a183" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE> la fiesta antes duraba, duraba como seis dias, seis dias casi una semana, eh venían, alegres, bailaban, ¡verdad!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a184" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE> pero ahora ya no, ya también se terminó, se desapareció todo eso, entonces sí, ya lucharon, pero ya </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a185" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE> ya no con mucho interes también, como que ya no ... y también como ya no hay dinero, ya no hay trabajo, y todo eso, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a186" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE> y es por eso que las personas ya se pusieron a pensar, ¡voy a gastar esto!, mejor lo voy a gastar en mi familia, oooh en una cosa, me compro una mi cosa, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a187" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE> aaah</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a188" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE> ese es el, el otro caso, eeeh,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a189" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE> eso es lo que yo digo pues verdad que lastima desaparezca todo eso, aaah y ojala que algún día pues </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a190" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE> eeeh de repente que haya alguien que rescate eeh vaaa talvez lo veamos todavía o ya no va, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a191" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE> pero, digamos los que vienen después de nosotros, digamos el futuro, los futuros, de repente vaaa, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE> y el problema ahhh a veces yo digo va, me pongo a pensar, ya no es posible, porque ahora la juventud como que ya</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE> son distintas sus ideas o no sé aaah porque cosas, tradiciones como que ya nos les vale, ya no les importa a ellos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE> aaah</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE> ese es el caso, entonces yo digo a veces aaah es un poco dificll, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE> porque ahora ya ve que todos sabemos de la tecnología aaah veo los niños de cinco años, media vez sepan usar un celular, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE> ya entraron a la tecnología pues yyyyyy averiguando otras cosas, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE> y entonces de esa manera pues, yo creo que va a ser un poco dificil, eeh entonces eeeh</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a199" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE> solo es eso lo que pienso decirles a ustedes, pues es lo único que yo siento realmente</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE> de nuestro pueblo de aquí Uspantán. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE> Entonces yo les agradezco a ustedes vaaa y que bueno, que bueno que ustedes tengan intereses de aprender nuestro idioma,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE> aaah, es como mi interes también, el hablar ingles, pero lastima como ya estamos grandes, ya no,  ya no es lo mismo, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a203" ANNOTATION_REF="a98">
+                <ANNOTATION_VALUE> que cuando de pequeño se le enseñan a uno aahh entonces sí todavía, pero uno ya con está edad ya no...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE> Aaah también pues fijate que yo, ha ya pasaron unos seis, siete años, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE> por la necesidad, busqué, busqué mi camino, fuí, fuí al otro lado como nosotros le decímos a Estados Unidos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a105">
+                <ANNOTATION_VALUE> eeeh entonces eeh había necesidad. entonces yo lo hice, lo busqué y bueno gracias a Dios que me dió la oportunidad, no fuí a hacer mucho tiempo, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a106">
+                <ANNOTATION_VALUE> a penas tres años fui a hacer, tres años y bueno fui a trabajar allí y gracias a Dios, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a107">
+                <ANNOTATION_VALUE> todo salió bien bien va, porque los casos que vemos ahora tantos problemas, dificultades en el camino, para que uno llegue </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a209" ANNOTATION_REF="a108">
+                <ANNOTATION_VALUE> eh tanto problema, tantos hombres que se mueren, que no llegan va y hay aaaah </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a109">
+                <ANNOTATION_VALUE> osea que el inmigrante eeeh sufre de todo, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a211" ANNOTATION_REF="a110">
+                <ANNOTATION_VALUE> entonces sí, pues yo gracias a Dios eeh fuí a hacer tres años, y me vine, como tengo mi familia, entonces tuve que buscar a mi familia,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a119">
+                <ANNOTATION_VALUE> entonces eh por eso fui a conocer un poquito el pais de ustedes, bonito lugar, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a213" ANNOTATION_REF="a120">
+                <ANNOTATION_VALUE> bonito, eh el... ¿cómo se dice? yo envidio el pais de ustedes, porque hay un orden,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a121">
+                <ANNOTATION_VALUE> hay un orden, bonito, allí no hay peleas, no hay cosas, ¡yaaa! bonito para mi que un, un...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a122">
+                <ANNOTATION_VALUE> pero yo pienso que es por las leyes, por sus leyes, en caso de aquí con nosotros ¡hay Dios!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a123">
+                <ANNOTATION_VALUE> eeeh aquí en Guatemala vemos muchas cosas, las autoridades, digamos las autoridades;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a217" ANNOTATION_REF="a124">
+                <ANNOTATION_VALUE> ellos hacen, y todo lo que hacen, es pero en beneficio de ellos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a125">
+                <ANNOTATION_VALUE> no es en beneficio de sus habitantes, ¡sí! sino que en beneficio de ellos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a219" ANNOTATION_REF="a133">
+                <ANNOTATION_VALUE> como lo están haciendo ahora, están ahora peleando por puestos políticos, ¡pero por interes!, van por un interes, no es por interes de su pais,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a220" ANNOTATION_REF="a134">
+                <ANNOTATION_VALUE> aaah no es un interes porque un pais pueda progresar, sino que progreso para las bolsas de ellos, aaah </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a221" ANNOTATION_REF="a135">
+                <ANNOTATION_VALUE> mucha corrupción y yo no lo veo bien de esa manera.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a222" ANNOTATION_REF="a136">
+                <ANNOTATION_VALUE> Aaah el trabajo, eh saqué piedras que se usan para las casas,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a223" ANNOTATION_REF="a137">
+                <ANNOTATION_VALUE>  las casas se forran con las piedras, aaah el trabajo si que es duro, ¡hay Dios! ese si es tremendo, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a138">
+                <ANNOTATION_VALUE> ¡sí! se sufre de sol, se sufre de lluvias, se sufre de hielo también, ¡sí!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a225" ANNOTATION_REF="a139">
+                <ANNOTATION_VALUE> sí, es bonito y gracias a Dios desde que llegue entre al trabajo hasta que salí.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a226" ANNOTATION_REF="a140">
+                <ANNOTATION_VALUE> Había un patrón eh digamos un estadunidense, que me recuerdo aaah buena gente el hombre, buena gente el patrón, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a227" ANNOTATION_REF="a148">
+                <ANNOTATION_VALUE> ¡sí! y que así fue pues, lo que yo hice, ¡sí!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a228" ANNOTATION_REF="a149">
+                <ANNOTATION_VALUE> entonces únicamente eso les quiero compartir a ustedes y gracias, gracias a ustedes. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

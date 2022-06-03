@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-02T12:30:57-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Origen del nombre de San Miguel Uspantan.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Origen del nombre de San Miguel Uspantan.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:1a23eda7-38af-46ba-a366-3a1dfb1b23c6</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">85</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="6480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="6790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="12300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="12600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="20290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="20610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="28760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="29140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="38010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="38240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="49480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="49960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="54030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="55000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="64560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="65230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="72540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="73310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="84050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="84315"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="93680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="94010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="101500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="101800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="110990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="111390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="120200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="120420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="130710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="131280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="142550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="143190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="152790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="153390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="164580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="164940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="176310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="176440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="179740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="179915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="181765"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="M.D.V" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> K'amtzáwch ataq qawáxk nen tjta' taq qatziij re loq'laj ch'iich' ri; </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> lajori tinmaj ch'awem chrij nimo xka'el jb'ij qatinmit San Miguel.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> Ójr taq tziij tjyol inmaam chwe, wi' jun ra tyoox jb'ij San Andrés y jun ra tyoox jb'ij San Miguel Arcángel,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> rechaq tch'o'jaj taq qatinmit, San Miguel Arcágel xtaw nikali la'  jun ra tinmit jb'ij San Andrés,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> y ra tyoox San Andrés re re ya wi' chaq, chapol chaq loq'laj tinmit jwi'l, xmaj taq jun ch'o'j ente rechaq,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> y jinoli xpe ra tyoox &lt;san&gt; San Andrés xtaqch &lt;ra, san&gt; ra tyoox San Miguel Arcángel xtokik jun jtinmit chik, xpe loq'laj tyoox San Miguel Arcángel,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> xpe re re, xyuq neri laj qatinmit;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> re re xwa'r la' jun nimlaj ab'aj, loq'laj ab'aj tka'el jli San Antonio Chiquito, wi' jun nimlaj ab'aj kla', ra tyoox li xuxlan kla', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> xook xtokik lamas tika'eloq la' jun ra wiitz lamas wi' kristyan nen tilow re.  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> Xe' re re San Miguel Arcángel ji' xek'alji'n la' ra wiitz jb'ij B'aa Kameb', kla' li xtawk re re, wi' jun winaq xjrene' jsii',  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>  xtaw, ri xril t'ojol &lt;jun&gt; jun wunaq kla' ch ralaj loq'laj chee', ¿nen xench wunaq? xeelch, xjtok'e jpech, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>  sik'ij taq qachuuch-qaqaaj chjrilik nen chkili jun wunaq t'ojolch ralaj chee', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> y xpe taq, xjsik'ij taq ni'j ajwinaqil chik, xtaw taq, xjrile' taq, ri' xril taq ri ra tyoox,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> xch'a'b'ej taq, loq'laj tyoox kita' tb'it, xpe rechaq xmol rib'aq, xkoj taq loq'laj poom, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> y ta' tb'it, xkoj taq saq chaj, xjme' taq kante'l, xkoj taq chuch, jinon li ta' raj xb'it; lo que nen xan rechaq </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>  xmol ribaq, xij taq: tiqesaj jun puq ajxojooj ajb'ij Mexicano; xchojow taq chuch, loq'laj tyoox ta' raj tb'it,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> ¿nen xan taq? xan taq jun xjooj Patzka'r, xmol rib'aq, xan taq jun loq'laj xjooj chuch loq'laj tyoox, ri chaq tril taq   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> loq'laj tyoox xb'itmajch, sub'laj content taq rechaq, xpe taq, xb'an taq jujuj &lt;eh&gt; xqej taqch loq'laj &lt;eh&gt; tinmit B'aa Kameb', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> xqej taqch laj qatinmit y com qatinmit kita' jb'iij, kla' li xelexch jb'ij San Miguel Arcángel, jinon li qatinmit xkan kojsaj b'ij San Miguel Uspantán, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> jwi'l kar'e loq'laj tyoox San Miguel Arcangél. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> K'omo taq chinta'ik. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="M.D.V" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Una buena tarde para ustedes quienes escuchan nuestro idioma por medio de está grabación;    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> ahora quiero empezar a relatar como fue que le quedó a nuestro pueblo como nombre Sam Miguel.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> Antes mi abuelo me relataba, que había un imagen que se llamaba San Andrés y otra iamgen que se llamaba San Miguel Arcángel, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> ellos peleaban nuestro pueblo, San Miguel Arcángel ya había llegado a un pueblo llamado San Andrés, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> y la imagen de San Andrés ya estaba ahí, ya había agarrado ese pueblo, empezaron una pelea entre ellos,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> y de esa manera fue que la imagen de San Andrés envió a la imagen de San Miguel Arcángel a buscar otro pueblo, y se vino San Miguel Arcángel,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> él se vino  y llegó aquí a nuestro pueblo;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> él se paró en una gran piedra, esa sagrada piedra queda en San Antonio Chiquito, allí hay una gran piedra, la imagen descansó allí,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> empezó a buscar donde quedarse, una montaña donde hubieran personas que lo vieran.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> Se fué San Miguel Arcángel a aparecer en un montaña llamada B'aa Kameb', allí llegó él, dondé había un hombre que había ido a hacer leña,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE> cuando llegó, vió que estaba tirado un hombre allí debajo de un árbol sagrado, ¿qué hizo el hombre? salió, fue a buscar compañeros,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE> llamaron a nuestros padres a ver quien era ese hombre que estaba tirado debajo del árbol,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE> y vinieron, llamaron a otras personas, llegaron, fueron a ver, cuando vieron era una imagen,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE> le hablaron, la imagen no se levantaba, ellos se reunieron, usaron incienso,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE> y no se levantó, usaron hojas de pino, fueron a traer candelas se las pusieron frente a él, ni de esa manera quiso levantarse, lo que hicieron ellos</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE> se reunieron, dijeron: saquemos un grupo de bailadores que se llaman Mexicano; bailaron frente a él, el santo no quiso levantarse,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE> ¿qué más hicieron? hicieron un baile de los sacatunes, se reunieron, hicieron el sagrado bailes frente a la imagen, cuando vieron </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE> se levantó la imagen, se pusieron muy felices ellos, vinieron e hicieron un... bajaron al pueblo desde B'aa Kameb',  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE> bajaron a nuestro pueblo y como nuestro pueblo no tenía nombre, fue ahí donde nació el nombre de San Miguel Arcángel, y de esa manera a nuestro pueblo le dejaron puesto como nombre San Miguel Uspantán,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE> por el la imagen de San Miguel Arcángel. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE> Gracias por escucharme. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="M.D.V" TIER_ID="Descripción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Tyoox / Imagen o Santo. En la Religión Católica a las imagenes sagradas se les consideran Santos.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> San Andrés un municipio vecino ubicado al sur de Uspantán.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> El municipio vecino se llama San Andrés Sajcabja en honor a la imagen de San Andrés. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> San Antonio Chiquito, caserío aledaño al sur de la cabera municipal de Uspantán. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> En realidad B'aa Kameb'  no es una montaña, ni un cerro; es una aldea que actualmente se le llama Buena Vista, que queda al Sureste del centro de Uspantán.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE> Poom / incienso, elaborado con la trementina de un árbol, utilizado en distintas actividades culturales.    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE> Saq chaj o Xaq chaj que significa hojas de pino, es un elemento natural muy utilizado como adorno en fiestas, que es regado sobre la tierra o piso. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE> Baile Mexicano, un baile muy tradicional en la feria de Uspantán, pero que no es propio de la cultura Uspanteka.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE> Patzka'r / Sacatunes, baile tradicional y propio de la cultura Uspanteka,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE> B'aa Kameb'/ Aldea Buena Vista</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE> Se le llama San Miguel Uspantán al municipio en honor a San MIguel Arcángel, el cual se le considera el patrón del pueblo, celebrando actividades festivas en el mes de mayo.    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

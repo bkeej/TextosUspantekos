@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-02T13:16:40-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Relato personal C.R.M.R..mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Relato personal C.R.M.R..mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2b20d184-b0f4-4b72-ba8c-e267e928c86a</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">99</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="11000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="11510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="22100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="22500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="32300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="32810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="43610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="44000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="55450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="55620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="65490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="66400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="77010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="77200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="87710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="88000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="98510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="102810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="113810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="128300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="137800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="137890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="146090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="152700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="161500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="161900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="173020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="173490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="186490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="186670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="194810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="204900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="215210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="215400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="223010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="234000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="249990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="256620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="264310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="268800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="280920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="281000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="288510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="296500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="306990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="307500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="321500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="325280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="330390"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="C.R.M.R" TIER_ID="TRANSCRIPCIÓN">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> K'amtzáwch, ínb'j: Claudia Romelia Mulul Reynoso y jb'iij: inqaaj Marcos Mulul Méndez, &lt;jj&gt;jb'iij: inchuuch Petrona Reynoso Sajbín. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> Re jun aq'ab' ri' chwaj inyeloow ák'laq chib' qanimq'iij re Kurexm, tcholmaj b'i rk'il lunes santo, chuch qamaam qatiit'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> Ójr taq tziij lunes santo ya eh man semana re kurexm ari' chaq &lt;j&gt;jun semana por eso jb'iij semana santa &lt;lll&gt; l kaxlan, chuch qamaam-qatiit' ari' ri'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> ta' chki' qus tansaj &lt;ah&gt;k'ax re tral ék'l, ya, ya jun man semana li, ya rechaq tra jun semana sagrada tqab'ij re, ta' chki' looq' ojsak'on, ta' chki',   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> ta' chki', ta' chki' tqab'an k'ax qiib' martes santo, lunes santo, miércoles santo hasta sábado de gloria,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> eh por ejemplo este rech eh viernes santo ari' &lt;cha&gt;chokon ojb'e l procesión, tansaj procesión, tansaj alfombras,     </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> y sábado de gloria tna'r chuch qaaj Dios, &lt;xx&gt;xna'r eh más que todo gloria che' taq re, toces kla' tna'r chuch qamaam-qatiit' eh </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>  chuch rechaq ójr ojsek'saj &lt;tz&gt; porque tna'r gloria, y ya l domingo, eh ya domingo de resurección che' taq re l kaxlan porque&lt;eee&gt; </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> ya xna' eeeeh qaqaaj Dios ya xk'ataji' jwiich, ari' li &lt;t&gt; ari' li jchokon ju rech kurexm.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> Bueno l Kurexm como costumbre rech qamaam-qatiit' tijsaj eh kaxlanwaa, tijsaj kaab', tijsaj maatz', saq kinaq' pach pacaya. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> Bueno &lt;en&gt; entre chqáwch ooj pues como qawinaq rech Tz'unun Kaab' tjiin tqa'an na, pero ya no ari' ta' chki' nemo qamaam-qatiit' ójr taq tziij </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> juntiro tran taq, ya chqáwch ooj lajori casi ni'j costumbre ya xsachi'n, xi' chaq ni'j tkuxtaj na qawi'l lo que tjiin tqa'an.  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> Bueno niri laj qatinmit Tz'unun Kaab' casi wi' chik nimq'iij, petzal chik jun nimq'iij re san Miguel, que tansaj e&lt;lll&gt;l </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> seis, el siete, el ocho de mayo nimq'iij patron re niri san Miguel Arcángel, por ejemplo: el seis tansaj desfile, tansaj   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> &lt;eee&gt;eh diferentes actividades y la' el siete xojooj rech convite, bueno ójr taq tziij wi' xojooj oh venado, xojooj re conquista, pero lajori   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>  lastimosamente que ya tjiin tsach costumbre, pues xi' chaq re convite, rech eh k'atem&lt;mm&gt; wakx aj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> Sí tqab'ana'n, oj'eel&lt;lll&gt;, bueno más que todo como niri, niri laj qatinmit wi' kiib' nimq'iij tansaj, wi' chik jun re san Miguel rech septiembre, toces   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> ooj tqab'an particpar l convite rech el 28 de septiembre, oj'eel li xojooj.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> Bueno inqaaj-inchuuch rechaq ajnimq'iij tqan, por ejemplo inpapá ójr también esal li convite, toces rechaq conten tqan que ooj tqab'an participar rk'ilaq rechaq nenoq tikewnaq taq aah rech asociación.  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> Tjini'n, tra wik'lali'n tjiin tinch'ab'ej taq, &lt;t'&gt;rechaq tyolow taq l Uspanteko, l kich'e y l kaxlan. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> Porque ari' qayólj re qatinmit re Tz'unun Kaab', &lt;j&gt;jyólj qamaam-qatiit', entoces ooj rajwax ta' tqasch qa. . . ta' tqasach qayólj porque ari' li qab'antájk chuch tinmi, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> entoces ta' tkan qasache' qayólj como Tz'unun Kaab' &lt;qa&gt; &lt;qa&gt; qaya' na k'utu'n chuchaq qalk'uwal rech tyolow taq laj qayólj.   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> Bueno chinchin eh ta' &lt;t&gt; lok ti'an recomendar rechaq juntiro qaaj-chuuch, pues que tk'ute' taq qayólj, ta' tkajye' taq chirij porque qayólj ari' li rajwax chuch q. . .   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> chuch qatinmit, ta' tkan qasche' porque&lt;eee&gt; casi la mayoría ta' chki' tyolow taq laj qayólj, pero nemo lajori rk'il tral qalk'uwal, tqak'ute' chúwchaq pues, ojyoloow laj qayólj par que, para que ta' tsach jwiich qayólj re Tz'unun Kaab'. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE> Eh k'omo chawechaq xinatatb'ej taq lajori. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="TRANSCRIPCIÓN" PARTICIPANT="C.R.M.R" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Buena noche, mi nombre es: Claudia Romelia Mulul Reynoso y mi papá se llama: Marcos Mulul Méndez, mi mamá se llama: Petrona Reynoso Sajbín.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> En esta noche quiero hablar con ustedes sobre nuestra fiesta de Semana Santa, empieza con lunes santo, para nuestros abuelos,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> En el pasado lunes santo ya era parte de la semana santa, es una semana por eso se le llama semana santa en español, para nuestros abuelos</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> ya no era bueno hacerles daño a los niños, ya esa semana, ya era para ellos una semana sagrada podríamos decirle, ya no podíamos golpear, ya no,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> ya no , ya no nos podíamos hacer daño martes santo, lunes santo, miércoles santo hasta sábado de gloria,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> eh por ejemplo para viernes santo se necesario que vayamos a la procesión, se hacen procesiones, se hacen alfombras,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> y sábado de gloria se muestra ante nuestro Dios, apareció más que todo en la gloria decían ellos, entonces ahí aparece ante nuestros abuelos eh </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> ante ellos antes nos pegaban porque así se podía ver la gloria, y ya en el domingo, eh ya es domingo de resurección a como le dicen en español porque </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> ya hizo eeeh nuestro Dios ya despertó, eso es lo que se necesita para la semana santa. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE> Bueno en la semana santa como la costumbre de nuestross abuelos se como eh pan, se come miel, se toma atol de masa, frijos blanco con pacaya. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE> Bueno entre nosotros pues como paisamos de Uspantán aún lo estamos haciendo, pero ya no, ya no a como nuestros abuelos antes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE> que todo hacían, ya entre nosotros ahora ya casi algunas costumbres ya se perdieron, ya solo de algunas nos recordamos que son los que estamos haciendo,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE> Bueno aquí en nuestro pueblo de Uspantán ya casi habrá otra fiesta, ya viene una fiesta de san Miguel, que se va a hacer el   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE> seis, el siete y el ocho de mayo la fiesta del patrón de acá san Miguel Arcángel, por ejemplo: el seis se hace el desfile, se hace  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE> eh diferentes actividades y en el siete baile de convite, bueno antes había baile del venado, baile de la conquista, pero ahora</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE> lastimosamente que se están perdiendo las costumbres, pues ya solo queda el convite, la quema de toritos,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE> Sí participamos, salímos, bueno más que todo como aquí, aquí en nuestro pueblo son dos fiestas las que se realizan, hay otro para san Miguel en septiembre, entonces   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE> nosotras participamos en el convite del 28 de septiembre, salimos en el baile.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE> Bueno mi padres son de fiestas, por ejemplo mi papá antes también salía en el convite, entonces ellos felices que nosotras participemos con quienes sembraron la asociación.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>  Lo estoy haciendo, a mis hijos les estoy hablando, ellos hablan en Uspanteko, en kiche y en español. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE> Porque ese es nuestro idioma de Uspantán, es el idioma de nuestros abuelos, entonces es necesario que nosotros no perdamos nuestro . . . no perdamos nuestro idioma porque es ese nuestra cultura ante el pueblo, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE> entonces no dejemos perdido nuestro idioma como Uspantekos debemos de dar el ejemplo ante nuestros hijos para que hablen en nuestro idioma. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE> Bueno para mi eh no, lo que yo recomiendo a todos los padres, pues que enseñen nuestro idioma, que no lo dejen atrás porque nuestro idioma es lo necesario ante , , ,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE> ante nuestro pueblo, no lo dejemos olvidado porque casi la mayoría ya no hablan en nuestro idioma, pero así como ahora con nuestros hijos enseñémosles pues, hablemos en nuestro idioma, para que no desaparezca nuestro idioma de Uspantán. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE> Eh gracias a ustedes que me escucharon en este momento. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="TRANSCRIPCIÓN" PARTICIPANT="C.R.M.R" TIER_ID="Descripción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> Kurexm quiere decir: semana santa. En esta semana se celebra como homenaje a Jesucristo por haber entregado su vida en la cruz del calvario en señal de amor por la humanidad. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> Las festividades familiares en semana santa empiezan desde lunes hasta domingo, es una semana completa de convivencia y de paseos. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> Para viernes santo la iglesia católica promueve las proseciones y la exhibición de alfombras, durante el recorrdio de la procesión. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> En este día se considera que nuestro Señor Jesucristo se presenta en la gloria ante su padre nuestro Dios.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> En este día domingo se celebra la resurección de Jesucristo, quien venció la muerte, para sentarse a la diestra del Padre.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE> La pacaya es un fruto comestible, tradicional para la semana santa, se prepara envuelto en huevo acompañado de frijol blanco, es un platillo tradicional de la cultura uspanteka.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>  En el baile de la conquista se representa la invasión de los españoles en el territorio guatemalteco. En el baile del venado se representa la disputa entre los cazadores y los animales salvajes, en este caso los venados.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE> Se le llaman toritos a unos fuegos pirotécnicos, que son muy comunes en las ferias patronales, que tienen la forma de toro, pero repleto de pirotecnia.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE> En Uspantán se realizan dos ferias patronales, uno en mayo y la otra en septiembre. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE> Convite se le llama a un tipo de baile, en la que los integrantes utilizan disfraces representando a personajes, bailan a ritmo de marimba por medio de coreografias. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE> En Uspantán existen asociaciones quienes se encargan de la logística y ejecución de actividades patronales. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE> En Uspanteko para referirse al idioma K'iche' se dice K'ich. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

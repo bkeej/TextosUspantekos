@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-02T12:31:59-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Loq'laj wiitz Xoqoneb'.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Loq'laj wiitz Xoqoneb'.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c19db257-37d2-4d9f-83a5-590dda430856</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">74</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="11810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="12260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="22000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="22700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="33580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="33960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="44310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="44880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="56380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="56570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="66000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="66690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="77480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="77910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="88730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="89710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="100047"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="100280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="110390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="110690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="119815"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="119950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="123590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="124400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="134980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="135080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="145010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="145400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="156590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="157580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="167010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="167190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="175980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="176400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="185000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="185660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="189400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="190040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="199000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="199550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="207990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="208420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="211980"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="M.D.V" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> Lajori tinyol chik jun chik chawe taq, re loq'laj wiitz Xoqoneb', ajb'iij li tb'in Xoqoneb' jun ánm ni'n.    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> Loq'laj wiitz li xka'el jb'ij jno li, jwi'l jun ánm sub'laj tkunin, jun ánm xka'el kla' ra ra wiitz li, xtáwk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> kla'; ra ra wiitz li wi' k'ii qleen re tkunsáj kristyank, re re ajkuni'n, xtaw, per xaq ta re re, wi' chik na jun jpech jb'j wunaq,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> re re loq'laj kan, loq'laj wiitz li sub'laj eh nim qleen trran; kan jun kometz,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>  Xoqoneb' jun ánm, li rechaq li, sub'laj wi' taq laj wiitz li, jwi'l nikali, &lt;tib'ensa&gt; pe taq qamaam-qatiit' b'ijrrene' taq chaak   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> nimo tb'ij taq li kaxlan ceremonia maya, &lt;b'ij eh&gt; tik'amowaj taq re qajaw,  jwi'l qleen ya'l jwi'l rechaq.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> Jinon li &lt;x&gt; oxlajuuj&lt;uj&gt; junab' lajori, wi' jun kristyank kita' tjkoj la wiitz li, &lt;t&gt;nimo tb'ijsaj l kaxlan, milagros che' taq re;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> loq'laj wiitz li; wi' jun ra ék'l ta tkojon chuch jqaaj, ta tkojon chuch ajchuuch, ¿nen xan re re? xtaw taq jun puq ajkristyan chi jkojik kotz'ii'j,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> ¿nen xan lorra ék'l li? ta' raj xtij jwaa k'il yaq kristyan, raj re re tb'e chi rchooch, xpe rtzal xmaj jun yoq'oj    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> re loq'laj wiitz, y ¿nen chik xan ra wunaq? xkan tz'apiroq kla', jwi'l nikal ajteew xpej qachuuch  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>  jinon qaqaaj kan che', xjk'am taq b'ik laj santiil, xk'am taq b'ik laj santiil ra wunaq xkan tz'apiroq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> la' nimlaj ab'aj wi' kla' re Xoqoneb'. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> Y jinon li xan taq rechaq, titokon taq re ra wunaq, tokon taq re ra wunaq, kita' chki'n, tjta' taq:  ¿lamas k'u ri xe'w ri ék'l? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> y r ék'l tz'apil la' li nim ab'aj, xpe rechaq xtaq taq xaq rich'ixikaq chjta'ik neri il, si xyuqVR ra ék'l </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> y kita' ék'l xyuq laq tinmit, jinon li rechaq xmol rib'aq k'ii yaq ajq'iij xij rechaq: ra ék'l leri xkan tz'apir la' loq'laj ab'aj.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> Loq'laj ab'aj li ra nuuch'VR jwiich, xpe taq rechaq  xkoj taq kotz'ii'j, xch'ab'ej taq ajq'opoj re Xoqoneb', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> jinon re wunaq re kan, jun kometz; xch'ab'ej taq, xta' taq kuyb'al jmaak re yaj ék'l juert xyoq'on rechaq,      </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> y jinon li loq'laj ab'aj xtormaj jwiich y xook taq b'ik: ajq'iij, ajqaaj, ajchuuch ra ék'l </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> xijte' taq, ra ék'l wi' ch ralaj ab'aj;  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> nimo tjyol taq rechaq, ch ralaj ab'aj li, jta'ik wi' jaa', ta'ik wi' taq ra ka'n tich'aw taq xijl.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> Ri ni kali xkan kojsaj b'ij Xoqoneb', sub'laj wiitz li nim  jnimal, xaq ta jyoq'ik tiqab'en. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> Nimlaj tik'amowaj chawe taq cha jta'ik intziij. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="M.D.V" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Ahora voy a relatarles otra, es sobre el sagrado cerro de Xoqoneb', su nombre Xoqoneb' fue por una mujer.    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> A ese sagrado cerro le quedó su nombre así, por una mujer que curaba mucho, una mujer que se quedó en ese cerro, llegó </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> allí; en ese cerro hay muchas cosas para curar a las personas, ella era curandera, llegó, pero no solo ella, sino que tenía otro compañero que se llamaba hombre,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> él era el sagrado Kan, ese cerro sagrado hace muchas cosas grandes; kan es una serpiente, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> Xoqoneb' una mujer, por ellos es que se están muchos en ese cerro, por eso van nuestros abuelos a hacer trabajos </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> como se le dicen en español ceremonias mayas, agradecen a nuestro Dios, por todas las que ellos han recibido. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> De esa manera ya hace 13 años ahora, había una persona que no creía en ese cerro, como le dicen en español, en los milagros le dicen;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE> del sagrado cerro; había un niño que no le hacía caso a su papá ni a su mamá ¿qué hizo él? llegaron un grupo de personas a hacer una ceremonia, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE> ¿que hizo ese niño?  no quiso comer con las personas, él quería irse a su casa, se enojó, empezó a maltratar </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE> al sagrado cerro y ¿qué hizo el hombre? se quedó encerrado ahí, por el aire; vino nuestra madre</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE> y nuestro padre kan dice, se llevaron su espíritu, se llevaron el espíritu del hombre que quedó encerrado </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE> en la piedra grande que esta allí en Xoqoneb'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE> Y así lo hicieron ellos, mientras otros buscaban al hombre, buscaban al hombre, que ya no estaba, se preguntaban: ¿a dónde se habrá ido el niño? </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE> y el niño estaba encerrado en la piedra grande, vienieron ellos mandaron solo a sus familiares a preguntar y a ver aquí, si ya había venido el niño,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE> y el niño no había venido al pueblo, así fue como se reunieron varios guías espirituales y les dijeron: el niño aquí se quedó encerrado en la sagrada piedra. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE> Esa sagrada piedra es muy estrecha, vinieron ellos pusieron ceremonias mayas, le hablaron a la mujer de Xoqoneb', </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE> y al hombre kan, la serpiente; les hablaron, pidieron disculpas en nombre del niño que los había maltratado mucho,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE> y solo de esa manera la sagrada piedra amplió su entrada e ingresaron: guías espirituales, el papá y la mamá del niño, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE> lo fueron a encontrar, el niño estaba debajo de las piedras; </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE> a como ellos lo relatan, bajo las piedras se escucha, que hay agua, se escucha que hay pajaritos que cantan dentro.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE> Por eso fue que lo nombraron como Xoqoneb', pues ese cerro tiene mucha grandeza, por lo que no es nada más que lo maltratemos.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE> Les agrezco mucho por escuchar mis palabras. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="M.D.V" TIER_ID="Descripión">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> Kan / día del calendario maya ch'olq'iij. Que significa: Serpiente emplumada. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> Ceremonia maya es un acto de agradecimiento de las personas a Dios por medio de los elementos naturales; parte de la espiritualidad maya.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE> Kutz'ii'j/ término cultural haciendo referencia a una ceremonia maya.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE> Se les conoce como Ajq'iij  a los guías espirituales, quienes tienen el don de comunicarse con la naturaleza, entre otras virtudes. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-02T13:01:48-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Dos cuentos.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Dos cuentos.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:4a630f3c-a686-429a-a3c2-bf17810c1f64</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">90</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="11010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="11450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="19992"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="20779"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="30016"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="30211"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="39016"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="39045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="47909"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="48398"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="59601"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="59795"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="70515"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="70787"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="80007"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="80398"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="90372"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="90609"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="100516"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="100812"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="111033"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="111338"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="121296"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="121787"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="131711"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="131796"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="141309"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="141499"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="153042"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="153296"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="163012"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="164007"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="174028"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="174194"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="185720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="185906"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="197507"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="198016"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="207993"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="208795"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="220398"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="220999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="231002"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="231582"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="240600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="240690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="249003"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="249685"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="259006"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="259321"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="269338"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="269813"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="279995"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="L.V.M" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> Xi' q'iij, lajori tinyol re jun nunaq xxxjtij rámn jchuuch, ri' li xyol &lt;inna&gt; inchuuch chwe, dice que wi' jun nunaq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> jqaaj tk'omsaj b'i re', com jqaaj raj re tk'om b'i l sii' y re re kita' re raj, toces tpe jchuuch t'ij re re jqaaj: -kanye' kla', re re kita' raj t'ek-</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> tonces siempre jchuuch tkoj re riib', toces ta' t'e, ta' re t'e man nunaq, tos man nunaq nunca retam tran sii', b'ay neso xkom jqaaj, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> xta' jun accidente y xkom, toces ri' na jchuuch xkan chi b'anik sii' y toces</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> cada vez que raj que tk'om b'i re man nunaq, man nunaq que kita' re raj t'ek porque xij re: -siempre &lt;aa&gt;que &lt;inp&gt; inqaaj re inajk'om b'ik, aat ta' re chawaj,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> y man naq nada t'ek, va jun q'iij xkwiin xk'om b'ik, xe' man nunaq rk'il, pero com man nunaq ta' raj tran sii' xkomsaj chuuch, xkomsaj, risaj ránm, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> xkram jun nimlaj jul y kan xmuqe' jchuuch kla', xmuqmaj chuuch jwi'l, xranch kiib' jsii' para que ta' tya'saj cuenta re y xk'ol ránm;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> ya después xqejch, ya b'esal q'iij xqejch, tos xtaw chirchooch, t'ij re ranab': -b'ol ko man ri- tze re y ranab' xta' re ¿nen li? tze re, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> eeeh &lt;r&gt; eh ti'niik tze re, entos man ánm y después man ánm xta' re que . . . ranab' xta' re &lt;l&gt;que ¿lamas wi' jchuuch?, xij re ya ahorita tqej, petzali chwij tze re, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> tos man ánm va jiin rilb'ej que tqej chuuch para que tjb'ol re man ti'niik y tril que kita' nada tqejch chuuch, xte' re man jxi'b'al que ¿ramas wi' jchuuch?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> re xij re que, que ya chaq qejch, b'ay xe' hora y nada y nada, xte' chik re otra vez y xij que ya chaq tqejch, xpe man ánm xook chi b'anik xwa'x man ti'niik que supuestamente t'ij re man nunaq </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> cuando x&lt;j&gt;titz' man cuchillo re, tpe man &lt;r&gt;ch'ejej, tos t'ij como ri' ránm jchuuch t'ij: -ta' inakoms, ta' ta'an k'ax chwe mija, iin a mamá- tze, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> tonces man ánm xtzaq ch'ool, xte' re jxi'b'al que ¿nen li? xpe man nunaq xij re que xkomsaj jchuuch, xpe man ánm li xta' jno li, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> sik'ij q'ab'tz'iij chrij, chrij ma jxi'b'al, xtaw jk'omik, xk'omsaj b'i l carcel y primero xsek'saj na, &lt;xx&gt;xb'ensaj l calle, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> xansaj, xsek'saj na b'ik, pués xe' l carcel. Ri' li por eso tqa, ri' qus tqakoj qaqaaj, qachuuch para que ta' tqa'an chopka' re' wunaq xtij b'i ránm jchuuch.  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> También tinyol de jun, de, de jun ánm ta' raj maq ra ral, maq ra rik'l eeh ralk'uwalb', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> entonces man ánm li, wi' maq ra ék'l, xkom taq, xkom jmamá, y entos xpe jqaaj xk'om chik jun ánm, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> y maq ra ék'l va wi' taq kla' y tpe man ánm com ta' jgan, tonces xpe jun q'iij xchomsaj:-tink'om na b'ik maq ék'l li, tinsach'ech taq haber lamas- tche'm,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> xk'om b'i maq ra ék'l, xa b'i jb'aa'aq, xe' taq y xe' taq l jun nimlaj bosque, xtaw taq kla' y xpe maq ra ék'l xretam, xta' tqan que raj que tesachaj taq,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> tos xk'om taq b'i íxiim, toces com b'esal chrij man chchu', maq ra ék'l kan tzaqe' taq &lt;ch&gt;, kan tzqe' taq íxiim l b'ee para que ta' tsach taq, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> xpe man chchu' xij rechaq xtaw taq kla', t'ij: -inawb'ej taq neri ya ahorita inpet xaq tintoke'ch nik' wron- tze re, kan taq maq ra ék'l kla', xkub'ur taq, til taq que ya xi' q'iij y nad taw man chchu',</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> xpe man chchu' ran &lt;pens&gt; nad taw, xkan taq kla', trilb'ej taq, cuando chri' xpe pues man chchu' xq'aj chirchooch t'ij: -hay lajori si ya xinkwini tz sachik &lt;maqat&gt; maq ék'l li-</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> y ya xpe maq ra ék'l xye' taq cuenta re que ya chaq t'ook aq'ab', xq'ajch taq, como xkan tzqe' taq íxiim laq b'ee y kan xtzeqe' taq íxiim, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> cuando xtaw taq maq ra ék'l la jaa, re re taq va tijtij taq re' jwaa'aq y como man ánm li ta' re' ttzuq maq ra ék'l, como ta' re raj maq ra ék'l,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE> tonces xtaw taq &lt;chu xeka'&gt; maq ra ék'l, cuando xye' taq cuent, man &lt;xit&gt; xye' cuenta man chchu' re que xtaw maq ra ék'l, t'ij que ¿nimo ran taq re xtaw taq? por eso</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE> entos cabal xpe maq ra ánm, xij taq re jpapá lo que man chchu' raj xan taq re, xpe jpapá entonces xpe rtzal re man chchu' y &lt;sst&gt; y  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE> xij re quem, quem, que t'e ri chirchooch, quem tran re preferir maq ra&lt;rik'l&gt; ralb'iin. Entoces ri' rit &lt;tz&gt; ri' ri xinyol chawechaq, k'omo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="L.V.M" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>Buena tarde, hoy relato sobre un hombre que se comío el corazón de su madre, eso me relató mi madre, dice que había un hombre</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> quien a su papá se lo llevaban, como su papá quería llevarselo a traer leña y él no quería, entonces venía la mamá y le decía a su papá: -dejalo ahí, él no quiere ir-</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> entonces siempre su mamá se metía, entonces no se iba el hombre, entonces el hombre nunca supo hacer leña, bueno en eso murió su papá,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> sufrió un accidente y murió, entonces tuvo que ser la mamá quien se quedó para hacer leña y entonces  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> cada vez que quería llevarse al hombre, el hombre que no quería irse, porque le dijo: -siempre que mi papá me llevaba, no querías- </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> y el hombre nada que se iba, va un día pudo llevarselo, se fue el hombre con ella, pero como el hombre no quería hacer leña mató a su mamá, la mató, le sacó el corazón, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE> cortó un gran agujero y dejó sepultada a su mamá ahí, habiendo sepultado a su mamá, hizo unos dos leños para que no se dieran cuenta de él y guardó su corazón;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE> ya después bajó, ya tarde bajó, entonces llegó a su casa, le dijo a su hermana: -asa esto- le dijo y su hermana le preguntó ¿que es eso? le dijo, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE> eeh carne le dijo, entonces la mujer y después la mujer le preguntó que . . . su hermana le preguntó que ¿dónde estaba su mamá? él le dijo ya ahorita baja, viene de tras de mi le dijo,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE> entonces la mujer estaba va de esperar que bajara su mamá para asar la carne y veía que nada que bajaba su mamá, le preguntó a su hermano que ¿dónde estaba su mamá?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE> él dijo que ya iba a bajar, bueno pasó la hora y nada de nada, fue a preguntarle otra vez y dijo que ya iba a bajar, vino la mujer empezó a arreglar la carne que supuestamente decía el hombre, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE> cuando le metió el cuchillo, vino el . . . gritó, entonces dijo como era el corazón de su mamá dijo; -no me mates, no me hagas daño hija, yo soy tu mamá- le dijo,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE> entonces la mujer se asustó, le preguntó a su hermano que ¿qué era eso? vino el hombre le dijo que mató a su mamá, vino esa mujer que escuchó eso,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE> llamó a las autoridades en contra de su hermano, llegaron a traerlo, se lo llevaron a la carcel y primero lo azotaron, lo caminaron en la calle, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE> se hizo, lo azotaron, después fue a la carcel. Por eso es bueno que respetemos a nuestros padres para que no hagamos así como el hombre que se comió el corazón de su mamá.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE> También voy a relatar de una mujer que no quería a sus hijos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE> entonces esa mujer, estaban unos nuñitos, que se murieron, que se les murió su mamá y entonces vino el papá se casó con otra mujer,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE> y los niñitos estaban ahí y vino la mujer como no les gustaba, entonces vino un día pensó: -me tengo que llevar a esos niños, los voy a ir a perder haber a donde, decía, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>  se llevó a los niños, los peinó, se fueron a un gran bosque, llegaron ahí y vinieron los niños sabían, escucharon que quería perderlos, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE> entonces se llevaron maíz, entonces como iban detras de la señora , los niños dejaban tirado maíz en el camino para que no se perdieran, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE> vino la señora les dijo a ellos al llegar ahí, dijo: -espérenme aquí ya ahorita vengo solo voy a  ir a buscar algunos arbustos, les dijo, se quedaron los niños ahí, se sentaron, vieron que era tarde y nada que llegaba la señora,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE> la señora nada que llegaba, se quedaron ahí, esperandola, cuando de repente vino pues la señora se regresó a su casa diciendo: -hay ahora si ya pude perder a esos niños-</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE> y ya vinieron los niños se dieron cuenta que ya iba a anochecer, se regresaron, como dejaron tirado maíz en el camino y dejaron tirado maíz,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE> cuando llegaron los niños a la casa, ellos va de comer sus tortillas y como esa mujer no les daba de comer a los niños, como no quería a los niños, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE> entonces llegaron los niños, cuando se dieron cuenta, se dió cuenta la señora de que llegaron los niños, dijo ¿ cómo le hicieron para haber llegado? por eso</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE> entonces cabal vinieron las mujeres, le dijeron a su papá lo que la señora había querido hacerles, vino el papá entonces se enojó con la señora y  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE> le dijo que se fuera a su casa, que prefería a sus hijas, Entonces esto fue lo que les relaté a ustedes, gracias.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="L.V.M" TIER_ID="Descripción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE> En la cultura maya existe una regla de corrección para las personas que infringen la ley, lo cual consiste en ser azotados y exhibidos ante la población, previo a enfrentar a la justicia. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE> Ralk'uwal es un término Uspanteko que significa su hijo, tanto de la mujer como del hombre, por lo que ambos pueden utilizar dicho término para referirse a sus hijos.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE> Xk'am, es un término muy utilizado en el Uspanteko, para referirse a que una persona tomó como esposo o esposa a otra.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

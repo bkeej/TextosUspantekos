@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-02T12:55:37-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Relato personal M.D..mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Relato personal M.D..mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:95c09990-11ef-4d59-97c5-73f3c4c1ebe4</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">100</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="6000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="17100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="17600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="30270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="30800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="42010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="42680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="53500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="54400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="65510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="66610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="79540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="80010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="90510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="91510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="103990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="104700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="116000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="116615"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="125595"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="126780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="135990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="136500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="146900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="147190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="157120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="157210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="169000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="169480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="180200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="180490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="191090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="191590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="203410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="204020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="215350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="216480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="227310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="227990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="238720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="239500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="250710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="250920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="261750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="261800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="271000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="271600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="282400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="282680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="296910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="297220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="306400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="306700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="318210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="318480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="332000"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="M.D" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> Saqari'n wxtub'-wech'elxiik tanya' jun rtziil áwchaq lajb'iij qajawal Dios, tzi qáwch xojsaqarsánik, ta' nen xqata'w, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> qaq'axaj chi jun aq'ab', k'mo re nimlaj Dios, tanya' jun rtziil áwchaq, k'omo; qab'i b'i kiib'-uxiib' qatziijl re qaswaan, re qatilmit. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> Ojer taq tziij cuad xinaq'ánch iin niri, we'in ini', &lt;wi'wi',w&gt;wi' wchooch chi calvario rk'i inqaaj-inchuuch rk'i Matías Méndez, rki' Juana Damián,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> kla' wójw ooj chi calvario, kla' wi' rchooch inchuuch-inqaaj y &lt;ximp&gt;xink'b'ik'amsajoch jwi'l jun tzik' pobre persona wájw wchijil xinjb'ijme'ch,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> xqab'an qacasamiento, xnori' xinb'an conocer Jacubí xinaq'ánchVR, cuando xinyu' iin niri loq'laj b'ee jun q'aab' b'ee qe, ta' carretera, kita' nada, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> peroooo usiil k'is qixtub'-qch'elxiik xu' lajb'aa'aq xwanaqersaj taq jun escuele, xwanaqrsaj taq lamas tya'sajw clase re k'is ék'lVR,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> ari' li xan taq. Arruk' re' xnimar Jacubí, xansaj jwa'x jb'ee porque Jacubí ri ójr nim laj jaa' iri wi', "man jaa' kub'i'", </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> nimlaj jaa' y ii tb'énikVR, pero como xchaqájkVR ta' chki' jaa', wi' nkali' nen xan y norque ójr taq tziij man jaa' li con gan tapanol re, ójr taq tziij pok juert, pok nim,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> per como wi' jfin, juntiir xk'ískVR, keta' chki'n, b'ay k'omo re chawechaq &lt;oj&gt;aj'ab'an taq tomar, tqab'an, qab'ij kiib'-uxub' qatziij re qaswaan-qatilmit. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> Ójr taq tziij ri cuand xink'íychin, mercad li ójr taq tziij k'ii mejb'a, ri' wi' mercado l conventa,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> k'ii mejb'a qacocin li ójr, ooj ajcocin ooj li ójr, &lt;aj&gt; iin nuuch' na, wi' chaq qacocina re rk'i intiit' Matea Cabrera,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> y &lt;k&gt;xwila' li xeelch mercado lo conventVR, ari' sacerdote padre Gerardo xesánch man mercado li le conventVR, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> xq'axajchl la' man aak' mercado lojori. Ri li qaswaan-qatilmit qaya' cuent re nemod &lt;xch&gt;xanch qatilmit ójr taq tziij, arri' li, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> y xinyu' chki' neri chik, xinwila'n también nemonaq xansaj jwa'x b'ee, nemo xansaj jwa'x carretere, carretere ri tb'e Chejam, keta' carretere re, jun ra q'aab' b'ee qe b'esálikVR,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> pero &lt;yuj&gt;siil xb'it rib qéjel qatzáqte', xan taq jwa'x man carretera tb'e Chejam, xnimarkVR, xan taq jwa'x jun b'ee lamas taq'an jb'aaq loom B'aa Kub'i'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> también xnimarkVR, per arri' k'u li rajox que tqaya' cuent re juntiir, lo que nemod xan&lt;sus&gt; suceder laj &lt;qa&gt;laj qacomunidad,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> arri' li xan, b'ay we'in gracias a Dios durante los ochenta siete años injúnb' lojori, &lt;xi&gt; ajwichVR win tjiin tab'an innegocio, xinmájch innegocio a los  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> diecisiete, dieciocho añ xinmaj innegocio y ajwi ni xil lajori; k'omo re nimlaj Dios porque ri' re li ya'onaq qachoq'aab' wxtub'-wech'elxiik tawetamaj taq.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> Ari' li qab'anik laj neri laj qaswaan, laj qatilmit, ra qalugar lamas wójw, b'ay k'omo chawechaq ojb'ansaj tomar en cuenta, ooj tiqatyoxij</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> laj q'aab' qijl qatzaq, qextub'-qech'elxiik, ari' li qab'an qanegocio xink'ut chuch k'is inrab'iin, k'is walk'uwal, xinchap taq porque ta' chwaj . . .   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> ¿nen tach'ekb'ej avidaq algún día? xinche' rechaq cuand xk'iy taqch wk'lal, joob' taq chi ánmVR y kiib' &lt;w&gt;, kiib' wk'lal wunaq lunica y juntiir wk'lal </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> &lt;siete&gt; siete rb'ilaq maq ánmaq juntiir ¿nen tank'ut chuchaq? ¡mo que tkan ink'ute' mta' tzi chuchaq! ¡mo tkan ink'ute' alaq' chuchaq! ¡nooo! xink'ut jnegoci'aq,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> xink'ut jb'anik, ch'ekik jvidaq, ch'ek, tch'ek ski' jvidaq, xink'ut jb'anik jnegoci'aq chuchaq, ¿jrub' junab' k'mol panadería inwi'l lojori?    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE> lo menos que,que taqal jun cuarenta y cinco o cuarenta y siete años win xij innegocio re panadería lojori y ajwichVR win xilj jowjari, ari' tkan'eeloq cuand inb'ek,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE> ijk'am b'i qaqaaj Dios, arruk' re' tkan'eel man negocio li.  B'ay k'omo chawechaq &lt;oja&gt; oj'ab'an taq tomar en cuenta, tanb'ij la verdad lo que nemo naq xink'ut chuch k'is inrab'iin, ink'ajol xk'iy taq,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE> lojori gracias a Dios juntiirVR, juntiir xmaj taq chaak, a la' chalónik inchaakin jilon xmaj taq rechaq también y k'omo </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE> porque nen xya'w &lt;jsowr&gt; tra jpensaraq li laj b'aa'aq xmaj chaakaq qaqaaj Dios, porque re juntiir tjya' laj qapensar, jik'uno li wxtub'-wech'elxiik xaq li kiib'-uxub' ra lintziij	   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE> tanb'ij chawechaq, k'omo oj'ab'an taq tomar en cuenta, arite Dios tya'w achoq'aab'aq y ret Dios ojchajin ák'laq, el únicamente xaq li kiib'-uxub' intziij tanb'ij chawechaq. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="M.D" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Buenos días paisanos-familiares les doy un cordial saludo en nombre de nuestro Dios, que amanecimos bien, que no nos pasó nada,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE> que pasamos otra noche, gracias al gran Dios, les doy un cordial saludo, gracias; vamos a decir unas nuestras palabras de nuestro lugar, de nuestro pueblo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> Antes cuando yo subí aquí, yo era, estaba mi casa por el calvario con mis padres con Matías Méndez, con Juana Damián,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> ahí estábamos nosotros en el calvario, ahí estaba la casa de mis padres y me fueron a traer por una humilde pobre persona, mi dueño, mi esposo que me fue a traer,     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> hicimos nuestro casamiento, fue así que conocí Jacubí subí, cuando vine yo aquí el camino solo era una vereda, no había carretera, no había nada, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> pero poco a poco los humildes paisamos y familiares se les ocurrió construir una escuela, construir donde se les pudiera dar clases a los pobres niños,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> eso fue lo que hicieron. Después creció Jacubí, arreglaron su carretera porque en Jacubí antes había un gran río, "el río de Jacubí" </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> gran río y caminaba, pero como se secó ya no había agua, mas de algo se hizo y porque antes ese río con ganas se agitaba, antes era muy fuerte, era muy grande,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE> pero como tiene su fin, se terminó, ya no hay, bueno gracias a ustedes que nos toman en cuenta para decir nuestras palabras sobre nuestro pueblo.    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> Antes cuando yo crecí, ese mercado antes había mucha pobreza, había mercado solo en el convento,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE> mucha pobreza en nuestras cocinas antes, nosotras eramos cocineras antes, yo aún era pequeña, per ya teníamos nuestra cocina con mi abuela Matea Cabrera,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE> y ví salir el mercado del convento, fue el sacerdote padre Gerardo quien sacó ese mercado del convento,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE> lo pasó al nuevo mercado de ahora. De eso pueblo en general nos damos cuenta de cómo hizo nuestro pueblo antes, eso es,     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE> y vine yo aquí, ví también como arreglaron la carretera, como arreglaron la carretera, esa carretera es la que va a Chejam, no había carretera, solo una vereda es la que iba,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE> pero poco a poco se levantaron los albañiles, arreglaron la carretera que va para Chijam, creció, arreglaron un camino donde sube sobre el cerro de Jacubí</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE> que también se amplió, pero es eso lo necesario de que nos demos cuenta de todo, de como suciedió en nuestra comunidad,     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE> eso hizo, bueno yo gracias a Dios durante mis ochenta siete años de edad ahora, aún estoy haciendo mi negocio, empecé mi negocio a los</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE> diecisiete, dieciocho años empecé mi negocio y aún estoy dentro ahora; gracias al gran Dios porque es él quien ha dado nuestras fuerzas paisanos-famliares para que lo sepan. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE> Así estamos aquí en nuestro caserío, en nuestro pueblo, nuestro lugar donde estamos, bueno gracias a ustedes que nos toman en cuenta, nosotros lo agradecemos</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE> en manos de nuestros colegas, paisanos-familiares, eso hacemos en nuestro negocio les enseñé a mis hijas, a mis hijos, los agarré por no quiero . . .    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE> ¿de qué se van a ganar la vida algún día? les dije a ellos cuando crecieron mis hijos, cinco son mujeres y 2 hijos hombres los únicos y todos mis hijos</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE> son siete todas las mujeres ¿qué les voy a enseñar? ¡ni modo que les deje enseñado lo que no es bueno! ¡ni modo que les deje enseñado el robo! ¡nooo! les enseñé sus negocios,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE> les enseñé hacer, a ganarse sus vidas, gana, se ganan sus vidas, les enseñe a hacer sus negocios ¿cuántos años llevo en la panadería ahora?  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE> lo menos que llevo son unos cuarenta y cienco o cuarenta y siete años que estoy en mi negocio de panadería ahora y aún estoy dentro ahora, ahí se va a quedar cuando me vaya,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE> cuando me lleve nuestro padre Dios, después se quedará ese negocio. Bueno gracias a ustedes que nos toman en cuenta, digo la verdad lo que como le enseñé a mi humilde hija, mis hijos que crecieron, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE> ahora gracias a Dios todos, todos empezaron a trabajar, así como mi trabajo así empezaron ellos también y gracias </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE> porque quien les dió sus pensamientos en sus cabezas para que empezaran sus trabajos fue nuestro padre Dios, porque él todo da en nuestros pensamientos, es así paisamos-familiares son esas unas mis cuantas palabras </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE> que les digo a ustedes, gracias por tomarnos en cuenta, que sea Dios quien les de fuerzas y que sea Dios quien nos cuide con ustedes, es únicamente unas mis cuantas palabras que les digo a ustedes.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="M.D" TIER_ID="Descripción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE> Calvario lugar de tradición de la fé católica, en la que se representa la pasión de Jesucristo, específicamente la crusificción de Jesús, por ende se encuentran cruces establecidas frente al templo. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> Wájw dice una mujer cuando existe un hombre que la pretende, el término es prágmatico, ya que semánticamente el término en español significa "mi dueño", pero suena despectivo, pero en Uspanteko, dicha palabra tienen su contexto de uso. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE> Jaa' Kub'i' es el topónimo uspanteko del Caserío Jacubí, que significa "agua en las alturas" ya que el Caserío se ubica en la parte de arriba del Municipio. Aunque también algunos mencionan como topónimo de este lugar "B'aa Kub'i'" que significa sobre el pueblo, siempre por la ubicación del lugar.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE> Según los ancianos el mercado de Uspantán se establecía dentro del convento de la parroquía del municipio, pero luego de un tiempo fue trasladado a otro lugar. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE> Chij am/ topónimo uspanteko de la aldea Chijam, que queda al Noroeste de la Cabecera Municipal de Uspantán, para acceder a dicha aldea se debe de pasar por Jacubí.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE> Qaswaan es un término que prágmaticamente quiere decir "nuestro lugar para vivir", pero semánticamente significa nuestro barranco. El significado sería depende del contexto de uso.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE> Rab'iin significa hija dicho por el hombre. Wik'lal significa hijos dicho por la mujer. Ambos pueden decir walk'uwal para referisre a sus hijos o hijas. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE> Ink'ajol significa mi hijo dicho por el hombre. Inrab'iin mi hija dicho también por el homre. En este caso la hablante uspanteka hizo referencia a los términos utilizados por hombres. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

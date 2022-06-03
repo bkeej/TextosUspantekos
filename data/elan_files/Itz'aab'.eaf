@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-06-01T13:08:11-07:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/rhenderson/Dropbox/Uspanteko_NSF_project/LingView/data/media_files/Itz'aab'.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../media_files/Itz'aab'.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:7a77ba81-5001-42c9-9493-6eb61b8e3421</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">83</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="15710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="16190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="27280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="27780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="37500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="38010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="46780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="47190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="61700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="62100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="75190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="76100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="85500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="85990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="98210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="99090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="110500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="111400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="123100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="123580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="135000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="135580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="146000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="146190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="159500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="160590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="172000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="172480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="185990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="186510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="200510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="200800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="211800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="212970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="223000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="223380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="234200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="234570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="244290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="244690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="256240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="256495"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="269295"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="269490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="277790"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="T.A.M.L" TIER_ID="Transcripción">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> K'amtzawchaq, lajori chwaj tinyol chawechaq, nen chkl' xtaw laj ínb' miir petzalkoj rk'il wíxoql jinon ra ink'ajol, xqila' wi' taq ra kiib' ék'l tjiin ti'itz'aan taq wiich taq rk'il jun barrilete.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE> Tkuxtaj inwi'l neri B'a Kub'i' rk'il jun puq' ék'l jinon yaq' inq'uun, trayaj qánm oj-'itz'aan rk'il taq ra itz'aab' li, kita' qapuwaq tqaloq' qe li k'áyb'l    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> ¿nen chki' tqab'an? ojb'i b'a loom, tb'iqatoke' tra b'olaj k'iim jinon tqatok maq bolsas de nylo che' taq re l kaxlan, tqachap rk'il jun </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> tixer tqak'ur, tqab'an jun setsik re, tqachap taq ra b'olaj k'iim, tqapaj, tqasutaj, tqasutaj pajník'j,    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE> rk'il b'aatz, jinon &lt;traw&gt;tran kow, jilon kita' tq'ipmaj, tqaye' chib' man nylo li, tqab'us man nylo, tqaq'osaj, tqaq'osaj rk'il ab'aj, qus jq'osik tqab'an, ri' tqil tjnek'a rib', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> jlon tqakoj jjee', tqakoj jxiik', qus chaq, oj-'eelch, ojjolin b'a, &lt;oja&gt;ojjolin wiich táq'j ri' tqil tjaw b'i taq ra barrilete li, tb'i taq li lékj, wi' ni'j tsach taq b'i li suutz', </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> chqáwch ooj jun itz'aab' qe, chíwch qamaam-qatiit' wi' jcholaj, tjb'ij taq rechaq: ra itz'aab' li, ri' tkojsaj re tya'saj jb'ij</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE> re qleen re kristyan nen xkam taq, jwi'l k'u ri kristyan nen ajwiich na yo'l taq chíwch uleew</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> raj tjtaq taq b'i &lt;j&gt; jun qleen re jkamnaqaq, ri' taq ra itz'aab' ri tkojsaj, chqáwch ooj jun itz'aab' qe, chíwch qamaam-qatiit' wi' jcholaj. Tkuxtaj inwi'l  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE> tqaxim b'i jun qleen re jb'atz'il ra barrilete ri, ri' tqil tjaw b'i rk'i man barrilete, ri' jcholaj chíwch qamaam-qatiit', chqáwch ooj jun itz'aab' qe,  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> tkuxtaj inwi'l taq ra itz'aab' ri looq' tb'ansaj rk'il wuuj, ooj kita' qapuwaq tqaloq' &lt;qe&gt; tqaloq' qawuuj, ojpe ooj tqachap maq  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> jxaaq maq prensa tb'ijsaj re, tqak'ur rk'il jun tixer, tqab'an jun setsik re y &lt;tqa&gt; chqaj tqab'an qe ooj, man wuuj kita' tjnek'a rib'  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> rk'il, tq'osaj rk'il ab'aj ¿nen chki' tqakoj? tkuxtaj inwi'l chijk'ulel rchooch intiit', wi' jun chee', lamas wi' taq ra jwiich', tqachap taq ra jwiich chee' li tqasol, tqasol rk'il ra'l  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> nek'ek', tnek'ek' tqatz'aj rij maq wuuj y ri' tqil tjnek'a rib',  &lt;jwi'l&gt; jwi'l &lt;man&gt; man jwiich chee' li ojkwini' tqab'an qechi' ooj rk'il wuuj, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> seb'laj ojki'kot ojkwini' chijb'anik. Lajori yaq ék'l kita' chki' retamaq nemo jb'anik taq ra itz'aab' li, lajori yaq ek'l kita' chki' ti'itz'aan taq rik'ilaq, we &lt;tj&gt;ti'itz'aan taq xaqe tb'iloq'e' rechaq li k'áyb'l, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>  b'esel q'iij tkan t'oje' taq kla' ¿nen chak jlon trran taq? jwi'l kita' jk'axk'oliil xtij taq chijb'anik, ójr tqej q'iij tqab'us&lt;j&gt; ra barrilete li, tkan qaye' ralaj qach'aat, kita' chqaj tb'ansaj k'ax re, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE> k'ex, k'ex laj qánm ri' tqil jwi'l jchóq'b' teew t'uqmaj b'i ra qabarrilete ¡tb'in! ojjolin rij, chqaj tb'iqame', ri' tqil tkan eel b'a chee', k'ax laj qánm  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> ojq'ajch ¿nen chki' tqab'an? oj-'ookch chijb'anik jun qe chik, lajori yaq ék'l kita' chki' ti'itz'aan taq rk'il taq ra barrielete, jlan chki' tran taq rechaq,   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE> jwil k'u ri tjiin tnyol, jwi'l woj chaq li chíwch lajuuj iik' re júnab', ri' &lt;jun&gt;ri iik' lamas ti'itz'aan taq taq ra ék'l jwi'l  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> eeeh &lt;j&gt;reytz'aab' li wi' jcholaj chíwch qamaam-qatiit'. Jwi'l k'u re' iin rk'il ra ink'ajol tink'ut chíwch nemo jb'anik taq ra barrilete ri, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE> ¿nen chak? jwi'l &lt;r&gt;ri' chwaj iin re re tk'iy, jilon tran re jk'ajol, tjk'ut chíwchaq, jilon kita' tsach jcholaj taq ra itz'aab' li y &lt;t&gt;tirejtramaj taq </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> eeeh nemo jb'anik, ri' li rajwaxk ooj aj mayab' kristyan, &lt;j&gt;ri' li rajwaxk ooj aj Tzunun Kaab', tqayol nen chki' jcholaj taq ra itz'aab' ri, chopka' tinb'ij chqáwch ooj ék'l  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> xaqe jun itz'aab', chíwch qamaam-qatiit' wi' jcholaj. Ri' li chwaj tinyol chawechaq, k'am taq jun rtziil áwchaq y k'mo chintatb'éjk. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="T.A.M.L" TIER_ID="Traducción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Buena noche, hoy quiero contarles a ustedes, qué fue lo que llegó a mi mente hace ratos cuando veníamos con mi esposa e hijito; vimos que habían dos niñitos que estaban jugando en el campo con un barrilete.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE> Recuerdo que aquí en Jacubí con un grupo de niños y mis hermanos, deseábamos jugar con esos juguetes, pero no teníamos dinero para comprarnolos en la tienda,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> ¿que era lo que hacíamos? nos íbamos sobre el cerro, íbamos a buscar chumes, también buscábamos bolsas de nylon a como se les dic en español, los agarrábamos con una  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> tijera lo cortábamos, le hacíamos un círculo, agarrábamos los chumes. los medíamos, lo enrrollábamos, enrrollábamos por la mitad, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE> con hilo, para que se pusiera duro, para que no se quebrara, lo poníamos sobre ese nylon, doblábamos el nylon, lo martillábamos, lo martillábamos con una piedra, bien martillado lo dejábamos, cuando veíamos se pegaba, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE> asimismo, le poníamos cola, le poníamos alas, ya listos, salíamos, corríamos en el campo de repente veíamos que se elevaban esos barriletes, se iban al cielo, algunos se perdían en las nubes,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE> para nosotros solo era un juguete, para nuestros abuelos tenía un sentido, decían ellos: ese juguete, es el que se usa para dar a conocer </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE> cosas a las personas que ya murieron, es por eso que las personas que aún están vivas en la faz de la tierra</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE> que querían enviar un mensaje a sus difuntos, eran esos juguetes los que se utilizaban, para nosotros solo era un juguete, pero para nuestros abuelos tenía un sentido. Recuerdo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE> que le amarrábamos una cosa al hilo del barrilete, cuando veíamos se elevaba con el barrilete, ese era el sentido para nuestros abuelos, para nosotros solo era un juguete, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE> recuerdo que estos juguetes se podían hacer con papel china, pero nosotros no teníamos dinero para comprar nuestro papel china, veníamos nosotros y agarrábamos las</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE> hojas de la prensa a como se le decía, lo cortábamos con una tijera, le hacíamos un círculo y queríamos hacer los nuestros, pero el papel no se pegaba</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE> con, al martillarlo con piedra ¿qué utilizábamos? recuerdo que a la par de la casa de mi abuela, había un árbol, que tenía sus frutos, agarrábamos los frutos de ese árbol, lo pelábamos, lo pelábamos y con su jugo </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE> pegajoso, pegajoso lo enbarrábamos sobre el papel y cuando veíamos se pegaba, por ese fruto de árbol podíamos hacer los nuestros con papel, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE> nos sentíamos muy felices al poder hacerlos. Ahora los niños ya no saben como hacer esos juguetes, ahora los niños ya no juegan con ellos, sí los juegan ya solo van a comprar los suyos a la tienda, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE> en la tarde lo dejan tirado por ahí ¿por qué hacen eso? por que no sufrieron al hacerlo, antes al atardecer doblábamos ese barrilete, lo dejábamos debajo de nuestra cama, no queríamos que lo arruinaran,   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE> nos dolía en el corazón cuando veíamos que por la fuerza del viento se reventaba nuestro barrilete ¡se iba! corríamos detrás, queríamos ir a traerlo, cuando veíamos se quedaba sobre los árboles, nos dolía en el corazón,    </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE> nos regresábamos ¿qué hacíamos? empezábamos a hacernos otro, ahora los niños ya no juegan con los barriletes, otras cosas hacen ellos,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE> lo estoy contando, porque ya estamos en el décimo mes del año, es el mes donde los niños juegan porque  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE> eh esos juguetes tienen un sentido para nuestros abuelos. Por eso, yo a mi hijito le enseño como se hacen esos barriletes,  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE> ¿por qué? porque quiero que él crezca y que haga lo mismo con su hijo, que les enseñe, para que no se desaparezca el sentido de estos juguetes y que aprendan  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE> eh a como hacerlos, eso es lo necesario para nosotros las personas mayas, eso es lo necesario para nosotros los uspantekos, que relatemos cuál es el sentido de estos juguetes así como lo dije para nosotros como niños  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE> solo era un juguete, pero para nuestros abuelos tenía un sentido. Eso quiero contarles, reciban un cordial saludo y gracias por escucharme. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Tomás Alberto Méndez López" LINGUISTIC_TYPE_REF="annotation" PARENT_REF="Transcripción" PARTICIPANT="T.A.M.L" TIER_ID="Descripción">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE> Barrilete se le llama a un juguete volador hecho de papel, quizás más conocido como cometa, el cual es muy tradicional en Guatemala en los meses de octubre y noviembre, que tiene una historia y significado para nuestros ancestros. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE> Conocemos en Uspantán como chumes una especie de varita o llano, que es grueso pero liviano, que se utiliza para la armadura del barrilete, para luego forrarlo con papel. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE> En la cultura maya se tiene la creencia que los barriletes son el medio de comunicación entre vivos y muertos, es por ello que los barriletes los hacen multicolores y se vuelan en el mes de octubre, según la creencia maya es cuando las almas de los difuntos visitan a sus familiares en la tierra.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE> Al volar un barrielete se acostumbraba amarrar un objeto o mensaje al hilo, y que con la fuerza del viento se elevará lo más alto, para luego reventarle el hilo al barrilete para que se fuese lo más lejos posible, sumulando enviar un mensaje a los difuntos.     </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE> El material con el que se acostumbra realizar los barriletes es el papel china, por sus variedades de colores y su delgada textura, que era indispensable para elevarse, lo malo era su fragilidad. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE> Actualmente, ya son pocos los niños que elaboran sus propios barriletes, quizás en el área rural, es donde los niños aún hacen sus barriletes, en área urbana ya solo los compran, habiendo un gra número de niños a los que no les llama la atención volarlos, mucho menos hacerlos.   </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE> Octubre, es el mes en el cual se acostumbra como tradición jugar con barriletes, como antesala al día de los difuntos.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="annotation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
