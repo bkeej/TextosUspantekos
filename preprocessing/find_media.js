@@ -1,3 +1,5 @@
+// REMOTE_MEDIA_PATH = 'https://uspantekotexts.s3.amazonaws.com/'
+
 const fs = require('fs');
 
 const syncUrlExists = require('sync-rpc')(require.resolve('./url_exists'));
