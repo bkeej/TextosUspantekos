@@ -9,7 +9,7 @@ body {
 /* nav bar styles */
 #navbar {
     min-height: 48px;
-    background-color: rgb(217, 9, 15);
+    background-color: rgb(196, 18, 18);
     padding: 0 40px; /* same as page content */
     display: flex;
     align-items: center;
@@ -75,7 +75,7 @@ footer {
     left: 0;
     right: 0;
     height: 40px;
-    background-color: rgb(111,76,77);
+    background-color: rgb(196, 18, 18);
     color: white;
     display: flex;
     align-items: center;
