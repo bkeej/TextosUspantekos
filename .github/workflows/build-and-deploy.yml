@@ -33,14 +33,11 @@ jobs:
         REMOTE_MEDIA_PATH: https://uspantekotexts.s3.amazonaws.com/
 
     - name: Deploy online version to GitHub Pages
-      run: actions/deploy-pages@v1
-
-    # - name: Deploy online version to GitHub Pages
-    #   uses: JamesIves/github-pages-deploy-action@releases/v3
-    #   with:
-    #     ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-    #     BRANCH: gh-pages # The branch the action should deploy to.
-    #     FOLDER: bundle # The folder the action should deploy.
+      uses: JamesIves/github-pages-deploy-action@releases/v3
+      with:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        BRANCH: gh-pages # The branch the action should deploy to.
+        FOLDER: bundle # The folder the action should deploy.
 
   build-and-save-offline:
     runs-on: ubuntu-latest
