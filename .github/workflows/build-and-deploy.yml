@@ -32,8 +32,8 @@ jobs:
         CI: true
         REMOTE_MEDIA_PATH: https://uspantekotexts.s3.amazonaws.com/
 
-      - name: Deploy online version to GitHub Pages
-        run: actions/deploy-pages@v1
+    - name: Deploy online version to GitHub Pages
+      run: actions/deploy-pages@v1
 
     # - name: Deploy online version to GitHub Pages
     #   uses: JamesIves/github-pages-deploy-action@releases/v3
