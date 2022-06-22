@@ -83,7 +83,7 @@
     </prefGroup>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="TimeScaleBeginTime">
-        <Long>1500</Long>
+        <Long>231340</Long>
     </pref>
     <pref key="MediaTime">
         <Long>8349</Long>
