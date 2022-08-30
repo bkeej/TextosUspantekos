@@ -5,7 +5,7 @@ import { TranslatableText } from './locale/TranslatableText.jsx'
 const landingPageJSX = {
   [ENGLISH]:
     <div>
-      <p>Welcome! This is a collection of 54 Uspanteko texts collected over the years 2019-2021 as part of a National Science Foundation funded grant (BCS/DEL-1551043/1551666), and with the generous support of the Comunidad Lingüística Uspanteka. The team that produced this corpus consisted of Ryan Bennett, Megan Harvey, Robert Henderson, and Tomás Méndez López. We hope that these texts will aide any and all who love the Uspanteko langauge.</p>
+      <p>Welcome! This is a collection of 54 Uspanteko texts collected over the years 2019-2021 as part of a National Science Foundation funded grant (BCS/DEL-1551043/1551666), and with the generous support of the Comunidad Lingüística Uspanteka. The team that produced this corpus consisted of Ryan Bennett, Megan Harvey, Robert Henderson, and Tomás Méndez López. We hope that these texts will aide any and all who love the Uspanteko language.</p>
       <p>Un recordatorio para aquellos que participaron en este proyecto compartiendo el idioma y sus historias. Si desea que hagamos algún cambio en su grabación o transcripción, incluida la eliminación del sitio, comuníquese con Robert Henderson (University of Arizona) o Ryan Bennett (University of California, Santa Cruz).</p>
     </div>,
   [ESPANOL]:
